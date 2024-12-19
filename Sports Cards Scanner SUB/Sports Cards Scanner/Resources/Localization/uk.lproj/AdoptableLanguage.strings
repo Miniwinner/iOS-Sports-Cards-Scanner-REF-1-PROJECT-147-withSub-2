@@ -1,0 +1,287 @@
+"common_close"="Закрити";
+"common_cancel"="Скасувати";
+"common_done"="Готово";
+"common_reset"="Скинути";
+"common_error"="Щось пішло не так";
+"common_ok"="В порядку";
+
+"splash_loading"="Завантаження";
+
+"signIn_title"="Увійти";
+"signIn_email_title"="Електронна пошта";
+"signIn_email_placeholder"="Введіть адресу електронної пошти";
+"signIn_password_title"="Введіть пароль";
+"signIn_password_placeholder"="Введіть пароль";
+"signIn_password_forgot"="Забули пароль?";
+"signIn_action_signIn"="Увійти";
+"signIn_action_signUp"="Зареєструватися";
+"signIn_signInWith"="Увійти за допомогою";
+"signIn_noAccount"="Немає облікового запису?";
+"signIn_action_signUp"="Зареєструватися";
+"signIn_error_invalidEmail"="Будь ласка, введіть дійсну адресу електронної пошти";
+"signIn_error_userNotFound"="Введіть дійсну адресу електронної пошти та пароль";
+"signIn_error_wrongPassword"="Будь ласка, введіть правильний пароль";
+"signIn_welcome"="З поверненням!";
+"signIn_ask"="Будь ласка, введіть свої дані для входу";
+"signInLogInWith"="Увійти за допомогою.";
+
+"signUp_title"="Зареєструватися";
+"signUp_email_title"="Адреса електронної пошти";
+"signUp_email_placeholder"="Введіть адресу вашої електронної пошти";
+"signUp_password_title"="Пароль";
+"signUp_password_placeholder"="Введіть ваш пароль";
+"signUp_password_requirements"="Паролі мають містити щонайменше 8 символів і містити принаймні одну велику літеру (A-Z), одну малу літеру (a-z), одну цифру (0-9) і один спеціальний символ (наприклад, ! % @ або #).";
+"signUp_confirmPassword_title"="Підтвердження паролю";
+"signUp_confirmPassword_placeholder"="Введіть підтвердження пароля";
+"signUp_action_signUp"="Зареєструватися";
+"signUp_action_signIn"="Увійти";
+"signUp_signInWith"="Увійти за допомогою";
+"signUp_haveAccount"="Вже є аккаунт?";
+"signUp_error_invalidEmail"="Будь ласка, введіть дійсну адресу електронної пошти";
+"signUp_error_existUser"="Обліковий запис із цією електронною адресою вже існує";
+"signUp_error_noPasswordRequirements"="Пароль має відповідати вимогам до пароля";
+"signUp_error_passwordsMismatch"="Паролі мають збігатися";
+
+"dashboard_title"="Панель приладів";
+"dashboard_welcome_title"="Зробіть крок у майбутнє колекціонування карток";
+"dashboard_welcome_description"="Відскануйте картку, щоб розширити свою колекцію";
+"dashboard_scanInstructions"="Торкніться, щоб розпочати сканування картки.";
+"dashboard_currentValue"="Поточне значення";
+"dashboard_highestValue"="Найвища цінність";
+"dashboard_recentlyAdded"="Нещодавно додані";
+"dashboard_action_scanCard"="Сканувати картку";
+
+"portfolio_title"="Портфоліо";
+"portfolio_scanInstructions"="Торкніться, щоб відкрити сканер і свою першу картку";
+"portfolio_collection_create"="Створити колекцію";
+"portfolio_deck_create"="Створити колоду";
+"portfolio_deck_description"="Коледна колода карткової гри";
+"portfolio_collection_description"="Спеціальна колекція";
+"portfolio_cards"="картки";
+"portfolio_oneCard"="1 картка";
+"portfolio_numberOfCards"="%d карток";
+"portfolio_allCards"="Всі карти";
+"portfolio_estimatedValue"="Загальна оціночна вартість";
+"portfolio_scanToAdd"="Відскануйте картку, щоб додати її до своєї колекції";
+
+"more_title"="більше";
+"more_item_cardCategories"="Категорії карток";
+"more_item_updatePassword"="Оновити пароль";
+"more_item_privacyPolicy"="Політика конфіденційності";
+"more_item_termsAndConditions"="Умови використання";
+"more_item_pushNotifications"="Увімкнути Push-сповіщення";
+"more_item_logout"="Вийти";
+"more_item_deleteAccount"="Видалити аккаунт";
+
+"cardCategories_title"="Категорії карток";
+"cardCategories_description"="Будь ласка, виберіть типи карток, які ви хочете включити до свого портфоліо та сканера";
+"cardCategories_minEnabledCategories"="Потрібно підтримувати принаймні одну активну категорію.";
+
+"updatePassword_title"="Оновити пароль";
+"updatePassword_newPassword_title"="Створіть новий пароль";
+"updatePassword_newPassword_placeholder"="Введіть новий пароль";
+"updatePassword_confirmNewPassword_title"="Підтвердити новий пароль";
+"updatePassword_confirmNewPassword_placeholder"="Повторно введіть новий пароль";
+"updatePassword_newPassword_requirements"="Паролі мають містити щонайменше 8 символів і містити принаймні одну велику літеру (A-Z), одну малу літеру (a-z), одну цифру (0-9) і один спеціальний символ (наприклад, ! % @ або #).";
+"updatePassword_newPassword_cut1"="8 символів";
+"updatePassword_newPassword_cut2"="одна велика літера";
+"updatePassword_newPassword_cut3"="одна мала літера";
+"updatePassword_newPassword_cut4"="одне число";
+"updatePassword_newPassword_cut5"="один спеціальний символ";
+"updatePassword_action_save"="зберегти";
+"updatePassword_error_noPasswordRequirements"="Пароль має відповідати вимогам до пароля";
+"updatePassword_error_passwordsMismatch"="Паролі мають збігатися";
+"updatePassword_error_needReauthenticate"="Щоб змінити пароль, пройдіть повторну автентифікацію";
+
+"cardCategory_baseball"="Бейсбол";
+"cardCategory_pokemon"="Покемон";
+"cardCategory_basketball"="Баскетбол";
+"cardCategory_football"="футбол";
+"cardCategory_magic"="Магія: Збір";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Хокей";
+"cardCategory_soccer"="футбол";
+
+"forgotPassword_title"="Забули пароль";
+"forgotPassword_description"="Введіть адресу електронної пошти для свого облікового запису, і ми надішлемо вам інструкції щодо зміни пароля";
+"forgotPassword_email_title"="Адреса електронної пошти";
+"forgotPassword_email_placeholder"="Введіть адресу вашої електронної пошти";
+"forgotPassword_action_send"="Надіслати";
+"forgotPassword_error_userNotFound"="Немає користувачів із цією електронною адресою";
+"forgotPassword_error_invalidEmail"="Будь ласка, введіть дійсну адресу електронної пошти";
+
+"resetPassword_title"="Скинути пароль";
+"resetPassword_emailSent"="Інструкції щодо зміни пароля надіслано на електронну адресу: %@";
+
+"scanCard_cardSide_front"="Передня сторона картки";
+"scanCard_noAuthorization_title"="Дозвольте %@ отримати доступ до камери";
+"scanCard_noAuthorization_description"="Це дозволяє сканувати картки";
+"scanCard_action_openSettings"="Відкрийте налаштування";
+"scanCard_gradeType_graded"="Градуйований";
+"scanCard_gradeType_raw"="Сирий";
+
+"prompt_action_cancel"="Скасувати";
+"prompt_title"="Ти впевнений?";
+"prompt_logout_description"="Ви впевнені, що хочете видалити свій обліковий запис?";
+"prompt_logout_confirmAction"="Вийти";
+"prompt_deleteAccount_description"="Видалення колекції не призведе до видалення карток; вони залишаться у вашому портфоліо.";
+"prompt_deleteAccount_keepAction"="Тримайте";
+"prompt_deleteAccount_sure"="Ви впевнені, що хочете видалити свій обліковий запис?";
+"prompt_deleteAccount_confirmAction"="Видалити";
+"prompt_deleteCollection_description"="Видалення колекції не призведе до видалення карток у колекції. Картки залишаться у вашому портфоліо.";
+"prompt_deleteCollection_keepAction"="Тримайте";
+"prompt_deleteCollection_confirmAction"="Видалити";
+"prompt_deleteDeck_description"="Видалення колоди не призведе до видалення карт у колоді. Картки залишаться у вашому портфоліо.";
+"prompt_deleteDeck_keepAction"="Тримайте";
+"prompt_deleteDeck_confirmAction"="Видалити";
+"prompt_removeCard_description"="Ви збираєтеся видалити цю картку зі свого портфоліо. Цю картку потрібно ще раз відсканувати, щоб додати її до вашого портфоліо.";
+"prompt_removeCard_keepAction"="Тримайте";
+"prompt_removeCard_confirmAction"="видалити";
+
+"identifyingCard_title"="Картку %@ захоплено";
+"identifyingCard_processTitle"="Ідентифікаційна картка...";
+"identifyingCard_action_cancel"="Скасувати СКАНУВАННЯ";
+
+"searchCard_title"="Картка пошуку";
+"searchCard_search_placeholder"="Пошук карти";
+"searchCard_error_tryAgain"="Спробуйте знову! Продовжуйте шукати!";
+
+"card_missingImage"="Відсутнє\nзображення";
+
+"cardDetails_action_addCard"="Додати в портфоліо";
+"cardDetails_action_findCard"="Знайти картку";
+"cardDetails_action_editCard"="Редагувати картку та оцінку";
+"cardDetails_action_removeCard"="Видалити з портфоліо";
+
+"pricingReport_setCustomPrice"="Встановити індивідуальну ціну";
+"pricingReport_editCustomPrice"="Редагувати індивідуальну ціну";
+"pricingReport_viewReport"="Переглянути звіт про ціни";
+"pricingReport_valueEstimating"="Очікується оцінка вартості";
+
+"pricingReport_details_priceReport"="Звіт про ціни";
+"pricingReport_details_lastSoldPrice"="Остання продана ціна";
+"pricingReport_details_lastSoldDate"="Дата останнього продажу";
+"pricingReport_details_recentSales"="Останні продажі";
+"pricingReport_details_noSales"="Немає нещодавніх продажів";
+
+"cardDetail_year"="Рік карти";
+"cardDetail_cardNumber"="№ картки";
+"cardDetail_set"="встановити";
+"cardDetail_series"="Серія";
+"cardDetail_parallel"="Паралельний";
+"cardDetail_grade"="Оцінка";
+"cardDetail_ungraded"="Несортований";
+"cardDetail_color"="колір";
+"cardDetail_colors"="Кольори";
+"cardDetail_type"="Тип";
+"cardDetail_manaValue"="Значення мани";
+"cardDetail_power"="потужність";
+"cardDetail_toughness"="Жорсткість";
+"cardDetail_rarity"="Рідкість";
+
+"recentlyAdded_title"="Нещодавно додані картки";
+
+"highestValue_title"="Картки найвищої вартості";
+
+"currentValue_title"="Поточне значення";
+"currentValue_valueByCategory"="Значення за категорією";
+
+"editCard_title"="Редагувати деталі";
+"editCard_parallel"="Паралельний";
+"editCard_grade"="Оцінка";
+"editCard_customPrice"="Встановити індивідуальну ціну";
+"editCard_action_updateDetails"="Деталі оновлення";
+"editCard_valueEstimating"="Очікується оцінка вартості";
+
+"parallelSelection_title"="Паралельний";
+"parallelSelection_search_placeholder"="Пошук";
+"parallelSelection_allOptions"="Усі параметри";
+"parallelSelection_missingSample"="Відсутній зразок";
+"parallelSelection_noResult"="Нічого не знайдено";
+"parallelSelection_action_none"="Жодного";
+
+"gradeSelection_title"="Оцінка";
+"gradeSelection_selectGrader"="Виберіть грейдер";
+"gradeSelection_selectGrade"="Виберіть Оцінка";
+
+"createCollection_title"="Створити нову колекцію";
+"createCollection_collectionName_placeholder"="Назвіть свою колекцію";
+"createCollection_action_create"="Створити";
+
+"cardCollection_estimatedValue"="Оціночна вартість";
+"cardCollection_noCards"="Ця колекція не має карток";
+"cardCollection_action_addCards"="Додати картки";
+
+"addCards_title"="Додати картки до \"%@\"";
+"addCards_titleNoName_collection"="Додайте картки до колекції";
+"addCards_titleNoName_deck"="Додайте карти в колоду";
+"addCards_oneCardSelected"="Вибрано 1 картку";
+"addCards_numberOfCardsSelected"="Вибрано %d карток";
+"addCards_action_selectAll"="Вибрати все";
+"addCards_allCards"="Всі карти";
+"addCards_search_placeholder"="Пошук карти";
+"addCards_noResult"="Нічого не знайдено";
+
+"sortCards_title"="Сортувати за";
+"sortCards_option_dateRecent"="Дата збереження: Останні-Старіші";
+"sortCards_option_dateOldest"="Дата збереження: Найстаріший-Останній";
+"sortCards_option_nameDirect"="Назва картки: A-Z";
+"sortCards_option_nameReverse"="Назва картки: Z-A";
+"sortCards_option_yearRecent"="Рік картки: останній-найстаріший";
+"sortCards_option_yearOldest"="Рік картки: найстаріший-недавній";
+
+"editCollection_title"="Оновити колекцію";
+"editCollection_collectionName_placeholder"="Перейменуйте свою колекцію";
+
+"createDeck_title"="Створити нову колоду";
+"createDeck_deckName_title"="Назвіть свою колоду";
+"createDeck_deckName_placeholder"="Введіть назву";
+"createDeck_deckType_title"="Тип колоди";
+"createDeck_deckType_select"="Виберіть категорію картки";
+"createDeck_description_title"="Опис (необов'язково)";
+"createDeck_description_placeholder"="Введіть опис своєї колоди";
+"createDeck_action_create"="Створити";
+
+"cardDeck_noCards"="У цій колоді немає карт";
+"cardDeck_action_addCards"="Додати картки";
+
+"editCardSet_menu_addCards"="Додати картки";
+"editCardSet_menu_removeCards"="Видалити картки";
+"editCardSet_menu_sortCards"="Сортування карток";
+"editCardSet_menu_totalPrice"="Загальна оцінка ціни";
+"editCardSet_menu_renameCollection"="Перейменувати колекцію";
+"editCardSet_menu_deleteCollection"="Видалити колекцію";
+"editCardSet_menu_editDeck"="Редагувати колоду";
+"editCardSet_menu_deleteDeck"="Видалити колоду";
+
+"editDeck_title"="Оновити колоду";
+
+"legalityOption_standard"="Стандартний";
+"legalityOption_pioneer"="Піонерська";
+"legalityOption_modern"="Сучасний";
+"legalityOption_legacy"="Спадщина";
+"legalityOption_vintage"="Вінтаж";
+"legalityOption_commander"="Командир";
+"legalityOption_oathbreaker"="Клятвопорушник";
+"legalityOption_alchemy"="Алхімія";
+"legalityOption_explorer"="Провідник";
+"legalityOption_brawl"="бійка";
+"legalityOption_historic"="Історичний";
+"legalityOption_pauper"="Злиденний";
+"legalityOption_penny"="Пенні";
+
+"cardLegality_legal"="юридичний";
+"cardLegality_notLegal"="Не законно";
+
+"magicCard_color_white"="Білий";
+"magicCard_color_blue"="Синій";
+"magicCard_color_black"="чорний";
+"magicCard_color_red"="Червоний";
+"magicCard_color_green"="Зелений";
+"magicCard_color_colorless"="Безбарвний";
+
+"alert_noInternetConnection_title"="Проблема з підключенням";
+"alert_noInternetConnection_message"="Схоже, з’єднання з Інтернетом відсутнє ☹️";
+"alert_needRecentLogin_title"="Повторна автентифікація";
+"alert_needRecentLogin_message"="Щоб видалити обліковий запис, потрібен останній вхід";
+"alert_needRecentLogin_action_logOut"="Вийти";

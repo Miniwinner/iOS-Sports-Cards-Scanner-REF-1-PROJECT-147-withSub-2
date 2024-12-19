@@ -1,0 +1,287 @@
+"common_close"="ปิด";
+"common_cancel"="ยกเลิก";
+"common_done"="เสร็จแล้ว";
+"common_reset"="รีเซ็ต";
+"common_error"="อ๊ะ มีบางอย่างผิดพลาด";
+"common_ok"="ตกลง";
+
+"splash_loading"="กำลังโหลด";
+
+"signIn_title"="เข้าสู่ระบบ";
+"signIn_email_title"="ที่อยู่อีเมล์";
+"signIn_email_placeholder"="กรอกอีเมล";
+"signIn_password_title"="ใส่รหัสผ่าน";
+"signIn_password_placeholder"="ใส่รหัสผ่าน";
+"signIn_password_forgot"="ลืมรหัสผ่าน?";
+"signIn_action_signIn"="เข้าสู่ระบบ";
+"signIn_action_signUp"="ลงชื่อ";
+"signIn_signInWith"="เข้าสู่ระบบด้วย";
+"signIn_noAccount"="ยังไม่มีบัญชี?";
+"signIn_action_signUp"="ลงชื่อ";
+"signIn_error_invalidEmail"="กรุณาใส่อีเมล์ที่ถูกต้อง";
+"signIn_error_userNotFound"="กรุณากรอกอีเมล์และรหัสผ่านที่ถูกต้อง";
+"signIn_error_wrongPassword"="กรุณากรอกรหัสผ่านที่ถูกต้อง";
+"signIn_welcome"="ยินดีต้อนรับกลับ!";
+"signIn_ask"="กรุณากรอกรายละเอียดการเข้าสู่ระบบของคุณ";
+"signInLogInWith"="เข้าสู่ระบบด้วย.";
+
+"signUp_title"="ลงชื่อ";
+"signUp_email_title"="ที่อยู่อีเมล";
+"signUp_email_placeholder"="กรอกที่อยู่อีเมล์ของคุณ";
+"signUp_password_title"="รหัสผ่าน";
+"signUp_password_placeholder"="ใส่รหัสผ่านของคุณ";
+"signUp_password_requirements"="รหัสผ่านควรมีความยาวอย่างน้อย 8 ตัวอักษรและประกอบด้วยอักษรตัวพิมพ์ใหญ่ (A-Z) อย่างน้อยหนึ่งตัว ตัวพิมพ์เล็ก (a-z) หนึ่งตัว ตัวเลขหนึ่งตัว (0-9) และอักขระพิเศษหนึ่งตัว (เช่น ! % @ หรือ #)";
+"signUp_confirmPassword_title"="การยืนยันรหัสผ่าน";
+"signUp_confirmPassword_placeholder"="ป้อนการยืนยันรหัสผ่านของคุณ";
+"signUp_action_signUp"="ลงชื่อ";
+"signUp_action_signIn"="เข้าสู่ระบบ";
+"signUp_signInWith"="เข้าสู่ระบบด้วย";
+"signUp_haveAccount"="มีบัญชีอยู่แล้ว?";
+"signUp_error_invalidEmail"="กรุณาใส่อีเมล์ที่ถูกต้อง";
+"signUp_error_existUser"="มีบัญชีที่ใช้ที่อยู่อีเมลนี้อยู่แล้ว";
+"signUp_error_noPasswordRequirements"="รหัสผ่านต้องเป็นไปตามข้อกำหนดของรหัสผ่าน";
+"signUp_error_passwordsMismatch"="รหัสผ่านต้องตรงกัน";
+
+"dashboard_title"="แผงควบคุม";
+"dashboard_welcome_title"="ก้าวสู่อนาคตแห่งการสะสมการ์ด";
+"dashboard_welcome_description"="สแกนการ์ดเพื่อขยายคอลเลกชันของคุณ";
+"dashboard_scanInstructions"="แตะเพื่อเริ่มสแกนบัตรของคุณ";
+"dashboard_currentValue"="มูลค่าปัจจุบัน";
+"dashboard_highestValue"="มูลค่าสูงสุด";
+"dashboard_recentlyAdded"="เพิ่มมาเร็ว ๆ นี้";
+"dashboard_action_scanCard"="สแกนการ์ด";
+
+"portfolio_title"="ผลงาน";
+"portfolio_scanInstructions"="แตะเพื่อเปิดเครื่องสแกนและบัตรใบแรกของคุณ";
+"portfolio_collection_create"="สร้างคอลเลกชัน";
+"portfolio_deck_create"="สร้างเด็ค";
+"portfolio_deck_description"="สำรับเกมการ์ดซื้อขาย";
+"portfolio_collection_description"="คอลเลกชันที่กำหนดเอง";
+"portfolio_cards"="การ์ด";
+"portfolio_oneCard"="การ์ด 1 ใบ";
+"portfolio_numberOfCards"="%d การ์ด";
+"portfolio_allCards"="การ์ดทั้งหมด";
+"portfolio_estimatedValue"="มูลค่าโดยประมาณทั้งหมด";
+"portfolio_scanToAdd"="สแกนการ์ดเพื่อเพิ่มลงในคอลเลกชันของคุณ";
+
+"more_title"="มากกว่า";
+"more_item_cardCategories"="หมวดหมู่การ์ด";
+"more_item_updatePassword"="อัปเดตรหัสผ่าน";
+"more_item_privacyPolicy"="นโยบายความเป็นส่วนตัว";
+"more_item_termsAndConditions"="ข้อกำหนดการใช้งาน";
+"more_item_pushNotifications"="เปิดใช้งานการแจ้งเตือนแบบพุช";
+"more_item_logout"="ออกจากระบบ";
+"more_item_deleteAccount"="ลบบัญชี";
+
+"cardCategories_title"="หมวดหมู่การ์ด";
+"cardCategories_description"="โปรดเลือกประเภทบัตรที่คุณต้องการรวมไว้ในพอร์ตโฟลิโอและเครื่องสแกนของคุณ";
+"cardCategories_minEnabledCategories"="คุณต้องรักษาหมวดหมู่ที่ใช้งานอยู่อย่างน้อยหนึ่งหมวดหมู่";
+
+"updatePassword_title"="อัปเดตรหัสผ่าน";
+"updatePassword_newPassword_title"="สร้างรหัสผ่านใหม่";
+"updatePassword_newPassword_placeholder"="ใส่รหัสผ่านใหม่";
+"updatePassword_confirmNewPassword_title"="ยืนยันรหัสผ่านใหม่";
+"updatePassword_confirmNewPassword_placeholder"="ป้อนรหัสผ่านใหม่";
+"updatePassword_newPassword_requirements"="รหัสผ่านควรมีความยาวอย่างน้อย 8 ตัวอักษรและประกอบด้วยอักษรตัวพิมพ์ใหญ่ (A-Z) อย่างน้อยหนึ่งตัว ตัวพิมพ์เล็ก (a-z) หนึ่งตัว ตัวเลขหนึ่งตัว (0-9) และอักขระพิเศษหนึ่งตัว (เช่น ! % @ หรือ #)";
+"updatePassword_newPassword_cut1"="8 ตัวอักษร";
+"updatePassword_newPassword_cut2"="ตัวอักษรตัวพิมพ์ใหญ่หนึ่งตัว";
+"updatePassword_newPassword_cut3"="ตัวอักษรพิมพ์เล็กหนึ่งตัว";
+"updatePassword_newPassword_cut4"="หมายเลขหนึ่ง";
+"updatePassword_newPassword_cut5"="ตัวละครพิเศษหนึ่งตัว";
+"updatePassword_action_save"="บันทึก";
+"updatePassword_error_noPasswordRequirements"="รหัสผ่านต้องเป็นไปตามข้อกำหนดของรหัสผ่าน";
+"updatePassword_error_passwordsMismatch"="รหัสผ่านต้องตรงกัน";
+"updatePassword_error_needReauthenticate"="โปรดตรวจสอบสิทธิ์อีกครั้งเพื่อเปลี่ยนรหัสผ่านของคุณ";
+
+"cardCategory_baseball"="เบสบอล";
+"cardCategory_pokemon"="โปเกมอน";
+"cardCategory_basketball"="บาสเกตบอล";
+"cardCategory_football"="ฟุตบอล";
+"cardCategory_magic"="มายากลการชุมนุม";
+"cardCategory_magic_short"="เอ็มทีจี";
+"cardCategory_hockey"="ฮอกกี้";
+"cardCategory_soccer"="ฟุตบอล";
+
+"forgotPassword_title"="ลืมรหัสผ่าน";
+"forgotPassword_description"="ป้อนที่อยู่อีเมลสำหรับบัญชีของคุณ แล้วเราจะส่งคำแนะนำในการรีเซ็ตรหัสผ่านไปให้คุณ";
+"forgotPassword_email_title"="ที่อยู่อีเมล";
+"forgotPassword_email_placeholder"="กรอกที่อยู่อีเมล์ของคุณ";
+"forgotPassword_action_send"="ส่ง";
+"forgotPassword_error_userNotFound"="ไม่มีผู้ใช้ที่มีที่อยู่อีเมลนี้";
+"forgotPassword_error_invalidEmail"="กรุณาใส่อีเมล์ที่ถูกต้อง";
+
+"resetPassword_title"="รีเซ็ตรหัสผ่าน";
+"resetPassword_emailSent"="คำแนะนำในการรีเซ็ตรหัสผ่านได้ถูกส่งไปยังที่อยู่อีเมล: %@";
+
+"scanCard_cardSide_front"="ด้านหน้าการ์ด";
+"scanCard_noAuthorization_title"="อนุญาตให้ %@ เข้าถึงกล้องของคุณ";
+"scanCard_noAuthorization_description"="ซึ่งช่วยให้คุณสแกนการ์ดได้";
+"scanCard_action_openSettings"="เปิดการตั้งค่า";
+"scanCard_gradeType_graded"="ให้คะแนนแล้ว";
+"scanCard_gradeType_raw"="ดิบ";
+
+"prompt_action_cancel"="ยกเลิก";
+"prompt_title"="คุณแน่ใจไหม?";
+"prompt_logout_description"="คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณ?";
+"prompt_logout_confirmAction"="ออกจากระบบ";
+"prompt_deleteAccount_description"="การลบคอลเลกชันจะไม่ลบการ์ด พวกเขาจะอยู่ในพอร์ตโฟลิโอของคุณ";
+"prompt_deleteAccount_keepAction"="เก็บ";
+"prompt_deleteAccount_sure"="คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณ?";
+"prompt_deleteAccount_confirmAction"="ลบ";
+"prompt_deleteCollection_description"="การลบคอลเลกชันจะไม่ลบการ์ดภายในคอลเลกชัน การ์ดจะยังคงอยู่ในพอร์ตโฟลิโอของคุณ";
+"prompt_deleteCollection_keepAction"="เก็บ";
+"prompt_deleteCollection_confirmAction"="ลบ";
+"prompt_deleteDeck_description"="การลบสำรับจะไม่ลบไพ่ที่อยู่ในสำรับ การ์ดจะยังคงอยู่ในพอร์ตโฟลิโอของคุณ";
+"prompt_deleteDeck_keepAction"="เก็บ";
+"prompt_deleteDeck_confirmAction"="ลบ";
+"prompt_removeCard_description"="คุณกำลังจะลบการ์ดใบนี้ออกจากพอร์ตโฟลิโอของคุณ จะต้องสแกนการ์ดใบนี้อีกครั้งเพื่อเพิ่มกลับเข้าไปในพอร์ตโฟลิโอของคุณ";
+"prompt_removeCard_keepAction"="เก็บ";
+"prompt_removeCard_confirmAction"="ลบ";
+
+"identifyingCard_title"="%@ การ์ดถูกยึดแล้ว";
+"identifyingCard_processTitle"="บัตรประจำตัว...";
+"identifyingCard_action_cancel"="ยกเลิกการสแกน";
+
+"searchCard_title"="การ์ดค้นหา";
+"searchCard_search_placeholder"="ค้นหาการ์ด";
+"searchCard_error_tryAgain"="ลองอีกครั้ง! ค้นหาต่อไป!";
+
+"card_missingImage"="ไม่มี\nรูปภาพ";
+
+"cardDetails_action_addCard"="เพิ่มไปยังพอร์ตโฟลิโอ";
+"cardDetails_action_findCard"="ค้นหาการ์ด";
+"cardDetails_action_editCard"="แก้ไขการ์ดและเกรด";
+"cardDetails_action_removeCard"="ลบออกจากพอร์ตโฟลิโอ";
+
+"pricingReport_setCustomPrice"="กำหนดราคาเองได้";
+"pricingReport_editCustomPrice"="แก้ไขราคาที่กำหนดเอง";
+"pricingReport_viewReport"="ดูรายงานราคา";
+"pricingReport_valueEstimating"="การประมาณมูลค่ารอดำเนินการ";
+
+"pricingReport_details_priceReport"="รายงานราคา";
+"pricingReport_details_lastSoldPrice"="ราคาขายล่าสุด";
+"pricingReport_details_lastSoldDate"="วันที่ขายล่าสุด";
+"pricingReport_details_recentSales"="ยอดขายล่าสุด";
+"pricingReport_details_noSales"="ไม่มียอดขายล่าสุด";
+
+"cardDetail_year"="ปีบัตร";
+"cardDetail_cardNumber"="การ์ด #";
+"cardDetail_set"="ชุด";
+"cardDetail_series"="ชุด";
+"cardDetail_parallel"="ขนาน";
+"cardDetail_grade"="ระดับ";
+"cardDetail_ungraded"="ไม่ได้ให้คะแนน";
+"cardDetail_color"="สี";
+"cardDetail_colors"="สี";
+"cardDetail_type"="พิมพ์";
+"cardDetail_manaValue"="มานา แวลู";
+"cardDetail_power"="พลัง";
+"cardDetail_toughness"="ความเหนียว";
+"cardDetail_rarity"="ความหายาก";
+
+"recentlyAdded_title"="การ์ดที่เพิ่มล่าสุด";
+
+"highestValue_title"="บัตรมูลค่าสูงสุด";
+
+"currentValue_title"="มูลค่าปัจจุบัน";
+"currentValue_valueByCategory"="ค่าตามหมวดหมู่";
+
+"editCard_title"="แก้ไขรายละเอียด";
+"editCard_parallel"="ขนาน";
+"editCard_grade"="ระดับ";
+"editCard_customPrice"="กำหนดราคาเองได้";
+"editCard_action_updateDetails"="รายละเอียดการอัพเดท";
+"editCard_valueEstimating"="การประมาณมูลค่ารอดำเนินการ";
+
+"parallelSelection_title"="ขนาน";
+"parallelSelection_search_placeholder"="ค้นหา";
+"parallelSelection_allOptions"="ตัวเลือกทั้งหมด";
+"parallelSelection_missingSample"="ไม่มีตัวอย่าง";
+"parallelSelection_noResult"="ไม่พบผลลัพธ์";
+"parallelSelection_action_none"="ไม่มี";
+
+"gradeSelection_title"="ระดับ";
+"gradeSelection_selectGrader"="เลือกเกรดเดอร์";
+"gradeSelection_selectGrade"="เลือกเกรด";
+
+"createCollection_title"="สร้างคอลเลกชันใหม่";
+"createCollection_collectionName_placeholder"="ตั้งชื่อคอลเลกชันของคุณ";
+"createCollection_action_create"="สร้าง";
+
+"cardCollection_estimatedValue"="ค่าประมาณ";
+"cardCollection_noCards"="คอลเลกชั่นนี้ไม่มีการ์ด";
+"cardCollection_action_addCards"="เพิ่มการ์ด";
+
+"addCards_title"="เพิ่มการ์ดไปที่ \"%@\"";
+"addCards_titleNoName_collection"="เพิ่มการ์ดลงในคอลเลกชัน";
+"addCards_titleNoName_deck"="เพิ่มการ์ดลงในเด็ค";
+"addCards_oneCardSelected"="เลือกการ์ดแล้ว 1 ใบ";
+"addCards_numberOfCardsSelected"="เลือกการ์ด %d ใบแล้ว";
+"addCards_action_selectAll"="เลือกทั้งหมด";
+"addCards_allCards"="การ์ดทั้งหมด";
+"addCards_search_placeholder"="ค้นหาการ์ด";
+"addCards_noResult"="ไม่พบผลลัพธ์";
+
+"sortCards_title"="เรียงตาม";
+"sortCards_option_dateRecent"="วันที่บันทึก: ล่าสุด-เก่าที่สุด";
+"sortCards_option_dateOldest"="วันที่บันทึก: เก่าที่สุด-ล่าสุด";
+"sortCards_option_nameDirect"="ชื่อการ์ด : A-Z";
+"sortCards_option_nameReverse"="ชื่อการ์ด : ซี-เอ";
+"sortCards_option_yearRecent"="ปีของการ์ด: ล่าสุด-เก่าที่สุด";
+"sortCards_option_yearOldest"="ปีของการ์ด: เก่าที่สุด-ล่าสุด";
+
+"editCollection_title"="อัปเดตคอลเลกชัน";
+"editCollection_collectionName_placeholder"="เปลี่ยนชื่อคอลเลกชันของคุณ";
+
+"createDeck_title"="สร้างเด็คใหม่";
+"createDeck_deckName_title"="ตั้งชื่อสำรับของคุณ";
+"createDeck_deckName_placeholder"="ป้อนชื่อ";
+"createDeck_deckType_title"="ประเภทดาดฟ้า";
+"createDeck_deckType_select"="เลือกหมวดหมู่การ์ด";
+"createDeck_description_title"="คำอธิบาย (ไม่บังคับ)";
+"createDeck_description_placeholder"="ป้อนคำอธิบายสำหรับเด็คของคุณ";
+"createDeck_action_create"="สร้าง";
+
+"cardDeck_noCards"="ไม่มีไพ่ในสำรับนี้";
+"cardDeck_action_addCards"="เพิ่มการ์ด";
+
+"editCardSet_menu_addCards"="เพิ่มการ์ด";
+"editCardSet_menu_removeCards"="นำการ์ดออก";
+"editCardSet_menu_sortCards"="จัดเรียงการ์ด";
+"editCardSet_menu_totalPrice"="ประมาณการราคารวม";
+"editCardSet_menu_renameCollection"="เปลี่ยนชื่อคอลเลกชัน";
+"editCardSet_menu_deleteCollection"="ลบคอลเลกชัน";
+"editCardSet_menu_editDeck"="แก้ไขเด็ค";
+"editCardSet_menu_deleteDeck"="ลบเด็ค";
+
+"editDeck_title"="อัพเดตเด็ค";
+
+"legalityOption_standard"="มาตรฐาน";
+"legalityOption_pioneer"="ผู้บุกเบิก";
+"legalityOption_modern"="ทันสมัย";
+"legalityOption_legacy"="มรดก";
+"legalityOption_vintage"="วินเทจ";
+"legalityOption_commander"="ผู้บัญชาการ";
+"legalityOption_oathbreaker"="ผู้สาบาน";
+"legalityOption_alchemy"="การเล่นแร่แปรธาตุ";
+"legalityOption_explorer"="สำรวจ";
+"legalityOption_brawl"="ทะเลาะวิวาท";
+"legalityOption_historic"="ประวัติศาสตร์";
+"legalityOption_pauper"="ยาจก";
+"legalityOption_penny"="เงิน";
+
+"cardLegality_legal"="ถูกกฎหมาย";
+"cardLegality_notLegal"="ไม่ถูกกฎหมาย";
+
+"magicCard_color_white"="สีขาว";
+"magicCard_color_blue"="สีฟ้า";
+"magicCard_color_black"="สีดำ";
+"magicCard_color_red"="สีแดง";
+"magicCard_color_green"="สีเขียว";
+"magicCard_color_colorless"="ไม่มีสี";
+
+"alert_noInternetConnection_title"="ปัญหาการเชื่อมต่อ";
+"alert_noInternetConnection_message"="ดูเหมือนว่าการเชื่อมต่ออินเทอร์เน็ตจะออฟไลน์ ☹️";
+"alert_needRecentLogin_title"="ตรวจสอบสิทธิ์อีกครั้ง";
+"alert_needRecentLogin_message"="หากต้องการลบบัญชี จำเป็นต้องเข้าสู่ระบบครั้งล่าสุด";
+"alert_needRecentLogin_action_logOut"="ออกจากระบบ";

@@ -1,0 +1,287 @@
+"common_close"="Zavrieť";
+"common_cancel"="Zrušiť";
+"common_done"="hotový";
+"common_reset"="Resetovať";
+"common_error"="Och! Niečo sa pokazilo";
+"common_ok"="Dobre";
+
+"splash_loading"="Načítava";
+
+"signIn_title"="Prihlásiť sa";
+"signIn_email_title"="Emailová adresa";
+"signIn_email_placeholder"="Zadajte email";
+"signIn_password_title"="Zadajte heslo";
+"signIn_password_placeholder"="Zadajte heslo";
+"signIn_password_forgot"="Zabudol si heslo?";
+"signIn_action_signIn"="Prihlásiť sa";
+"signIn_action_signUp"="Prihlásiť Se";
+"signIn_signInWith"="Prihláste sa pomocou";
+"signIn_noAccount"="Nemáte účet?";
+"signIn_action_signUp"="Prihlásiť Se";
+"signIn_error_invalidEmail"="Prosím zadajte platnú emailovú adresu";
+"signIn_error_userNotFound"="Zadajte platný e-mail a heslo";
+"signIn_error_wrongPassword"="Zadajte správne heslo";
+"signIn_welcome"="Vitaj späť!";
+"signIn_ask"="Zadajte svoje prihlasovacie údaje";
+"signInLogInWith"="Prihlásiť sa s.";
+
+"signUp_title"="Prihlásiť Se";
+"signUp_email_title"="Emailová adresa";
+"signUp_email_placeholder"="Vložte svoju e-mailovú adresu";
+"signUp_password_title"="heslo";
+"signUp_password_placeholder"="Zadajte svoje heslo";
+"signUp_password_requirements"="Heslá by mali mať minimálne 8 znakov a obsahovať aspoň jedno veľké písmeno (A-Z), jedno malé písmeno (a-z), jedno číslo (0-9) a jeden špeciálny znak (napr. ! % @ alebo #).";
+"signUp_confirmPassword_title"="potvrdenie hesla";
+"signUp_confirmPassword_placeholder"="Zadajte potvrdenie hesla";
+"signUp_action_signUp"="Prihlásiť Se";
+"signUp_action_signIn"="Prihlásiť sa";
+"signUp_signInWith"="Prihláste sa pomocou";
+"signUp_haveAccount"="Máte už účet?";
+"signUp_error_invalidEmail"="Prosím zadajte platnú emailovú adresu";
+"signUp_error_existUser"="Účet s touto e-mailovou adresou už existuje";
+"signUp_error_noPasswordRequirements"="Heslo musí spĺňať požiadavky na heslo";
+"signUp_error_passwordsMismatch"="heslá sa musia zhodovať";
+
+"dashboard_title"="Dashboard";
+"dashboard_welcome_title"="Vstúpte do budúcnosti zberu kariet";
+"dashboard_welcome_description"="Naskenujte kartu a rozšírte svoju zbierku";
+"dashboard_scanInstructions"="Klepnutím spustíte skenovanie karty.";
+"dashboard_currentValue"="Súčasná hodnota";
+"dashboard_highestValue"="Najvyššia hodnota";
+"dashboard_recentlyAdded"="Nedávno pridané";
+"dashboard_action_scanCard"="Skenovať kartu";
+
+"portfolio_title"="Portfólio";
+"portfolio_scanInstructions"="Klepnutím otvoríte skener a svoju prvú kartu";
+"portfolio_collection_create"="Vytvoriť zbierku";
+"portfolio_deck_create"="Vytvoriť balíček";
+"portfolio_deck_description"="Balíček kartovej hry";
+"portfolio_collection_description"="Kolekcia na mieru";
+"portfolio_cards"="karty";
+"portfolio_oneCard"="1 Karta";
+"portfolio_numberOfCards"="%d kariet";
+"portfolio_allCards"="Všetky karty";
+"portfolio_estimatedValue"="Celková odhadovaná hodnota";
+"portfolio_scanToAdd"="Naskenujte kartu a pridajte ju do svojej zbierky";
+
+"more_title"="Viac";
+"more_item_cardCategories"="Kategórie kariet";
+"more_item_updatePassword"="Aktualizovať heslo";
+"more_item_privacyPolicy"="Zásady ochrany osobných údajov";
+"more_item_termsAndConditions"="Podmienky používania";
+"more_item_pushNotifications"="Povoliť upozornenia push";
+"more_item_logout"="Odhlásiť sa";
+"more_item_deleteAccount"="Zmazať účet";
+
+"cardCategories_title"="Kategórie kariet";
+"cardCategories_description"="Vyberte typy kariet, ktoré chcete zahrnúť do svojho portfólia a skenera";
+"cardCategories_minEnabledCategories"="Musíte udržiavať aspoň jednu aktívnu kategóriu.";
+
+"updatePassword_title"="Aktualizovať heslo";
+"updatePassword_newPassword_title"="Vytvorte nové heslo";
+"updatePassword_newPassword_placeholder"="Zadajte nové heslo";
+"updatePassword_confirmNewPassword_title"="Potvrďte nové heslo";
+"updatePassword_confirmNewPassword_placeholder"="Znova zadajte nové heslo";
+"updatePassword_newPassword_requirements"="Heslá by mali mať minimálne 8 znakov a obsahovať aspoň jedno veľké písmeno (A-Z), jedno malé písmeno (a-z), jedno číslo (0-9) a jeden špeciálny znak (napr. ! % @ alebo #).";
+"updatePassword_newPassword_cut1"="8 znakov";
+"updatePassword_newPassword_cut2"="jedno veľké písmeno";
+"updatePassword_newPassword_cut3"="jedno malé písmeno";
+"updatePassword_newPassword_cut4"="jedno číslo";
+"updatePassword_newPassword_cut5"="jeden špeciálny znak";
+"updatePassword_action_save"="Uložiť";
+"updatePassword_error_noPasswordRequirements"="Heslo musí spĺňať požiadavky na heslo";
+"updatePassword_error_passwordsMismatch"="heslá sa musia zhodovať";
+"updatePassword_error_needReauthenticate"="Ak chcete zmeniť heslo, znova sa overte";
+
+"cardCategory_baseball"="Bejzbal";
+"cardCategory_pokemon"="Pokémon";
+"cardCategory_basketball"="Basketbal";
+"cardCategory_football"="Futbal";
+"cardCategory_magic"="Magic: The Gathering";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="hokej";
+"cardCategory_soccer"="futbal";
+
+"forgotPassword_title"="Zabudol si heslo";
+"forgotPassword_description"="Zadajte e-mailovú adresu svojho účtu a my vám pošleme pokyny na obnovenie hesla";
+"forgotPassword_email_title"="Emailová adresa";
+"forgotPassword_email_placeholder"="Vložte svoju e-mailovú adresu";
+"forgotPassword_action_send"="Odoslať";
+"forgotPassword_error_userNotFound"="Nie sú žiadni používatelia s touto e-mailovou adresou";
+"forgotPassword_error_invalidEmail"="Prosím zadajte platnú emailovú adresu";
+
+"resetPassword_title"="Obnoviť heslo";
+"resetPassword_emailSent"="Pokyny na obnovenie hesla boli odoslané na e-mailovú adresu: %@";
+
+"scanCard_cardSide_front"="Predná strana kard";
+"scanCard_noAuthorization_title"="Povoľte %@ prístup k fotoaparátu";
+"scanCard_noAuthorization_description"="To vám umožní skenovať karty";
+"scanCard_action_openSettings"="Otvorte Nastavenia";
+"scanCard_gradeType_graded"="Známkované";
+"scanCard_gradeType_raw"="Surové";
+
+"prompt_action_cancel"="Zrušiť";
+"prompt_title"="Si si istý?";
+"prompt_logout_description"="Ste si istý, že chcete odstrániť svoj účet?";
+"prompt_logout_confirmAction"="Odhlásiť sa";
+"prompt_deleteAccount_description"="Odstránením zbierky sa neodstránia karty; zostanú vo vašom portfóliu.";
+"prompt_deleteAccount_keepAction"="Ponechať";
+"prompt_deleteAccount_sure"="Ste si istý, že chcete odstrániť svoj účet?";
+"prompt_deleteAccount_confirmAction"="Odstrániť";
+"prompt_deleteCollection_description"="Odstránením zbierky sa nevymažú karty v rámci zbierky. Karty zostanú vo vašom portfóliu.";
+"prompt_deleteCollection_keepAction"="Ponechať";
+"prompt_deleteCollection_confirmAction"="Odstrániť";
+"prompt_deleteDeck_description"="Vymazaním balíčka sa nevymažú karty v balíčku. Karty zostanú vo vašom portfóliu.";
+"prompt_deleteDeck_keepAction"="Ponechať";
+"prompt_deleteDeck_confirmAction"="Odstrániť";
+"prompt_removeCard_description"="Chystáte sa odstrániť túto kartu zo svojho portfólia. Túto kartu bude potrebné znova naskenovať, aby ste ju mohli pridať späť do svojho portfólia.";
+"prompt_removeCard_keepAction"="Ponechať";
+"prompt_removeCard_confirmAction"="Odstrániť";
+
+"identifyingCard_title"="%@ Zachytená karta";
+"identifyingCard_processTitle"="Identifikačný preukaz...";
+"identifyingCard_action_cancel"="Zrušiť SKENOVANIE";
+
+"searchCard_title"="Karta vyhľadávania";
+"searchCard_search_placeholder"="Vyhľadajte kartu";
+"searchCard_error_tryAgain"="Skúste to znova! Hľadajte ďalej!";
+
+"card_missingImage"="Chýba\nobrázok";
+
+"cardDetails_action_addCard"="Pridať do portfólia";
+"cardDetails_action_findCard"="Nájsť kartu";
+"cardDetails_action_editCard"="Upraviť kartu a známku";
+"cardDetails_action_removeCard"="Odstrániť z portfólia";
+
+"pricingReport_setCustomPrice"="Nastaviť vlastnú cenu";
+"pricingReport_editCustomPrice"="Upraviť vlastnú cenu";
+"pricingReport_viewReport"="Zobraziť prehľad cien";
+"pricingReport_valueEstimating"="Čaká sa na odhad hodnoty";
+
+"pricingReport_details_priceReport"="Správa o cene";
+"pricingReport_details_lastSoldPrice"="Posledná predajná cena";
+"pricingReport_details_lastSoldDate"="Dátum posledného predaja";
+"pricingReport_details_recentSales"="Nedávny predaj";
+"pricingReport_details_noSales"="Žiadne nedávne predaje";
+
+"cardDetail_year"="Rok karty";
+"cardDetail_cardNumber"="karta č.";
+"cardDetail_set"="Set";
+"cardDetail_series"="séria";
+"cardDetail_parallel"="Paralelne";
+"cardDetail_grade"="stupeň";
+"cardDetail_ungraded"="Nehodnotené";
+"cardDetail_color"="Farba";
+"cardDetail_colors"="Farby";
+"cardDetail_type"="Typ";
+"cardDetail_manaValue"="Hodnota many";
+"cardDetail_power"="Moc";
+"cardDetail_toughness"="Húževnatosť";
+"cardDetail_rarity"="Vzácnosť";
+
+"recentlyAdded_title"="Nedávno pridané karty";
+
+"highestValue_title"="Karty najvyššej hodnoty";
+
+"currentValue_title"="Súčasná hodnota";
+"currentValue_valueByCategory"="Hodnota podľa kategórie";
+
+"editCard_title"="Upraviť podrobnosti";
+"editCard_parallel"="Paralelne";
+"editCard_grade"="stupeň";
+"editCard_customPrice"="Nastaviť vlastnú cenu";
+"editCard_action_updateDetails"="Aktualizovať podrobnosti";
+"editCard_valueEstimating"="Čaká sa na odhad hodnoty";
+
+"parallelSelection_title"="Paralelne";
+"parallelSelection_search_placeholder"="Vyhľadávanie";
+"parallelSelection_allOptions"="Všetky možnosti";
+"parallelSelection_missingSample"="Chýba vzorka";
+"parallelSelection_noResult"="Neboli nájdené žiadne výsledky";
+"parallelSelection_action_none"="žiadne";
+
+"gradeSelection_title"="stupeň";
+"gradeSelection_selectGrader"="Vyberte možnosť Grader";
+"gradeSelection_selectGrade"="Vyberte možnosť Stupeň";
+
+"createCollection_title"="Vytvoriť novú kolekciu";
+"createCollection_collectionName_placeholder"="Pomenujte svoju zbierku";
+"createCollection_action_create"="Vytvorte";
+
+"cardCollection_estimatedValue"="Odhadovaná hodnota";
+"cardCollection_noCards"="Táto zbierka nemá žiadne karty";
+"cardCollection_action_addCards"="Pridať karty";
+
+"addCards_title"="Pridať karty do \"%@\"";
+"addCards_titleNoName_collection"="Pridajte karty do zbierky";
+"addCards_titleNoName_deck"="Pridajte karty do balíčka";
+"addCards_oneCardSelected"="1 zvolená karta";
+"addCards_numberOfCardsSelected"="Počet vybratých kariet: %d";
+"addCards_action_selectAll"="Vybrať všetko";
+"addCards_allCards"="Všetky karty";
+"addCards_search_placeholder"="Vyhľadajte kartu";
+"addCards_noResult"="Neboli nájdené žiadne výsledky";
+
+"sortCards_title"="Triediť podľa";
+"sortCards_option_dateRecent"="Dátum uloženia: posledný-najstarší";
+"sortCards_option_dateOldest"="Dátum uloženia: od najstarších po najnovšie";
+"sortCards_option_nameDirect"="Názov karty: A-Z";
+"sortCards_option_nameReverse"="Názov karty: Z-A";
+"sortCards_option_yearRecent"="Rok karty: posledný-najstarší";
+"sortCards_option_yearOldest"="Rok karty: Najstaršia-nedávna";
+
+"editCollection_title"="Aktualizovať kolekciu";
+"editCollection_collectionName_placeholder"="Premenujte svoju zbierku";
+
+"createDeck_title"="Vytvoriť nový balíček";
+"createDeck_deckName_title"="Pomenujte svoj balíček";
+"createDeck_deckName_placeholder"="Zadajte meno";
+"createDeck_deckType_title"="Typ paluby";
+"createDeck_deckType_select"="Vyberte kategóriu karty";
+"createDeck_description_title"="Opis (nepovinné)";
+"createDeck_description_placeholder"="Zadajte popis svojho decku";
+"createDeck_action_create"="Vytvorte";
+
+"cardDeck_noCards"="V tomto balíčku nie sú žiadne karty";
+"cardDeck_action_addCards"="Pridať karty";
+
+"editCardSet_menu_addCards"="Pridať karty";
+"editCardSet_menu_removeCards"="Odstráňte karty";
+"editCardSet_menu_sortCards"="Triediť karty";
+"editCardSet_menu_totalPrice"="Odhad celkovej ceny";
+"editCardSet_menu_renameCollection"="Premenovať zbierku";
+"editCardSet_menu_deleteCollection"="Odstrániť zbierku";
+"editCardSet_menu_editDeck"="Upraviť balíček";
+"editCardSet_menu_deleteDeck"="Odstrániť balíček";
+
+"editDeck_title"="Aktualizovať balík";
+
+"legalityOption_standard"="Štandardné";
+"legalityOption_pioneer"="Pioneer";
+"legalityOption_modern"="Moderné";
+"legalityOption_legacy"="Dedičstvo";
+"legalityOption_vintage"="Vintage";
+"legalityOption_commander"="veliteľ";
+"legalityOption_oathbreaker"="Porušovač prísahy";
+"legalityOption_alchemy"="Alchýmia";
+"legalityOption_explorer"="Prieskumník";
+"legalityOption_brawl"="Bitka";
+"legalityOption_historic"="Historický";
+"legalityOption_pauper"="Chudák";
+"legalityOption_penny"="Penny";
+
+"cardLegality_legal"="Právne";
+"cardLegality_notLegal"="Nie legálne";
+
+"magicCard_color_white"="biely";
+"magicCard_color_blue"="Modrá";
+"magicCard_color_black"="čierna";
+"magicCard_color_red"="Červená";
+"magicCard_color_green"="zelená";
+"magicCard_color_colorless"="Bezfarebný";
+
+"alert_noInternetConnection_title"="Problém s pripojením";
+"alert_noInternetConnection_message"="Zdá sa, že internetové pripojenie je offline ☹️";
+"alert_needRecentLogin_title"="Znova overiť";
+"alert_needRecentLogin_message"="Ak chcete odstrániť účet, vyžaduje sa posledné prihlásenie";
+"alert_needRecentLogin_action_logOut"="Odhlásiť sa";

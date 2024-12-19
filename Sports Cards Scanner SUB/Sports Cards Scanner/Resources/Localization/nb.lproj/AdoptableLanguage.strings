@@ -1,0 +1,287 @@
+"common_close"="Lukk";
+"common_cancel"="Avbryt";
+"common_done"="Ferdig";
+"common_reset"="Nullstille";
+"common_error"="Oops! Noe gikk galt";
+"common_ok"="Ok";
+
+"splash_loading"="Laster";
+
+"signIn_title"="Logg inn";
+"signIn_email_title"="Epost adresse";
+"signIn_email_placeholder"="Skriv inn e-post";
+"signIn_password_title"="Oppgi passord";
+"signIn_password_placeholder"="Oppgi passord";
+"signIn_password_forgot"="Glemt passord?";
+"signIn_action_signIn"="Logg inn";
+"signIn_action_signUp"="Melde deg på";
+"signIn_signInWith"="Logg inn med";
+"signIn_noAccount"="Har du ikke en konto?";
+"signIn_action_signUp"="Melde deg på";
+"signIn_error_invalidEmail"="Vennligst skriv inn en gyldig e-post adresse";
+"signIn_error_userNotFound"="Vennligst skriv inn en gyldig e-postadresse og passord";
+"signIn_error_wrongPassword"="Vennligst skriv inn riktig passord";
+"signIn_welcome"="Velkommen tilbake!";
+"signIn_ask"="Vennligst skriv inn påloggingsdetaljer";
+"signInLogInWith"="Logg inn med.";
+
+"signUp_title"="Melde deg på";
+"signUp_email_title"="Epostadresse";
+"signUp_email_placeholder"="Fyll inn epostadressen din";
+"signUp_password_title"="Passord";
+"signUp_password_placeholder"="Skriv inn passordet ditt";
+"signUp_password_requirements"="Passord bør være på minimum 8 tegn og inneholde minst én stor bokstav (A-Z), én liten bokstav (a-z), ett tall (0-9) og ett spesialtegn (f.eks. ! % @ eller #).";
+"signUp_confirmPassword_title"="Passord bekreftelse";
+"signUp_confirmPassword_placeholder"="Skriv inn passordbekreftelsen";
+"signUp_action_signUp"="Melde deg på";
+"signUp_action_signIn"="Logg inn";
+"signUp_signInWith"="Logg inn med";
+"signUp_haveAccount"="Har du allerede en konto?";
+"signUp_error_invalidEmail"="Vennligst skriv inn en gyldig e-post adresse";
+"signUp_error_existUser"="Det finnes allerede en konto med denne e-postadressen";
+"signUp_error_noPasswordRequirements"="Passordet må oppfylle passordkravene";
+"signUp_error_passwordsMismatch"="Passordene må være like";
+
+"dashboard_title"="Dashbord";
+"dashboard_welcome_title"="Gå inn i fremtiden for kortsamling";
+"dashboard_welcome_description"="Skann et kort for å utvide samlingen din";
+"dashboard_scanInstructions"="Trykk for å begynne å skanne kortet ditt.";
+"dashboard_currentValue"="Nåværende verdi";
+"dashboard_highestValue"="Høyeste verdi";
+"dashboard_recentlyAdded"="Nylig lagt til";
+"dashboard_action_scanCard"="Skann kort";
+
+"portfolio_title"="Portefølje";
+"portfolio_scanInstructions"="Trykk for å åpne skanneren og ditt første kort";
+"portfolio_collection_create"="Opprett samling";
+"portfolio_deck_create"="Lag dekk";
+"portfolio_deck_description"="Samlekortspill";
+"portfolio_collection_description"="Egendefinert samling";
+"portfolio_cards"="Kort";
+"portfolio_oneCard"="1 kort";
+"portfolio_numberOfCards"="%d kort";
+"portfolio_allCards"="Alle kort";
+"portfolio_estimatedValue"="Total estimert verdi";
+"portfolio_scanToAdd"="Skann et kort for å legge til samlingen din";
+
+"more_title"="Mer";
+"more_item_cardCategories"="Kortkategorier";
+"more_item_updatePassword"="Oppdater passord";
+"more_item_privacyPolicy"="Personvernerklæring";
+"more_item_termsAndConditions"="Vilkår for bruk";
+"more_item_pushNotifications"="Aktiver push-varsler";
+"more_item_logout"="Logg ut";
+"more_item_deleteAccount"="Slett konto";
+
+"cardCategories_title"="Kortkategorier";
+"cardCategories_description"="Velg korttypene du ønsker å inkludere i porteføljen og skanneren";
+"cardCategories_minEnabledCategories"="Du må opprettholde minst én aktiv kategori.";
+
+"updatePassword_title"="Oppdater passord";
+"updatePassword_newPassword_title"="Opprett nytt passord";
+"updatePassword_newPassword_placeholder"="Skriv inn nytt passord";
+"updatePassword_confirmNewPassword_title"="Bekrefte nytt passord";
+"updatePassword_confirmNewPassword_placeholder"="Skriv inn nytt passord på nytt";
+"updatePassword_newPassword_requirements"="Passord bør være på minimum 8 tegn og inneholde minst én stor bokstav (A-Z), én liten bokstav (a-z), ett tall (0-9) og ett spesialtegn (f.eks. ! % @ eller #).";
+"updatePassword_newPassword_cut1"="8 tegn";
+"updatePassword_newPassword_cut2"="en stor bokstav";
+"updatePassword_newPassword_cut3"="én liten bokstav";
+"updatePassword_newPassword_cut4"="ett tall";
+"updatePassword_newPassword_cut5"="en spesiell karakter";
+"updatePassword_action_save"="Lagre";
+"updatePassword_error_noPasswordRequirements"="Passordet må oppfylle passordkravene";
+"updatePassword_error_passwordsMismatch"="Passordene må være like";
+"updatePassword_error_needReauthenticate"="Vennligst autentiser på nytt for å endre passordet ditt";
+
+"cardCategory_baseball"="Baseball";
+"cardCategory_pokemon"="Pokemon";
+"cardCategory_basketball"="Basketball";
+"cardCategory_football"="Fotball";
+"cardCategory_magic"="Magic the Gathering";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Hockey";
+"cardCategory_soccer"="Fotball";
+
+"forgotPassword_title"="Glemt passord";
+"forgotPassword_description"="Skriv inn e-postadressen for kontoen din, så sender vi deg instruksjoner for å tilbakestille passordet ditt";
+"forgotPassword_email_title"="Epostadresse";
+"forgotPassword_email_placeholder"="Fyll inn epostadressen din";
+"forgotPassword_action_send"="Sende";
+"forgotPassword_error_userNotFound"="Det er ingen brukere med denne e-postadressen";
+"forgotPassword_error_invalidEmail"="Vennligst skriv inn en gyldig e-post adresse";
+
+"resetPassword_title"="Tilbakestille passord";
+"resetPassword_emailSent"="Instruksjoner for tilbakestilling av passord er sendt til e-postadressen: %@";
+
+"scanCard_cardSide_front"="Forsiden av kortet";
+"scanCard_noAuthorization_title"="Gi %@ tilgang til kameraet ditt";
+"scanCard_noAuthorization_description"="Dette lar deg skanne kort";
+"scanCard_action_openSettings"="Åpne innstillinger";
+"scanCard_gradeType_graded"="Gradert";
+"scanCard_gradeType_raw"="Rå";
+
+"prompt_action_cancel"="Avbryt";
+"prompt_title"="Er du sikker?";
+"prompt_logout_description"="Er du sikker på at du vil fjerne kontoen din?";
+"prompt_logout_confirmAction"="Logg ut";
+"prompt_deleteAccount_description"="Sletting av samlingen vil ikke fjerne kortene. de forblir i porteføljen din.";
+"prompt_deleteAccount_keepAction"="Beholde";
+"prompt_deleteAccount_sure"="Er du sikker på at du vil fjerne kontoen din?";
+"prompt_deleteAccount_confirmAction"="Slett";
+"prompt_deleteCollection_description"="Sletting av samlingen vil ikke slette kortene i samlingen. Kortene forblir i porteføljen din.";
+"prompt_deleteCollection_keepAction"="Beholde";
+"prompt_deleteCollection_confirmAction"="Slett";
+"prompt_deleteDeck_description"="Sletting av kortstokken vil ikke slette kortene i kortstokken. Kortene forblir i porteføljen din.";
+"prompt_deleteDeck_keepAction"="Beholde";
+"prompt_deleteDeck_confirmAction"="Slett";
+"prompt_removeCard_description"="Du er i ferd med å fjerne dette kortet fra porteføljen din. Dette kortet må skannes på nytt for å legge det tilbake til porteføljen din.";
+"prompt_removeCard_keepAction"="Beholde";
+"prompt_removeCard_confirmAction"="Fjerne";
+
+"identifyingCard_title"="%@ Kort fanget";
+"identifyingCard_processTitle"="Identifikasjonskort...";
+"identifyingCard_action_cancel"="Avbryt SKANNING";
+
+"searchCard_title"="Søkekort";
+"searchCard_search_placeholder"="Søk etter et kort";
+"searchCard_error_tryAgain"="Prøv igjen! Fortsett å søke!";
+
+"card_missingImage"="Mangler\nBilde";
+
+"cardDetails_action_addCard"="Legg til portefølje";
+"cardDetails_action_findCard"="Finn kort";
+"cardDetails_action_editCard"="Rediger kort og karakter";
+"cardDetails_action_removeCard"="Fjern fra porteføljen";
+
+"pricingReport_setCustomPrice"="Angi egendefinert pris";
+"pricingReport_editCustomPrice"="Rediger egendefinert pris";
+"pricingReport_viewReport"="Se prisrapport";
+"pricingReport_valueEstimating"="Verdivurdering venter";
+
+"pricingReport_details_priceReport"="Prisrapport";
+"pricingReport_details_lastSoldPrice"="Sist solgte pris";
+"pricingReport_details_lastSoldDate"="Siste salgsdato";
+"pricingReport_details_recentSales"="Nylig salg";
+"pricingReport_details_noSales"="Ingen nylige salg";
+
+"cardDetail_year"="Kort år";
+"cardDetail_cardNumber"="Kortnummer";
+"cardDetail_set"="Sett";
+"cardDetail_series"="Serie";
+"cardDetail_parallel"="Parallell";
+"cardDetail_grade"="Karakter";
+"cardDetail_ungraded"="Ugradert";
+"cardDetail_color"="Farge";
+"cardDetail_colors"="Farger";
+"cardDetail_type"="Type";
+"cardDetail_manaValue"="Mana verdi";
+"cardDetail_power"="Makt";
+"cardDetail_toughness"="Seighet";
+"cardDetail_rarity"="Sjeldenhet";
+
+"recentlyAdded_title"="Nylig lagt til kort";
+
+"highestValue_title"="Kort med høyest verdi";
+
+"currentValue_title"="Nåværende verdi";
+"currentValue_valueByCategory"="Verdi etter kategori";
+
+"editCard_title"="Rediger detaljer";
+"editCard_parallel"="Parallell";
+"editCard_grade"="Karakter";
+"editCard_customPrice"="Angi egendefinert pris";
+"editCard_action_updateDetails"="Oppdater detaljer";
+"editCard_valueEstimating"="Verdivurdering venter";
+
+"parallelSelection_title"="Parallell";
+"parallelSelection_search_placeholder"="Søk";
+"parallelSelection_allOptions"="Alle alternativer";
+"parallelSelection_missingSample"="Mangler prøve";
+"parallelSelection_noResult"="Ingen resultater";
+"parallelSelection_action_none"="Ingen";
+
+"gradeSelection_title"="Karakter";
+"gradeSelection_selectGrader"="Velg Grader";
+"gradeSelection_selectGrade"="Velg Karakter";
+
+"createCollection_title"="Opprett ny samling";
+"createCollection_collectionName_placeholder"="Gi samlingen et navn";
+"createCollection_action_create"="Skape";
+
+"cardCollection_estimatedValue"="Antatt verdi";
+"cardCollection_noCards"="Denne samlingen har ingen kort";
+"cardCollection_action_addCards"="Legg til kort";
+
+"addCards_title"="Legg til kort i \"%@\"";
+"addCards_titleNoName_collection"="Legg til kort i samlingen";
+"addCards_titleNoName_deck"="Legg kort til kortstokken";
+"addCards_oneCardSelected"="1 kort valgt";
+"addCards_numberOfCardsSelected"="%d kort er valgt";
+"addCards_action_selectAll"="Velg alle";
+"addCards_allCards"="Alle kort";
+"addCards_search_placeholder"="Søk etter et kort";
+"addCards_noResult"="Ingen resultater";
+
+"sortCards_title"="Sorter etter";
+"sortCards_option_dateRecent"="Dato lagret: Nylig-eldst";
+"sortCards_option_dateOldest"="Dato lagret: Eldste-nylig";
+"sortCards_option_nameDirect"="Kortnavn: A-Å";
+"sortCards_option_nameReverse"="Kortnavn: Z-A";
+"sortCards_option_yearRecent"="Kortår: Nylig-eldst";
+"sortCards_option_yearOldest"="Kortår: Eldste-nylig";
+
+"editCollection_title"="Oppdater samlingen";
+"editCollection_collectionName_placeholder"="Gi nytt navn til samlingen din";
+
+"createDeck_title"="Lag ny kortstokk";
+"createDeck_deckName_title"="Gi dekket ditt et navn";
+"createDeck_deckName_placeholder"="Skriv inn et navn";
+"createDeck_deckType_title"="Dekk Type";
+"createDeck_deckType_select"="Velg en kortkategori";
+"createDeck_description_title"="Beskrivelse (valgfritt)";
+"createDeck_description_placeholder"="Skriv inn en beskrivelse for kortstokken din";
+"createDeck_action_create"="Skape";
+
+"cardDeck_noCards"="Det er ingen kort i denne kortstokken";
+"cardDeck_action_addCards"="Legg til kort";
+
+"editCardSet_menu_addCards"="Legg til kort";
+"editCardSet_menu_removeCards"="Fjern kort";
+"editCardSet_menu_sortCards"="Sorter kort";
+"editCardSet_menu_totalPrice"="Totalprisanslag";
+"editCardSet_menu_renameCollection"="Gi nytt navn til samlingen";
+"editCardSet_menu_deleteCollection"="Slett samling";
+"editCardSet_menu_editDeck"="Rediger kortstokk";
+"editCardSet_menu_deleteDeck"="Slett kortstokk";
+
+"editDeck_title"="Oppdater dekk";
+
+"legalityOption_standard"="Standard";
+"legalityOption_pioneer"="Pioner";
+"legalityOption_modern"="Moderne";
+"legalityOption_legacy"="Arv";
+"legalityOption_vintage"="Årgang";
+"legalityOption_commander"="Kommandør";
+"legalityOption_oathbreaker"="Edsbryter";
+"legalityOption_alchemy"="Alkymi";
+"legalityOption_explorer"="Utforsker";
+"legalityOption_brawl"="Slåsskamp";
+"legalityOption_historic"="Historisk";
+"legalityOption_pauper"="Fattiglem";
+"legalityOption_penny"="Øre";
+
+"cardLegality_legal"="Lovlig";
+"cardLegality_notLegal"="Ikke lovlig";
+
+"magicCard_color_white"="Hvit";
+"magicCard_color_blue"="Blå";
+"magicCard_color_black"="Svart";
+"magicCard_color_red"="rød";
+"magicCard_color_green"="Grønn";
+"magicCard_color_colorless"="Fargeløs";
+
+"alert_noInternetConnection_title"="Tilkoblingsproblem";
+"alert_noInternetConnection_message"="Internett-tilkoblingen ser ut til å være offline ☹️";
+"alert_needRecentLogin_title"="Autentiser på nytt";
+"alert_needRecentLogin_message"="For å slette en konto, kreves en nylig pålogging";
+"alert_needRecentLogin_action_logOut"="Logg ut";

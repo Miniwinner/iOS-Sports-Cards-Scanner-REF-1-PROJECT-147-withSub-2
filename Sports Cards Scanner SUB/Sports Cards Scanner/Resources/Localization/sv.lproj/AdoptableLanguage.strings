@@ -1,0 +1,287 @@
+"common_close"="Stänga";
+"common_cancel"="Annullera";
+"common_done"="Gjort";
+"common_reset"="Återställa";
+"common_error"="Hoppsan! Något gick fel";
+"common_ok"="Ok";
+
+"splash_loading"="Läser in";
+
+"signIn_title"="Logga in";
+"signIn_email_title"="E-postadress";
+"signIn_email_placeholder"="Skriv in e-mail";
+"signIn_password_title"="Skriv in lösenord";
+"signIn_password_placeholder"="Skriv in lösenord";
+"signIn_password_forgot"="Glömt ditt lösenord?";
+"signIn_action_signIn"="Logga in";
+"signIn_action_signUp"="Bli Medlem";
+"signIn_signInWith"="Logga in med";
+"signIn_noAccount"="Har du inget konto?";
+"signIn_action_signUp"="Bli Medlem";
+"signIn_error_invalidEmail"="Vänligen ange en giltig e-postadress";
+"signIn_error_userNotFound"="Vänligen ange en giltig e-postadress och lösenord";
+"signIn_error_wrongPassword"="Vänligen ange rätt lösenord";
+"signIn_welcome"="Välkommen tillbaka!";
+"signIn_ask"="Vänligen ange dina inloggningsuppgifter";
+"signInLogInWith"="Logga in med.";
+
+"signUp_title"="Bli Medlem";
+"signUp_email_title"="E-postadress";
+"signUp_email_placeholder"="Skriv in din mailadress";
+"signUp_password_title"="Lösenord";
+"signUp_password_placeholder"="Ange ditt lösenord";
+"signUp_password_requirements"="Lösenord bör vara minst 8 tecken långa och innehålla minst en stor bokstav (A-Z), en liten bokstav (a-z), en siffra (0-9) och ett specialtecken (t.ex. ! % @ eller #).";
+"signUp_confirmPassword_title"="lösenordsbekräftelse";
+"signUp_confirmPassword_placeholder"="Ange din lösenordsbekräftelse";
+"signUp_action_signUp"="Bli Medlem";
+"signUp_action_signIn"="Logga in";
+"signUp_signInWith"="Logga in med";
+"signUp_haveAccount"="Har du redan ett konto?";
+"signUp_error_invalidEmail"="Vänligen ange en giltig e-postadress";
+"signUp_error_existUser"="Det finns redan ett konto med den här e-postadressen";
+"signUp_error_noPasswordRequirements"="Lösenordet måste uppfylla lösenordskraven";
+"signUp_error_passwordsMismatch"="Lösenorden måste matcha";
+
+"dashboard_title"="instrumentbräda";
+"dashboard_welcome_title"="Kliv in i framtiden för kortinsamling";
+"dashboard_welcome_description"="Skanna ett kort för att utöka din samling";
+"dashboard_scanInstructions"="Tryck för att börja skanna ditt kort.";
+"dashboard_currentValue"="Nuvarande värde";
+"dashboard_highestValue"="Högsta värde";
+"dashboard_recentlyAdded"="Nyligen tillagd";
+"dashboard_action_scanCard"="Skanna kort";
+
+"portfolio_title"="Portfölj";
+"portfolio_scanInstructions"="Tryck för att öppna skannern och ditt första kort";
+"portfolio_collection_create"="Skapa samling";
+"portfolio_deck_create"="Skapa däck";
+"portfolio_deck_description"="Samlarkortslek";
+"portfolio_collection_description"="Anpassad samling";
+"portfolio_cards"="Kort";
+"portfolio_oneCard"="1 kort";
+"portfolio_numberOfCards"="%d kort";
+"portfolio_allCards"="Alla kort";
+"portfolio_estimatedValue"="Totalt uppskattat värde";
+"portfolio_scanToAdd"="Skanna ett kort för att lägga till i din samling";
+
+"more_title"="Mer";
+"more_item_cardCategories"="Kortkategorier";
+"more_item_updatePassword"="Uppdatera lösenord";
+"more_item_privacyPolicy"="Integritetspolicy";
+"more_item_termsAndConditions"="Villkor";
+"more_item_pushNotifications"="Aktivera push-meddelanden";
+"more_item_logout"="Logga ut";
+"more_item_deleteAccount"="Radera konto";
+
+"cardCategories_title"="Kortkategorier";
+"cardCategories_description"="Välj de korttyper du vill inkludera i din portfölj och skanner";
+"cardCategories_minEnabledCategories"="Du måste behålla minst en aktiv kategori.";
+
+"updatePassword_title"="Uppdatera lösenord";
+"updatePassword_newPassword_title"="Skapa nytt lösenord";
+"updatePassword_newPassword_placeholder"="Ange nytt lösenord";
+"updatePassword_confirmNewPassword_title"="Bekräfta nytt lösenord";
+"updatePassword_confirmNewPassword_placeholder"="Ange nytt lösenord igen";
+"updatePassword_newPassword_requirements"="Lösenord bör vara minst 8 tecken långa och innehålla minst en stor bokstav (A-Z), en liten bokstav (a-z), en siffra (0-9) och ett specialtecken (t.ex. ! % @ eller #).";
+"updatePassword_newPassword_cut1"="8 tecken";
+"updatePassword_newPassword_cut2"="en stor bokstav";
+"updatePassword_newPassword_cut3"="en liten bokstav";
+"updatePassword_newPassword_cut4"="ett nummer";
+"updatePassword_newPassword_cut5"="en speciell karaktär";
+"updatePassword_action_save"="Spara";
+"updatePassword_error_noPasswordRequirements"="Lösenordet måste uppfylla lösenordskraven";
+"updatePassword_error_passwordsMismatch"="Lösenorden måste matcha";
+"updatePassword_error_needReauthenticate"="Vänligen autentisera igen för att ändra ditt lösenord";
+
+"cardCategory_baseball"="Baseboll";
+"cardCategory_pokemon"="Pokémon";
+"cardCategory_basketball"="Basketboll";
+"cardCategory_football"="Fotboll";
+"cardCategory_magic"="Magic: The Gathering";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Hockey";
+"cardCategory_soccer"="Fotboll";
+
+"forgotPassword_title"="Glömt ditt lösenord";
+"forgotPassword_description"="Ange e-postadressen för ditt konto så skickar vi instruktioner för att återställa ditt lösenord";
+"forgotPassword_email_title"="E-postadress";
+"forgotPassword_email_placeholder"="Skriv in din mailadress";
+"forgotPassword_action_send"="Skicka";
+"forgotPassword_error_userNotFound"="Det finns inga användare med denna e-postadress";
+"forgotPassword_error_invalidEmail"="Vänligen ange en giltig e-postadress";
+
+"resetPassword_title"="Återställ lösenord";
+"resetPassword_emailSent"="Instruktioner för återställning av lösenord har skickats till e-postadressen: %@";
+
+"scanCard_cardSide_front"="Framsidan av kortet";
+"scanCard_noAuthorization_title"="Tillåt %@ att komma åt din kamera";
+"scanCard_noAuthorization_description"="Detta låter dig skanna kort";
+"scanCard_action_openSettings"="Öppna Inställningar";
+"scanCard_gradeType_graded"="Betygsatt";
+"scanCard_gradeType_raw"="Rå";
+
+"prompt_action_cancel"="Annullera";
+"prompt_title"="Är du säker?";
+"prompt_logout_description"="Är du säker på att du vill ta bort ditt konto?";
+"prompt_logout_confirmAction"="Logga ut";
+"prompt_deleteAccount_description"="Att ta bort samlingen tar inte bort korten; de kommer att stanna i din portfölj.";
+"prompt_deleteAccount_keepAction"="Ha kvar";
+"prompt_deleteAccount_sure"="Är du säker på att du vill ta bort ditt konto?";
+"prompt_deleteAccount_confirmAction"="Radera";
+"prompt_deleteCollection_description"="Att radera samlingen kommer inte att radera korten i samlingen. Korten kommer att finnas kvar i din portfölj.";
+"prompt_deleteCollection_keepAction"="Ha kvar";
+"prompt_deleteCollection_confirmAction"="Radera";
+"prompt_deleteDeck_description"="Att ta bort kortleken kommer inte att radera korten i leken. Korten kommer att finnas kvar i din portfölj.";
+"prompt_deleteDeck_keepAction"="Ha kvar";
+"prompt_deleteDeck_confirmAction"="Radera";
+"prompt_removeCard_description"="Du är på väg att ta bort det här kortet från din portfölj. Det här kortet skulle behöva skannas igen för att lägga till tillbaka till din portfölj.";
+"prompt_removeCard_keepAction"="Ha kvar";
+"prompt_removeCard_confirmAction"="Avlägsna";
+
+"identifyingCard_title"="%@ Kortet har tagits";
+"identifyingCard_processTitle"="Identifieringskort...";
+"identifyingCard_action_cancel"="Avbryt SCAN";
+
+"searchCard_title"="Sökkort";
+"searchCard_search_placeholder"="Sök efter ett kort";
+"searchCard_error_tryAgain"="Försök igen! Fortsätt leta!";
+
+"card_missingImage"="Saknas\nBild";
+
+"cardDetails_action_addCard"="Lägg till i portfölj";
+"cardDetails_action_findCard"="Hitta kort";
+"cardDetails_action_editCard"="Redigera kort och betyg";
+"cardDetails_action_removeCard"="Ta bort från portföljen";
+
+"pricingReport_setCustomPrice"="Ange anpassat pris";
+"pricingReport_editCustomPrice"="Redigera anpassat pris";
+"pricingReport_viewReport"="Se prisrapport";
+"pricingReport_valueEstimating"="Värdeuppskattning väntar";
+
+"pricingReport_details_priceReport"="Prisrapport";
+"pricingReport_details_lastSoldPrice"="Senast såld pris";
+"pricingReport_details_lastSoldDate"="Senaste försäljningsdatum";
+"pricingReport_details_recentSales"="Senaste försäljningen";
+"pricingReport_details_noSales"="Ingen försäljning nyligen";
+
+"cardDetail_year"="Kort år";
+"cardDetail_cardNumber"="Kortnummer";
+"cardDetail_set"="Uppsättning";
+"cardDetail_series"="Serier";
+"cardDetail_parallel"="Parallell";
+"cardDetail_grade"="Kvalitet";
+"cardDetail_ungraded"="Ej betygsatt";
+"cardDetail_color"="Färg";
+"cardDetail_colors"="Färger";
+"cardDetail_type"="Typ";
+"cardDetail_manaValue"="Mana värde";
+"cardDetail_power"="Kraft";
+"cardDetail_toughness"="Seghet";
+"cardDetail_rarity"="Sällsynthet";
+
+"recentlyAdded_title"="Nyligen tillagda kort";
+
+"highestValue_title"="Högsta värdekort";
+
+"currentValue_title"="Nuvarande värde";
+"currentValue_valueByCategory"="Värde per kategori";
+
+"editCard_title"="Redigera detaljer";
+"editCard_parallel"="Parallell";
+"editCard_grade"="Kvalitet";
+"editCard_customPrice"="Ange anpassat pris";
+"editCard_action_updateDetails"="Uppdatera detaljer";
+"editCard_valueEstimating"="Värdeuppskattning väntar";
+
+"parallelSelection_title"="Parallell";
+"parallelSelection_search_placeholder"="Sök";
+"parallelSelection_allOptions"="Alla alternativ";
+"parallelSelection_missingSample"="Saknar prov";
+"parallelSelection_noResult"="Inga resultat funna";
+"parallelSelection_action_none"="Ingen";
+
+"gradeSelection_title"="Kvalitet";
+"gradeSelection_selectGrader"="Välj Grader";
+"gradeSelection_selectGrade"="Välj Betyg";
+
+"createCollection_title"="Skapa ny samling";
+"createCollection_collectionName_placeholder"="Namnge din samling";
+"createCollection_action_create"="Skapa";
+
+"cardCollection_estimatedValue"="Uppskattat värde";
+"cardCollection_noCards"="Denna samling har inga kort";
+"cardCollection_action_addCards"="Lägg till kort";
+
+"addCards_title"="Lägg till kort i \"%@\"";
+"addCards_titleNoName_collection"="Lägg till kort i samlingen";
+"addCards_titleNoName_deck"="Lägg till kort till kortleken";
+"addCards_oneCardSelected"="1 kort valt";
+"addCards_numberOfCardsSelected"="%d kort har valts";
+"addCards_action_selectAll"="Välj alla";
+"addCards_allCards"="Alla kort";
+"addCards_search_placeholder"="Sök efter ett kort";
+"addCards_noResult"="Inga resultat funna";
+
+"sortCards_title"="Sortera efter";
+"sortCards_option_dateRecent"="Sparad datum: Nyligen-äldst";
+"sortCards_option_dateOldest"="Sparad datum: Äldsta-senaste";
+"sortCards_option_nameDirect"="Kortnamn: A-Z";
+"sortCards_option_nameReverse"="Kortnamn: Z-A";
+"sortCards_option_yearRecent"="Kortår: Senaste-äldst";
+"sortCards_option_yearOldest"="Kortår: Äldsta-senaste";
+
+"editCollection_title"="Uppdatera samling";
+"editCollection_collectionName_placeholder"="Byt namn på din samling";
+
+"createDeck_title"="Skapa nytt däck";
+"createDeck_deckName_title"="Ge ditt däck ett namn";
+"createDeck_deckName_placeholder"="Ange ett namn";
+"createDeck_deckType_title"="Typ av däck";
+"createDeck_deckType_select"="Välj en kortkategori";
+"createDeck_description_title"="Beskrivning (valfritt)";
+"createDeck_description_placeholder"="Ange en beskrivning för din kortlek";
+"createDeck_action_create"="Skapa";
+
+"cardDeck_noCards"="Det finns inga kort i denna lek";
+"cardDeck_action_addCards"="Lägg till kort";
+
+"editCardSet_menu_addCards"="Lägg till kort";
+"editCardSet_menu_removeCards"="Ta bort kort";
+"editCardSet_menu_sortCards"="Sortera kort";
+"editCardSet_menu_totalPrice"="Totalprisuppskattning";
+"editCardSet_menu_renameCollection"="Byt namn på samlingen";
+"editCardSet_menu_deleteCollection"="Ta bort samling";
+"editCardSet_menu_editDeck"="Redigera kortlek";
+"editCardSet_menu_deleteDeck"="Ta bort däck";
+
+"editDeck_title"="Uppdatera däck";
+
+"legalityOption_standard"="Standard";
+"legalityOption_pioneer"="Pionjär";
+"legalityOption_modern"="Modern";
+"legalityOption_legacy"="Arv";
+"legalityOption_vintage"="Årgång";
+"legalityOption_commander"="Befälhavare";
+"legalityOption_oathbreaker"="Oathbreaker";
+"legalityOption_alchemy"="Alkemi";
+"legalityOption_explorer"="Utforskare";
+"legalityOption_brawl"="Bråk";
+"legalityOption_historic"="Historisk";
+"legalityOption_pauper"="Fattighjon";
+"legalityOption_penny"="Penny";
+
+"cardLegality_legal"="Rättslig";
+"cardLegality_notLegal"="Inte lagligt";
+
+"magicCard_color_white"="Vit";
+"magicCard_color_blue"="Blå";
+"magicCard_color_black"="Svart";
+"magicCard_color_red"="Röd";
+"magicCard_color_green"="Grön";
+"magicCard_color_colorless"="Färglös";
+
+"alert_noInternetConnection_title"="Anslutningsproblem";
+"alert_noInternetConnection_message"="Internetanslutningen verkar vara offline ☹️";
+"alert_needRecentLogin_title"="Autentisera på nytt";
+"alert_needRecentLogin_message"="För att radera ett konto krävs en ny inloggning";
+"alert_needRecentLogin_action_logOut"="Logga ut";

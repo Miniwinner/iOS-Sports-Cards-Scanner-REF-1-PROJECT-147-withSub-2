@@ -1,0 +1,287 @@
+"common_close"="Fechar";
+"common_cancel"="Cancelar";
+"common_done"="Feito";
+"common_reset"="Reiniciar";
+"common_error"="Ops, algo deu errado";
+"common_ok"="OK";
+
+"splash_loading"="Carregando";
+
+"signIn_title"="Entrar";
+"signIn_email_title"="Endereço de email";
+"signIn_email_placeholder"="Digite o e-mail";
+"signIn_password_title"="Digite a senha";
+"signIn_password_placeholder"="Digite a senha";
+"signIn_password_forgot"="Esqueceu sua senha?";
+"signIn_action_signIn"="Entrar";
+"signIn_action_signUp"="Inscrever-se";
+"signIn_signInWith"="Entrar com";
+"signIn_noAccount"="Não tem uma conta?";
+"signIn_action_signUp"="Inscrever-se";
+"signIn_error_invalidEmail"="Por favor insira um endereço de e-mail válido";
+"signIn_error_userNotFound"="Por favor insira um e-mail e senha válidos";
+"signIn_error_wrongPassword"="Por favor insira a senha correta";
+"signIn_welcome"="Bem vindo de volta!";
+"signIn_ask"="Por favor insira seus dados de login";
+"signInLogInWith"="Faça login com.";
+
+"signUp_title"="Inscrever-se";
+"signUp_email_title"="Endereço de email";
+"signUp_email_placeholder"="Insira o seu endereço de email";
+"signUp_password_title"="Senha";
+"signUp_password_placeholder"="Coloque sua senha";
+"signUp_password_requirements"="As senhas devem ter no mínimo 8 caracteres e incluir pelo menos uma letra maiúscula (A-Z), uma letra minúscula (a-z), um número (0-9) e um caractere especial (por exemplo, ! % @ ou #).";
+"signUp_confirmPassword_title"="ConfirmaÇão Da Senha";
+"signUp_confirmPassword_placeholder"="Digite sua confirmação de senha";
+"signUp_action_signUp"="Inscrever-se";
+"signUp_action_signIn"="Entrar";
+"signUp_signInWith"="Entrar com";
+"signUp_haveAccount"="já tem uma conta?";
+"signUp_error_invalidEmail"="Por favor insira um endereço de e-mail válido";
+"signUp_error_existUser"="Já existe uma conta com este endereço de e-mail";
+"signUp_error_noPasswordRequirements"="A senha deve atender aos requisitos de senha";
+"signUp_error_passwordsMismatch"="As senhas devem corresponder";
+
+"dashboard_title"="Painel";
+"dashboard_welcome_title"="Entre no futuro da coleta de cartões";
+"dashboard_welcome_description"="Digitalize um cartão para expandir sua coleção";
+"dashboard_scanInstructions"="Toque para começar a digitalizar seu cartão.";
+"dashboard_currentValue"="Valor atual";
+"dashboard_highestValue"="Valor mais alto";
+"dashboard_recentlyAdded"="Adicionado recentemente";
+"dashboard_action_scanCard"="Digitalizar cartão";
+
+"portfolio_title"="Portfólio";
+"portfolio_scanInstructions"="Toque para abrir o scanner e seu primeiro cartão";
+"portfolio_collection_create"="Criar coleção";
+"portfolio_deck_create"="Criar baralho";
+"portfolio_deck_description"="Baralho de cartas colecionáveis";
+"portfolio_collection_description"="Coleção customizada";
+"portfolio_cards"="Cartões";
+"portfolio_oneCard"="1 cartão";
+"portfolio_numberOfCards"="%d cartões";
+"portfolio_allCards"="Todos os cartões";
+"portfolio_estimatedValue"="Valor Total Estimado";
+"portfolio_scanToAdd"="Digitalize um cartão para adicionar à sua coleção";
+
+"more_title"="Mais";
+"more_item_cardCategories"="Categorias de cartões";
+"more_item_updatePassword"="Atualizar senha";
+"more_item_privacyPolicy"="política de Privacidade";
+"more_item_termsAndConditions"="Termos de uso";
+"more_item_pushNotifications"="Habilitar notificações push";
+"more_item_logout"="Sair";
+"more_item_deleteAccount"="Deletar conta";
+
+"cardCategories_title"="Categorias de cartões";
+"cardCategories_description"="Selecione os tipos de cartão que deseja incluir em seu portfólio e scanner";
+"cardCategories_minEnabledCategories"="Você precisa manter pelo menos uma categoria ativa.";
+
+"updatePassword_title"="Atualizar senha";
+"updatePassword_newPassword_title"="Criar nova senha";
+"updatePassword_newPassword_placeholder"="Insira a nova senha";
+"updatePassword_confirmNewPassword_title"="Confirme a nova senha";
+"updatePassword_confirmNewPassword_placeholder"="Re-introduza a nova palavra-passe";
+"updatePassword_newPassword_requirements"="As senhas devem ter no mínimo 8 caracteres e incluir pelo menos uma letra maiúscula (A-Z), uma letra minúscula (a-z), um número (0-9) e um caractere especial (por exemplo, ! % @ ou #).";
+"updatePassword_newPassword_cut1"="8 caracteres";
+"updatePassword_newPassword_cut2"="uma letra maiúscula";
+"updatePassword_newPassword_cut3"="uma letra minúscula";
+"updatePassword_newPassword_cut4"="um número";
+"updatePassword_newPassword_cut5"="um caractere especial";
+"updatePassword_action_save"="Salvar";
+"updatePassword_error_noPasswordRequirements"="A senha deve atender aos requisitos de senha";
+"updatePassword_error_passwordsMismatch"="As senhas devem corresponder";
+"updatePassword_error_needReauthenticate"="Por favor, reautentique para alterar sua senha";
+
+"cardCategory_baseball"="Beisebol";
+"cardCategory_pokemon"="Pokémon";
+"cardCategory_basketball"="Basquetebol";
+"cardCategory_football"="Futebol";
+"cardCategory_magic"="Magia: A Reunião";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Hóquei";
+"cardCategory_soccer"="Futebol";
+
+"forgotPassword_title"="Esqueceu sua senha";
+"forgotPassword_description"="Digite o endereço de e-mail da sua conta e enviaremos instruções para redefinir sua senha";
+"forgotPassword_email_title"="Endereço de email";
+"forgotPassword_email_placeholder"="Insira o seu endereço de email";
+"forgotPassword_action_send"="Enviar";
+"forgotPassword_error_userNotFound"="Não há usuários com este endereço de e-mail";
+"forgotPassword_error_invalidEmail"="Por favor insira um endereço de e-mail válido";
+
+"resetPassword_title"="Redefinir senha";
+"resetPassword_emailSent"="As instruções de redefinição de senha foram enviadas para o endereço de e-mail: %@";
+
+"scanCard_cardSide_front"="Frente do cartão";
+"scanCard_noAuthorization_title"="Permitir que %@ acesse sua câmera";
+"scanCard_noAuthorization_description"="Isso permite digitalizar cartões";
+"scanCard_action_openSettings"="Abrir configurações";
+"scanCard_gradeType_graded"="Classificado";
+"scanCard_gradeType_raw"="Cru";
+
+"prompt_action_cancel"="Cancelar";
+"prompt_title"="Tem certeza?";
+"prompt_logout_description"="Tem certeza de que deseja remover sua conta?";
+"prompt_logout_confirmAction"="Sair";
+"prompt_deleteAccount_description"="Excluir a coleção não removerá os cartões; eles permanecerão em seu portfólio.";
+"prompt_deleteAccount_keepAction"="Manter";
+"prompt_deleteAccount_sure"="Tem certeza de que deseja remover sua conta?";
+"prompt_deleteAccount_confirmAction"="Excluir";
+"prompt_deleteCollection_description"="Excluir a coleção não excluirá os cartões da coleção. Os cartões permanecerão em seu portfólio.";
+"prompt_deleteCollection_keepAction"="Manter";
+"prompt_deleteCollection_confirmAction"="Excluir";
+"prompt_deleteDeck_description"="Excluir o baralho não excluirá as cartas do baralho. Os cartões permanecerão em seu portfólio.";
+"prompt_deleteDeck_keepAction"="Manter";
+"prompt_deleteDeck_confirmAction"="Excluir";
+"prompt_removeCard_description"="Você está prestes a remover este cartão do seu portfólio. Este cartão precisaria ser digitalizado novamente para adicioná-lo novamente ao seu portfólio.";
+"prompt_removeCard_keepAction"="Manter";
+"prompt_removeCard_confirmAction"="Remover";
+
+"identifyingCard_title"="%@ Cartão Capturado";
+"identifyingCard_processTitle"="Cartão de identificação...";
+"identifyingCard_action_cancel"="Cancelar VERIFICAÇÃO";
+
+"searchCard_title"="Cartão de pesquisa";
+"searchCard_search_placeholder"="Procure um cartão";
+"searchCard_error_tryAgain"="Tente novamente! Continue procurando!";
+
+"card_missingImage"="Falta\nimagem";
+
+"cardDetails_action_addCard"="Adicionar ao portfólio";
+"cardDetails_action_findCard"="Encontrar cartão";
+"cardDetails_action_editCard"="Editar cartão e nota";
+"cardDetails_action_removeCard"="Remover do portfólio";
+
+"pricingReport_setCustomPrice"="Definir preço personalizado";
+"pricingReport_editCustomPrice"="Editar preço personalizado";
+"pricingReport_viewReport"="Ver relatório de preços";
+"pricingReport_valueEstimating"="Estimativa de valor pendente";
+
+"pricingReport_details_priceReport"="Relatório de preços";
+"pricingReport_details_lastSoldPrice"="Último preço vendido";
+"pricingReport_details_lastSoldDate"="Data da última venda";
+"pricingReport_details_recentSales"="Vendas recentes";
+"pricingReport_details_noSales"="Nenhuma venda recente";
+
+"cardDetail_year"="Ano do cartão";
+"cardDetail_cardNumber"="Cartão #";
+"cardDetail_set"="Definir";
+"cardDetail_series"="Series";
+"cardDetail_parallel"="Paralelo";
+"cardDetail_grade"="Nota";
+"cardDetail_ungraded"="Sem classificação";
+"cardDetail_color"="Cor";
+"cardDetail_colors"="Cores";
+"cardDetail_type"="Tipo";
+"cardDetail_manaValue"="Valor de mana";
+"cardDetail_power"="Poder";
+"cardDetail_toughness"="Dureza";
+"cardDetail_rarity"="Raridade";
+
+"recentlyAdded_title"="Cartões adicionados recentemente";
+
+"highestValue_title"="Cartões de maior valor";
+
+"currentValue_title"="Valor atual";
+"currentValue_valueByCategory"="Valor por categoria";
+
+"editCard_title"="Editar Detalhes";
+"editCard_parallel"="Paralelo";
+"editCard_grade"="Nota";
+"editCard_customPrice"="Definir preço personalizado";
+"editCard_action_updateDetails"="Detalhes da atualização";
+"editCard_valueEstimating"="Estimativa de valor pendente";
+
+"parallelSelection_title"="Paralelo";
+"parallelSelection_search_placeholder"="Procurar";
+"parallelSelection_allOptions"="Todas as opções";
+"parallelSelection_missingSample"="Amostra ausente";
+"parallelSelection_noResult"="Nenhum resultado encontrado";
+"parallelSelection_action_none"="Nenhum";
+
+"gradeSelection_title"="Nota";
+"gradeSelection_selectGrader"="Selecione o avaliador";
+"gradeSelection_selectGrade"="Selecione a nota";
+
+"createCollection_title"="Criar nova coleção";
+"createCollection_collectionName_placeholder"="Dê um nome à sua coleção";
+"createCollection_action_create"="Criar";
+
+"cardCollection_estimatedValue"="Valor estimado";
+"cardCollection_noCards"="Esta coleção não tem cartas";
+"cardCollection_action_addCards"="Adicionar cartões";
+
+"addCards_title"="Adicionar cartões a \"%@\"";
+"addCards_titleNoName_collection"="Adicionar cartões à coleção";
+"addCards_titleNoName_deck"="Adicionar cartas ao baralho";
+"addCards_oneCardSelected"="1 cartão selecionado";
+"addCards_numberOfCardsSelected"="%d cartões selecionados";
+"addCards_action_selectAll"="Selecionar tudo";
+"addCards_allCards"="Todos os cartões";
+"addCards_search_placeholder"="Procure um cartão";
+"addCards_noResult"="Nenhum resultado encontrado";
+
+"sortCards_title"="Ordenar por";
+"sortCards_option_dateRecent"="Data salva: recente-mais antiga";
+"sortCards_option_dateOldest"="Data salva: mais antiga-recente";
+"sortCards_option_nameDirect"="Nome do cartão: A-Z";
+"sortCards_option_nameReverse"="Nome do cartão: Z-A";
+"sortCards_option_yearRecent"="Ano do cartão: recente-mais antigo";
+"sortCards_option_yearOldest"="Ano do cartão: mais antigo-recente";
+
+"editCollection_title"="Atualizar coleção";
+"editCollection_collectionName_placeholder"="Renomeie sua coleção";
+
+"createDeck_title"="Criar novo baralho";
+"createDeck_deckName_title"="Dê um nome ao seu baralho";
+"createDeck_deckName_placeholder"="Insira o nome";
+"createDeck_deckType_title"="Tipo de convés";
+"createDeck_deckType_select"="Selecione uma categoria de cartão";
+"createDeck_description_title"="Descrição (opcional)";
+"createDeck_description_placeholder"="Insira uma descrição para o seu Deck";
+"createDeck_action_create"="Criar";
+
+"cardDeck_noCards"="Não há cartas neste baralho";
+"cardDeck_action_addCards"="Adicionar cartões";
+
+"editCardSet_menu_addCards"="Adicionar cartões";
+"editCardSet_menu_removeCards"="Remover cartões";
+"editCardSet_menu_sortCards"="Classificar cartões";
+"editCardSet_menu_totalPrice"="Estimativa de preço total";
+"editCardSet_menu_renameCollection"="Renomear coleção";
+"editCardSet_menu_deleteCollection"="Excluir coleção";
+"editCardSet_menu_editDeck"="Editar baralho";
+"editCardSet_menu_deleteDeck"="Excluir baralho";
+
+"editDeck_title"="Atualizar baralho";
+
+"legalityOption_standard"="Padrão";
+"legalityOption_pioneer"="Pioneiro";
+"legalityOption_modern"="Moderno";
+"legalityOption_legacy"="Legado";
+"legalityOption_vintage"="Vintage";
+"legalityOption_commander"="Comandante";
+"legalityOption_oathbreaker"="Perjuro";
+"legalityOption_alchemy"="Alquimia";
+"legalityOption_explorer"="Explorador";
+"legalityOption_brawl"="Briga";
+"legalityOption_historic"="Histórico";
+"legalityOption_pauper"="Pobre";
+"legalityOption_penny"="Centavo";
+
+"cardLegality_legal"="Jurídico";
+"cardLegality_notLegal"="Não é legal";
+
+"magicCard_color_white"="Branco";
+"magicCard_color_blue"="Azul";
+"magicCard_color_black"="Preto";
+"magicCard_color_red"="Vermelho";
+"magicCard_color_green"="Verde";
+"magicCard_color_colorless"="Incolor";
+
+"alert_noInternetConnection_title"="Problema de conectividade";
+"alert_noInternetConnection_message"="A conexão com a Internet parece estar off-line ☹️";
+"alert_needRecentLogin_title"="Reautenticar";
+"alert_needRecentLogin_message"="Para excluir uma conta, é necessário um login recente";
+"alert_needRecentLogin_action_logOut"="Sair";

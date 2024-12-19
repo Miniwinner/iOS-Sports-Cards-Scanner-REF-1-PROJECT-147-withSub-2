@@ -1,0 +1,287 @@
+"common_close"="Bezárás";
+"common_cancel"="Megszünteti";
+"common_done"="Kész";
+"common_reset"="Visszaállítás";
+"common_error"="Hoppá! Valami rosszul sült el";
+"common_ok"="Rendben";
+
+"splash_loading"="Betöltés";
+
+"signIn_title"="Bejelentkezés";
+"signIn_email_title"="Email cím";
+"signIn_email_placeholder"="Írja be az e-mail címet";
+"signIn_password_title"="Írd be a jelszót";
+"signIn_password_placeholder"="Írd be a jelszót";
+"signIn_password_forgot"="Elfelejtett jelszó?";
+"signIn_action_signIn"="Bejelentkezés";
+"signIn_action_signUp"="Regisztrálj";
+"signIn_signInWith"="Jelentkezz be vele";
+"signIn_noAccount"="Nincs fiókod?";
+"signIn_action_signUp"="Regisztrálj";
+"signIn_error_invalidEmail"="Kérjük valós e-mail címet adjon meg";
+"signIn_error_userNotFound"="Kérjük, adjon meg egy érvényes e-mail címet és jelszót";
+"signIn_error_wrongPassword"="Kérjük, adja meg a helyes jelszót";
+"signIn_welcome"="Üdv újra!";
+"signIn_ask"="Kérjük, adja meg bejelentkezési adatait";
+"signInLogInWith"="Bejelentkezés vele.";
+
+"signUp_title"="Regisztrálj";
+"signUp_email_title"="Email cím";
+"signUp_email_placeholder"="írd be az email címed";
+"signUp_password_title"="Jelszó";
+"signUp_password_placeholder"="Írd be a jelszavad";
+"signUp_password_requirements"="A jelszavaknak legalább 8 karakter hosszúságúnak kell lenniük, és tartalmazniuk kell legalább egy nagybetűt (A-Z), egy kisbetűt (a-z), egy számot (0-9) és egy speciális karaktert (pl. ! % @ vagy #).";
+"signUp_confirmPassword_title"="Jelszó megerősítése";
+"signUp_confirmPassword_placeholder"="Írja be a jelszó megerősítését";
+"signUp_action_signUp"="Regisztrálj";
+"signUp_action_signIn"="Bejelentkezés";
+"signUp_signInWith"="Jelentkezz be vele";
+"signUp_haveAccount"="Már van fiókja?";
+"signUp_error_invalidEmail"="Kérjük valós e-mail címet adjon meg";
+"signUp_error_existUser"="Már létezik fiók ezzel az e-mail címmel";
+"signUp_error_noPasswordRequirements"="A jelszónak meg kell felelnie a jelszókövetelményeknek";
+"signUp_error_passwordsMismatch"="a jelszavaknak egyezniük kell";
+
+"dashboard_title"="Irányítópult";
+"dashboard_welcome_title"="Lépjen be a kártyagyűjtés jövőjébe";
+"dashboard_welcome_description"="Szkenneljen be egy kártyát a gyűjtemény bővítéséhez";
+"dashboard_scanInstructions"="Érintse meg a kártya beolvasásának megkezdéséhez.";
+"dashboard_currentValue"="Jelenlegi érték";
+"dashboard_highestValue"="Legmagasabb érték";
+"dashboard_recentlyAdded"="Nemrég hozzáadott";
+"dashboard_action_scanCard"="Scan Card";
+
+"portfolio_title"="Portfólió";
+"portfolio_scanInstructions"="Érintse meg a lapolvasó és az első kártya megnyitásához";
+"portfolio_collection_create"="Gyűjtemény létrehozása";
+"portfolio_deck_create"="Készítsen fedélzetet";
+"portfolio_deck_description"="Kereskedelmi kártyajáték pakli";
+"portfolio_collection_description"="Egyedi gyűjtemény";
+"portfolio_cards"="Kártyák";
+"portfolio_oneCard"="1 kártya";
+"portfolio_numberOfCards"="%d kártya";
+"portfolio_allCards"="Minden kártya";
+"portfolio_estimatedValue"="Teljes becsült érték";
+"portfolio_scanToAdd"="Szkenneljen be egy kártyát, hogy hozzáadja a gyűjteményéhez";
+
+"more_title"="Több";
+"more_item_cardCategories"="Kártya kategóriák";
+"more_item_updatePassword"="Jelszó frissítése";
+"more_item_privacyPolicy"="Adatvédelmi irányelvek";
+"more_item_termsAndConditions"="Használati feltételek";
+"more_item_pushNotifications"="Push értesítések engedélyezése";
+"more_item_logout"="Kijelentkezés";
+"more_item_deleteAccount"="Fiók törlése";
+
+"cardCategories_title"="Kártya kategóriák";
+"cardCategories_description"="Kérjük, válassza ki a portfóliójába és szkennerébe belefoglalni kívánt kártyatípusokat";
+"cardCategories_minEnabledCategories"="Legalább egy aktív kategóriát fenn kell tartania.";
+
+"updatePassword_title"="Jelszó frissítése";
+"updatePassword_newPassword_title"="Hozzon létre új jelszót";
+"updatePassword_newPassword_placeholder"="Adjon meg új jelszót";
+"updatePassword_confirmNewPassword_title"="Erősítsd meg az új jelszót";
+"updatePassword_confirmNewPassword_placeholder"="Ismételje meg az új jelszót";
+"updatePassword_newPassword_requirements"="A jelszavaknak legalább 8 karakter hosszúságúnak kell lenniük, és tartalmazniuk kell legalább egy nagybetűt (A-Z), egy kisbetűt (a-z), egy számot (0-9) és egy speciális karaktert (pl. ! % @ vagy #).";
+"updatePassword_newPassword_cut1"="8 karakter";
+"updatePassword_newPassword_cut2"="Egy nagybetű";
+"updatePassword_newPassword_cut3"="egy kisbetű";
+"updatePassword_newPassword_cut4"="egy szám";
+"updatePassword_newPassword_cut5"="egy különleges karakter";
+"updatePassword_action_save"="Megment";
+"updatePassword_error_noPasswordRequirements"="A jelszónak meg kell felelnie a jelszókövetelményeknek";
+"updatePassword_error_passwordsMismatch"="a jelszavaknak egyezniük kell";
+"updatePassword_error_needReauthenticate"="A jelszó megváltoztatásához hitelesítse újra";
+
+"cardCategory_baseball"="Baseball";
+"cardCategory_pokemon"="Pokémon";
+"cardCategory_basketball"="Kosárlabda";
+"cardCategory_football"="Futball";
+"cardCategory_magic"="Magic: The Gathering";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Jégkorong";
+"cardCategory_soccer"="Futball";
+
+"forgotPassword_title"="Elfelejtett jelszó";
+"forgotPassword_description"="Adja meg fiókja e-mail címét, és elküldjük Önnek a jelszó visszaállításához szükséges utasításokat";
+"forgotPassword_email_title"="Email cím";
+"forgotPassword_email_placeholder"="írd be az email címed";
+"forgotPassword_action_send"="Küld";
+"forgotPassword_error_userNotFound"="Nincsenek felhasználók ezzel az e-mail címmel";
+"forgotPassword_error_invalidEmail"="Kérjük valós e-mail címet adjon meg";
+
+"resetPassword_title"="Jelszó visszaállítása";
+"resetPassword_emailSent"="A jelszó-visszaállítási utasításokat elküldtük a következő e-mail címre: %@";
+
+"scanCard_cardSide_front"="A kártya eleje";
+"scanCard_noAuthorization_title"="Engedélyezze a(z) %@ számára, hogy hozzáférjen a kamerához";
+"scanCard_noAuthorization_description"="Ez lehetővé teszi a kártyák beolvasását";
+"scanCard_action_openSettings"="Nyisd meg a beállításokat";
+"scanCard_gradeType_graded"="Osztályozott";
+"scanCard_gradeType_raw"="Nyers";
+
+"prompt_action_cancel"="Megszünteti";
+"prompt_title"="biztos vagy ebben?";
+"prompt_logout_description"="Biztos benne, hogy el kívánja távolítani fiókját?";
+"prompt_logout_confirmAction"="Kijelentkezés";
+"prompt_deleteAccount_description"="A gyűjtemény törlése nem távolítja el a kártyákat; a portfóliójában maradnak.";
+"prompt_deleteAccount_keepAction"="Tart";
+"prompt_deleteAccount_sure"="Biztos benne, hogy el kívánja távolítani fiókját?";
+"prompt_deleteAccount_confirmAction"="Töröl";
+"prompt_deleteCollection_description"="A gyűjtemény törlésével a gyűjteményben lévő kártyák nem törlődnek. A kártyák a portfóliójában maradnak.";
+"prompt_deleteCollection_keepAction"="Tart";
+"prompt_deleteCollection_confirmAction"="Töröl";
+"prompt_deleteDeck_description"="A pakli törlése nem törli a kártyákat a pakliban. A kártyák a portfóliójában maradnak.";
+"prompt_deleteDeck_keepAction"="Tart";
+"prompt_deleteDeck_confirmAction"="Töröl";
+"prompt_removeCard_description"="Arra készül, hogy eltávolítsa ezt a kártyát portfóliójából. Ezt a kártyát újra be kell olvasni, hogy visszakerüljön a portfóliójába.";
+"prompt_removeCard_keepAction"="Tart";
+"prompt_removeCard_confirmAction"="Távolítsa el";
+
+"identifyingCard_title"="%@ Kártya rögzítve";
+"identifyingCard_processTitle"="Személyazonosító kártya...";
+"identifyingCard_action_cancel"="Szkennelés megszakítása";
+
+"searchCard_title"="Keresőkártya";
+"searchCard_search_placeholder"="Keressen egy kártyát";
+"searchCard_error_tryAgain"="Próbáld újra! Folytasd a keresést!";
+
+"card_missingImage"="Hiányzik\nKép";
+
+"cardDetails_action_addCard"="Hozzáadás a portfólióhoz";
+"cardDetails_action_findCard"="Kártya keresése";
+"cardDetails_action_editCard"="Kártya és osztályzat szerkesztése";
+"cardDetails_action_removeCard"="Eltávolítás a portfólióból";
+
+"pricingReport_setCustomPrice"="Állítsa be az egyéni árat";
+"pricingReport_editCustomPrice"="Egyéni ár szerkesztése";
+"pricingReport_viewReport"="Tekintse meg az árjelentést";
+"pricingReport_valueEstimating"="Értékbecslés függőben";
+
+"pricingReport_details_priceReport"="Árjelentés";
+"pricingReport_details_lastSoldPrice"="Utolsó eladási ár";
+"pricingReport_details_lastSoldDate"="Utolsó eladás dátuma";
+"pricingReport_details_recentSales"="Legutóbbi értékesítések";
+"pricingReport_details_noSales"="Nincsenek legutóbbi eladások";
+
+"cardDetail_year"="Kártya éve";
+"cardDetail_cardNumber"="kártya száma";
+"cardDetail_set"="Készlet";
+"cardDetail_series"="Sorozat";
+"cardDetail_parallel"="Párhuzamos";
+"cardDetail_grade"="Fokozat";
+"cardDetail_ungraded"="Osztályozatlan";
+"cardDetail_color"="Szín";
+"cardDetail_colors"="Színek";
+"cardDetail_type"="típus";
+"cardDetail_manaValue"="Mana érték";
+"cardDetail_power"="Erő";
+"cardDetail_toughness"="Szívósság";
+"cardDetail_rarity"="Ritkaság";
+
+"recentlyAdded_title"="Nemrég hozzáadott kártyák";
+
+"highestValue_title"="Legnagyobb értékű kártyák";
+
+"currentValue_title"="Jelenlegi érték";
+"currentValue_valueByCategory"="Érték kategóriánként";
+
+"editCard_title"="Részletek szerkesztése";
+"editCard_parallel"="Párhuzamos";
+"editCard_grade"="Fokozat";
+"editCard_customPrice"="Állítsa be az egyéni árat";
+"editCard_action_updateDetails"="Frissítse a részleteket";
+"editCard_valueEstimating"="Értékbecslés függőben";
+
+"parallelSelection_title"="Párhuzamos";
+"parallelSelection_search_placeholder"="Keresés";
+"parallelSelection_allOptions"="Minden opció";
+"parallelSelection_missingSample"="Hiányzó minta";
+"parallelSelection_noResult"="Nincs találat";
+"parallelSelection_action_none"="Egyik sem";
+
+"gradeSelection_title"="Fokozat";
+"gradeSelection_selectGrader"="Válassza a Gréder lehetőséget";
+"gradeSelection_selectGrade"="Válassza az Osztály lehetőséget";
+
+"createCollection_title"="Új gyűjtemény létrehozása";
+"createCollection_collectionName_placeholder"="Nevezze el a gyűjteményét";
+"createCollection_action_create"="Teremt";
+
+"cardCollection_estimatedValue"="Becsült érték";
+"cardCollection_noCards"="Ebben a gyűjteményben nincsenek kártyák";
+"cardCollection_action_addCards"="Kártyák hozzáadása";
+
+"addCards_title"="Kártyák hozzáadása ehhez: \"%@\"";
+"addCards_titleNoName_collection"="Kártyák hozzáadása a gyűjteményhez";
+"addCards_titleNoName_deck"="Adj hozzá kártyákat a paklihoz";
+"addCards_oneCardSelected"="1 kártya kiválasztva";
+"addCards_numberOfCardsSelected"="%d kártya kiválasztva";
+"addCards_action_selectAll"="Mindet kiválaszt";
+"addCards_allCards"="Minden kártya";
+"addCards_search_placeholder"="Keressen egy kártyát";
+"addCards_noResult"="Nincs találat";
+
+"sortCards_title"="Rendezés";
+"sortCards_option_dateRecent"="Mentés dátuma: Legutóbbi-legrégebbi";
+"sortCards_option_dateOldest"="Mentés dátuma: Legrégebbi-Legutóbbi";
+"sortCards_option_nameDirect"="Kártya neve: A-Z";
+"sortCards_option_nameReverse"="Kártya neve: Z-A";
+"sortCards_option_yearRecent"="Kártya éve: Legutóbbi-legrégebbi";
+"sortCards_option_yearOldest"="Kártya éve: Legrégebbi-Legutóbbi";
+
+"editCollection_title"="Gyűjtemény frissítése";
+"editCollection_collectionName_placeholder"="Nevezze át gyűjteményét";
+
+"createDeck_title"="Hozzon létre új paklit";
+"createDeck_deckName_title"="Nevezze el a paklit";
+"createDeck_deckName_placeholder"="Adjon meg egy nevet";
+"createDeck_deckType_title"="Fedélzet típusa";
+"createDeck_deckType_select"="Válasszon ki egy kártyakategóriát";
+"createDeck_description_title"="Leírás (opcionális)";
+"createDeck_description_placeholder"="Adja meg a Deck leírását";
+"createDeck_action_create"="Teremt";
+
+"cardDeck_noCards"="Ebben a pakliban nincsenek kártyák";
+"cardDeck_action_addCards"="Kártyák hozzáadása";
+
+"editCardSet_menu_addCards"="Kártyák hozzáadása";
+"editCardSet_menu_removeCards"="Távolítsa el a kártyákat";
+"editCardSet_menu_sortCards"="Kártyák rendezése";
+"editCardSet_menu_totalPrice"="Teljes árbecslés";
+"editCardSet_menu_renameCollection"="Gyűjtemény átnevezése";
+"editCardSet_menu_deleteCollection"="Gyűjtemény törlése";
+"editCardSet_menu_editDeck"="Edit Deck";
+"editCardSet_menu_deleteDeck"="Deck törlése";
+
+"editDeck_title"="Frissítés Deck";
+
+"legalityOption_standard"="Alapértelmezett";
+"legalityOption_pioneer"="Úttörő";
+"legalityOption_modern"="Modern";
+"legalityOption_legacy"="Örökség";
+"legalityOption_vintage"="Szüret";
+"legalityOption_commander"="Parancsnok";
+"legalityOption_oathbreaker"="Esküszegő";
+"legalityOption_alchemy"="Aranycsinálás";
+"legalityOption_explorer"="Felfedező";
+"legalityOption_brawl"="Bunyó";
+"legalityOption_historic"="Történelmi";
+"legalityOption_pauper"="Koldus";
+"legalityOption_penny"="Penny";
+
+"cardLegality_legal"="Jogi";
+"cardLegality_notLegal"="Nem Legális";
+
+"magicCard_color_white"="fehér";
+"magicCard_color_blue"="Kék";
+"magicCard_color_black"="Fekete";
+"magicCard_color_red"="Piros";
+"magicCard_color_green"="Zöld";
+"magicCard_color_colorless"="Színtelen";
+
+"alert_noInternetConnection_title"="Kapcsolódási probléma";
+"alert_noInternetConnection_message"="Úgy tűnik, az internetkapcsolat offline ☹️";
+"alert_needRecentLogin_title"="Hitelesítés újra";
+"alert_needRecentLogin_message"="Fiók törléséhez friss bejelentkezés szükséges";
+"alert_needRecentLogin_action_logOut"="Kijelentkezés";

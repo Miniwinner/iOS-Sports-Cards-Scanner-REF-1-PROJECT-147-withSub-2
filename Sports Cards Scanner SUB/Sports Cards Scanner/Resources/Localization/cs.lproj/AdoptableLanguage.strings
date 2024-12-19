@@ -1,0 +1,287 @@
+"common_close" = "Zavřít";
+"common_cancel" = "Zrušit";
+"common_done" = "Hotovo";
+"common_reset" = "Resetovat";
+"common_error" = "Jejda, něco se pokazilo";
+"common_ok" = "OK";
+
+"splash_loading" = "Načítání";
+
+"signIn_title" = "Přihlásit se";
+"signIn_email_title" = "Emailová adresa";
+"signIn_email_placeholder" = "Zadejte email";
+"signIn_password_title" = "Zadejte heslo";
+"signIn_password_placeholder" = "Zadejte heslo";
+"signIn_password_forgot" = "Zapomněli jste heslo?";
+"signIn_action_signIn" = "Přihlásit se";
+"signIn_action_signUp" = "Zaregistrovat se";
+"signIn_signInWith" = "Přihlásit se pomocí";
+"signIn_noAccount" = "Nemáte účet?";
+"signIn_action_signUp" = "Zaregistrovat se";
+"signIn_error_invalidEmail" = "Zadejte platnou emailovou adresu";
+"signIn_error_userNotFound" = "Zadejte platný email a heslo";
+"signIn_error_wrongPassword" = "Zadejte správné heslo";
+"signIn_welcome" = "Vítejte zpět!";
+"signIn_ask" = "Zadejte své přihlašovací údaje";
+"signInLogInWith" = "Přihlásit se pomocí.";
+
+"signUp_title" = "Zaregistrovat se";
+"signUp_email_title" = "Emailová adresa";
+"signUp_email_placeholder" = "Zadejte svou emailovou adresu";
+"signUp_password_title" = "Heslo";
+"signUp_password_placeholder" = "Zadejte své heslo";
+"signUp_password_requirements" = "Heslo by mělo mít minimálně 8 znaků a obsahovat alespoň jedno velké písmeno (A-Z), jedno malé písmeno (a-z), jedno číslo (0-9) a jeden speciální znak (např. ! % @ nebo #).";
+"signUp_confirmPassword_title" = "Potvrzení hesla";
+"signUp_confirmPassword_placeholder" = "Zadejte své heslo znovu";
+"signUp_action_signUp" = "Zaregistrovat se";
+"signUp_action_signIn" = "Přihlásit se";
+"signUp_signInWith" = "Přihlásit se pomocí";
+"signUp_haveAccount" = "Již máte účet?";
+"signUp_error_invalidEmail" = "Zadejte platnou emailovou adresu";
+"signUp_error_existUser" = "Účet s touto emailovou adresou již existuje";
+"signUp_error_noPasswordRequirements" = "Heslo musí splňovat požadavky na heslo";
+"signUp_error_passwordsMismatch" = "Hesla se musí shodovat";
+
+"dashboard_title" = "Nástěnka";
+"dashboard_welcome_title" = "Vstupte do budoucnosti sbírání karet";
+"dashboard_welcome_description" = "Naskenujte kartu a rozšiřte svou sbírku";
+"dashboard_scanInstructions" = "Klepnutím spusťte skenování karty.";
+"dashboard_currentValue" = "Aktuální hodnota";
+"dashboard_highestValue" = "Nejvyšší hodnota";
+"dashboard_recentlyAdded" = "Nedávno přidáno";
+"dashboard_action_scanCard" = "Skenovat kartu";
+
+"portfolio_title" = "Portfolio";
+"portfolio_scanInstructions" = "Klepnutím otevřete skener a svou první kartu";
+"portfolio_collection_create" = "Vytvořit sbírku";
+"portfolio_deck_create" = "Vytvořit balíček";
+"portfolio_deck_description" = "Balíček pro sběratelskou karetní hru";
+"portfolio_collection_description" = "Vlastní sbírka";
+"portfolio_cards" = "Karty";
+"portfolio_oneCard" = "1 karta";
+"portfolio_numberOfCards" = "%d karet";
+"portfolio_allCards" = "Všechny karty";
+"portfolio_estimatedValue" = "Celková odhadovaná hodnota";
+"portfolio_scanToAdd" = "Naskenujte kartu a přidejte ji do své sbírky";
+
+"more_title" = "Více";
+"more_item_cardCategories" = "Kategorie karet";
+"more_item_updatePassword" = "Aktualizovat heslo";
+"more_item_privacyPolicy" = "Zásady ochrany osobních údajů";
+"more_item_termsAndConditions" = "Podmínky použití";
+"more_item_pushNotifications" = "Povolit push oznámení";
+"more_item_logout" = "Odhlásit se";
+"more_item_deleteAccount" = "Smazat účet";
+
+"cardCategories_title" = "Kategorie karet";
+"cardCategories_description" = "Vyberte typy karet, které chcete zahrnout do svého portfolia a skeneru";
+"cardCategories_minEnabledCategories" = "Musíte mít aktivní alespoň jednu kategorii.";
+
+"updatePassword_title" = "Aktualizovat heslo";
+"updatePassword_newPassword_title" = "Vytvořit nové heslo";
+"updatePassword_newPassword_placeholder" = "Zadejte nové heslo";
+"updatePassword_confirmNewPassword_title" = "Potvrdit nové heslo";
+"updatePassword_confirmNewPassword_placeholder" = "Zadejte nové heslo znovu";
+"updatePassword_newPassword_requirements" = "Heslo by mělo mít minimálně 8 znaků a obsahovat alespoň jedno velké písmeno (A-Z), jedno malé písmeno (a-z), jedno číslo (0-9) a jeden speciální znak (např. ! % @ nebo #).";
+"updatePassword_newPassword_cut1" = "8 znaků";
+"updatePassword_newPassword_cut2" = "jedno velké písmeno";
+"updatePassword_newPassword_cut3" = "jedno malé písmeno";
+"updatePassword_newPassword_cut4" = "jedno číslo";
+"updatePassword_newPassword_cut5" = "jeden speciální znak";
+"updatePassword_action_save" = "Uložit";
+"updatePassword_error_noPasswordRequirements" = "Heslo musí splňovat požadavky na heslo";
+"updatePassword_error_passwordsMismatch" = "Hesla se musí shodovat";
+"updatePassword_error_needReauthenticate" = "Pro změnu hesla se prosím znovu přihlaste";
+
+"cardCategory_baseball" = "Baseball";
+"cardCategory_pokemon" = "Pokémon";
+"cardCategory_basketball" = "Basketbal";
+"cardCategory_football" = "Fotbal";
+"cardCategory_magic" = "Magic: The Gathering";
+"cardCategory_magic_short" = "MTG";
+"cardCategory_hockey" = "Hokej";
+"cardCategory_soccer" = "Fotbal";
+
+"forgotPassword_title" = "Zapomenuté heslo";
+"forgotPassword_description" = "Zadejte emailovou adresu svého účtu a my vám zašleme pokyny k obnovení hesla";
+"forgotPassword_email_title" = "Emailová adresa";
+"forgotPassword_email_placeholder" = "Zadejte svou emailovou adresu";
+"forgotPassword_action_send" = "Odeslat";
+"forgotPassword_error_userNotFound" = "Neexistují žádní uživatelé s touto emailovou adresou";
+"forgotPassword_error_invalidEmail" = "Zadejte platnou emailovou adresu";
+
+"resetPassword_title" = "Obnovení hesla";
+"resetPassword_emailSent" = "Pokyny k obnovení hesla byly odeslány na emailovou adresu: %@";
+
+"scanCard_cardSide_front" = "Přední strana karty";
+"scanCard_noAuthorization_title" = "Povolit %@ přístup k vaší kameře";
+"scanCard_noAuthorization_description" = "To vám umožní skenovat karty";
+"scanCard_action_openSettings" = "Otevřít nastavení";
+"scanCard_gradeType_graded" = "Hodnoceno";
+"scanCard_gradeType_raw" = "Neohodnoceno";
+
+"prompt_action_cancel" = "Zrušit";
+"prompt_title" = "Jste si jistí?";
+"prompt_logout_description" = "Opravdu chcete odstranit svůj účet?";
+"prompt_logout_confirmAction" = "Odhlásit se";
+"prompt_deleteAccount_description" = "Smazání sbírky neodstraní karty; zůstanou ve vašem portfoliu.";
+"prompt_deleteAccount_keepAction" = "Zachovat";
+"prompt_deleteAccount_sure" = "Opravdu chcete odstranit svůj účet?";
+"prompt_deleteAccount_confirmAction" = "Smazat";
+"prompt_deleteCollection_description" = "Smazání sbírky neodstraní karty uvnitř sbírky. Karty zůstanou ve vašem portfoliu.";
+"prompt_deleteCollection_keepAction" = "Zachovat";
+"prompt_deleteCollection_confirmAction" = "Smazat";
+"prompt_deleteDeck_description" = "Smazání balíčku neodstraní karty uvnitř balíčku. Karty zůstanou ve vašem portfoliu.";
+"prompt_deleteDeck_keepAction" = "Zachovat";
+"prompt_deleteDeck_confirmAction" = "Smazat";
+"prompt_removeCard_description" = "Chystáte se odstranit tuto kartu ze svého portfolia. Tuto kartu bude třeba znovu naskenovat, aby se přidala zpět do vašeho portfolia.";
+"prompt_removeCard_keepAction" = "Zachovat";
+"prompt_removeCard_confirmAction" = "Odstranit";
+
+"identifyingCard_title" = "%@ karta zachycena";
+"identifyingCard_processTitle" = "Identifikace karty...";
+"identifyingCard_action_cancel" = "Zrušit skenování";
+
+"searchCard_title" = "Vyhledat kartu";
+"searchCard_search_placeholder" = "Hledat kartu";
+"searchCard_error_tryAgain" = "Zkuste to znovu! Pokračujte v hledání!";
+
+"card_missingImage" = "Chybějící\nobrázek";
+
+"cardDetails_action_addCard" = "Přidat do portfolia";
+"cardDetails_action_findCard" = "Najít kartu";
+"cardDetails_action_editCard" = "Upravit kartu a hodnocení";
+"cardDetails_action_removeCard" = "Odebrat z portfolia";
+
+"pricingReport_setCustomPrice" = "Nastavit vlastní cenu";
+"pricingReport_editCustomPrice" = "Upravit vlastní cenu";
+"pricingReport_viewReport" = "Zobrazit cenovou zprávu";
+"pricingReport_valueEstimating" = "Odhad hodnoty probíhá";
+
+"pricingReport_details_priceReport" = "Cenová zpráva";
+"pricingReport_details_lastSoldPrice" = "Poslední prodejní cena";
+"pricingReport_details_lastSoldDate" = "Datum posledního prodeje";
+"pricingReport_details_recentSales" = "Nedávné prodeje";
+"pricingReport_details_noSales" = "Žádné nedávné prodeje";
+
+"cardDetail_year" = "Rok karty";
+"cardDetail_cardNumber" = "Číslo karty";
+"cardDetail_set" = "Sada";
+"cardDetail_series" = "Série";
+"cardDetail_parallel" = "Paralelní";
+"cardDetail_grade" = "Hodnocení";
+"cardDetail_ungraded" = "Neohodnoceno";
+"cardDetail_color" = "Barva";
+"cardDetail_colors" = "Barvy";
+"cardDetail_type" = "Typ";
+"cardDetail_manaValue" = "Hodnota many";
+"cardDetail_power" = "Síla";
+"cardDetail_toughness" = "Odolnost";
+"cardDetail_rarity" = "Vzácnost";
+
+"recentlyAdded_title" = "Nedávno přidané karty";
+
+"highestValue_title" = "Karty s nejvyšší hodnotou";
+
+"currentValue_title" = "Aktuální hodnota";
+"currentValue_valueByCategory" = "Hodnota podle kategorie";
+
+"editCard_title" = "Upravit detaily";
+"editCard_parallel" = "Paralelní";
+"editCard_grade" = "Hodnocení";
+"editCard_customPrice" = "Nastavit vlastní cenu";
+"editCard_action_updateDetails" = "Aktualizovat detaily";
+"editCard_valueEstimating" = "Odhad hodnoty probíhá";
+
+"parallelSelection_title" = "Paralelní";
+"parallelSelection_search_placeholder" = "Hledat";
+"parallelSelection_allOptions" = "Všechny možnosti";
+"parallelSelection_missingSample" = "Chybějící vzorek";
+"parallelSelection_noResult" = "Nenalezeny žádné výsledky";
+"parallelSelection_action_none" = "Žádné";
+
+"gradeSelection_title" = "Hodnocení";
+"gradeSelection_selectGrader" = "Vybrat hodnotitele";
+"gradeSelection_selectGrade" = "Vybrat hodnocení";
+
+"createCollection_title" = "Vytvořit novou sbírku";
+"createCollection_collectionName_placeholder" = "Pojmenujte svou sbírku";
+"createCollection_action_create" = "Vytvořit";
+
+"cardCollection_estimatedValue" = "Odhadovaná hodnota";
+"cardCollection_noCards" = "Tato sbírka neobsahuje žádné karty";
+"cardCollection_action_addCards" = "Přidat karty";
+
+"addCards_title" = "Přidat karty do \"%@\"";
+"addCards_titleNoName_collection" = "Přidat karty do sbírky";
+"addCards_titleNoName_deck" = "Přidat karty do balíčku";
+"addCards_oneCardSelected" = "Vybrána 1 karta";
+"addCards_numberOfCardsSelected" = "Vybráno %d karet";
+"addCards_action_selectAll" = "Vybrat vše";
+"addCards_allCards" = "Všechny karty";
+"addCards_search_placeholder" = "Hledat kartu";
+"addCards_noResult" = "Nenalezeny žádné výsledky";
+
+"sortCards_title" = "Řadit podle";
+"sortCards_option_dateRecent" = "Datum uložení: Nejnovější-Nejstarší";
+"sortCards_option_dateOldest" = "Datum uložení: Nejstarší-Nejnovější";
+"sortCards_option_nameDirect" = "Název karty: A-Z";
+"sortCards_option_nameReverse" = "Název karty: Z-A";
+"sortCards_option_yearRecent" = "Rok karty: Nejnovější-Nejstarší";
+"sortCards_option_yearOldest" = "Rok karty: Nejstarší-Nejnovější";
+
+"editCollection_title" = "Aktualizovat sbírku";
+"editCollection_collectionName_placeholder" = "Přejmenovat sbírku";
+
+"createDeck_title" = "Vytvořit nový balíček";
+"createDeck_deckName_title" = "Pojmenujte svůj balíček";
+"createDeck_deckName_placeholder" = "Zadejte název";
+"createDeck_deckType_title" = "Typ balíčku";
+"createDeck_deckType_select" = "Vybrat kategorii karet";
+"createDeck_description_title" = "Popis (volitelné)";
+"createDeck_description_placeholder" = "Zadejte popis svého balíčku";
+"createDeck_action_create" = "Vytvořit";
+
+"cardDeck_noCards" = "V tomto balíčku nejsou žádné karty";
+"cardDeck_action_addCards" = "Přidat karty";
+
+"editCardSet_menu_addCards" = "Přidat karty";
+"editCardSet_menu_removeCards" = "Odebrat karty";
+"editCardSet_menu_sortCards" = "Řadit karty";
+"editCardSet_menu_totalPrice" = "Celkový odhad ceny";
+"editCardSet_menu_renameCollection" = "Přejmenovat sbírku";
+"editCardSet_menu_deleteCollection" = "Smazat sbírku";
+"editCardSet_menu_editDeck" = "Upravit balíček";
+"editCardSet_menu_deleteDeck" = "Smazat balíček";
+
+"editDeck_title" = "Aktualizovat balíček";
+
+"legalityOption_standard" = "Standard";
+"legalityOption_pioneer" = "Pionýr";
+"legalityOption_modern" = "Moderní";
+"legalityOption_legacy" = "Legacy";
+"legalityOption_vintage" = "Vintage";
+"legalityOption_commander" = "Commander";
+"legalityOption_oathbreaker" = "Oathbreaker";
+"legalityOption_alchemy" = "Alchemy";
+"legalityOption_explorer" = "Explorer";
+"legalityOption_brawl" = "Brawl";
+"legalityOption_historic" = "Historic";
+"legalityOption_pauper" = "Pauper";
+"legalityOption_penny" = "Penny";
+
+"cardLegality_legal" = "Legální";
+"cardLegality_notLegal" = "Nelegální";
+
+"magicCard_color_white" = "Bílá";
+"magicCard_color_blue" = "Modrá";
+"magicCard_color_black" = "Černá";
+"magicCard_color_red" = "Červená";
+"magicCard_color_green" = "Zelená";
+"magicCard_color_colorless" = "Bezbarvá";
+
+"alert_noInternetConnection_title" = "Problém s připojením";
+"alert_noInternetConnection_message" = "Zdá se, že internetové připojení je offline ☹️";
+"alert_needRecentLogin_title" = "Znovu ověřit";
+"alert_needRecentLogin_message" = "Pro smazání účtu je vyžadováno nedávné přihlášení";
+"alert_needRecentLogin_action_logOut" = "Odhlásit se";

@@ -1,0 +1,3 @@
+"NSUserTrackingUsageDescription" = "Tillåt oss att spåra din aktivitet i appen så att vi kan använda data om dina interaktioner med appfunktioner för att förbättra appens prestanda och ge dig personliga rekommendationer och innehåll baserat på dina preferenser";
+
+"NSCameraUsageDescription" = "Denna app använder kameran för att skanna kort.";

@@ -1,0 +1,3 @@
+"NSUserTrackingUsageDescription" = "Permet-nos fer un seguiment de la teva activitat dins de l'aplicació per tal de poder utilitzar les dades sobre les teves interaccions amb les característiques de l'aplicació per millorar-ne el rendiment i oferir-te recomanacions i contingut personalitzat segons les teves preferències";
+
+"NSCameraUsageDescription" = "Aquesta aplicació utilitza la càmera per escanejar targetes.";

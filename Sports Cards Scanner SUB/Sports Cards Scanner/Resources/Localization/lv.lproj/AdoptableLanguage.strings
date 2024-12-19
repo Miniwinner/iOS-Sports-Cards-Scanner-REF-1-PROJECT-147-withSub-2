@@ -1,0 +1,287 @@
+"common_close"="Aizvērt";
+"common_cancel"="Atcelt";
+"common_done"="Gatavs";
+"common_reset"="Atiestatīt";
+"common_error"="Hmm! Kaut kas nogāja greizi";
+"common_ok"="Labi";
+
+"splash_loading"="Notiek ielāde";
+
+"signIn_title"="Ielogoties";
+"signIn_email_title"="Epasta adrese";
+"signIn_email_placeholder"="Ievadiet e-pastu";
+"signIn_password_title"="Ievadi paroli";
+"signIn_password_placeholder"="Ievadi paroli";
+"signIn_password_forgot"="Aizmirsi paroli?";
+"signIn_action_signIn"="Ielogoties";
+"signIn_action_signUp"="Pierakstīties";
+"signIn_signInWith"="Pierakstīties ar";
+"signIn_noAccount"="Vai jums nav konta?";
+"signIn_action_signUp"="Pierakstīties";
+"signIn_error_invalidEmail"="Lūdzu ievadiet derīgu e-pasta adresi";
+"signIn_error_userNotFound"="Lūdzu, ievadiet derīgu e-pastu un paroli";
+"signIn_error_wrongPassword"="Lūdzu, ievadiet pareizo paroli";
+"signIn_welcome"="Laipni lūdzam atpakaļ!";
+"signIn_ask"="Lūdzu, ievadiet savu pieteikšanās informāciju";
+"signInLogInWith"="Piesakieties ar.";
+
+"signUp_title"="Pierakstīties";
+"signUp_email_title"="Epasta adrese";
+"signUp_email_placeholder"="ievadiet savu e-pasta adresi";
+"signUp_password_title"="Parole";
+"signUp_password_placeholder"="Ievadiet savu paroli";
+"signUp_password_requirements"="Parolēm ir jābūt vismaz 8 rakstzīmes garām, un tajās jāietver vismaz viens lielais burts (A–Z), viens mazais burts (a–z), viens cipars (0–9) un viena speciālā rakstzīme (piemēram, ! % @ vai #).";
+"signUp_confirmPassword_title"="paroles apstiprināšana";
+"signUp_confirmPassword_placeholder"="Ievadiet paroles apstiprinājumu";
+"signUp_action_signUp"="Pierakstīties";
+"signUp_action_signIn"="Ielogoties";
+"signUp_signInWith"="Pierakstīties ar";
+"signUp_haveAccount"="Jau ir konts?";
+"signUp_error_invalidEmail"="Lūdzu ievadiet derīgu e-pasta adresi";
+"signUp_error_existUser"="Konts ar šo e-pasta adresi jau pastāv";
+"signUp_error_noPasswordRequirements"="Parolei jāatbilst paroles prasībām";
+"signUp_error_passwordsMismatch"="Parolēm jābūt vienādām";
+
+"dashboard_title"="Mērinstrumentu panelis";
+"dashboard_welcome_title"="Ieejiet karšu savākšanas nākotnē";
+"dashboard_welcome_description"="Skenējiet karti, lai paplašinātu savu kolekciju";
+"dashboard_scanInstructions"="Pieskarieties, lai sāktu kartes skenēšanu.";
+"dashboard_currentValue"="Pašreizējā vērtība";
+"dashboard_highestValue"="Augstākā vērtība";
+"dashboard_recentlyAdded"="Nesen pievienotās";
+"dashboard_action_scanCard"="Skenēt karti";
+
+"portfolio_title"="Portfelis";
+"portfolio_scanInstructions"="Pieskarieties, lai atvērtu skeneri un savu pirmo karti";
+"portfolio_collection_create"="Izveidot kolekciju";
+"portfolio_deck_create"="Izveidojiet klāju";
+"portfolio_deck_description"="Tirdzniecības kāršu spēļu klājs";
+"portfolio_collection_description"="Pielāgota kolekcija";
+"portfolio_cards"="Kartes";
+"portfolio_oneCard"="1 karte";
+"portfolio_numberOfCards"="%d kartes";
+"portfolio_allCards"="Visas kartes";
+"portfolio_estimatedValue"="Kopējā aplēstā vērtība";
+"portfolio_scanToAdd"="Skenējiet kartīti, lai to pievienotu savai kolekcijai";
+
+"more_title"="Vairāk";
+"more_item_cardCategories"="Karšu kategorijas";
+"more_item_updatePassword"="Atjaunināt paroli";
+"more_item_privacyPolicy"="Privātuma politika";
+"more_item_termsAndConditions"="Lietošanas noteikumi";
+"more_item_pushNotifications"="Iespējot push paziņojumus";
+"more_item_logout"="Izlogoties";
+"more_item_deleteAccount"="Dzēst kontu";
+
+"cardCategories_title"="Karšu kategorijas";
+"cardCategories_description"="Lūdzu, atlasiet karšu veidus, kurus vēlaties iekļaut savā portfelī un skenerī";
+"cardCategories_minEnabledCategories"="Jums ir jāsaglabā vismaz viena aktīva kategorija.";
+
+"updatePassword_title"="Atjaunināt paroli";
+"updatePassword_newPassword_title"="Izveidojiet jaunu paroli";
+"updatePassword_newPassword_placeholder"="Ievadiet jauno paroli";
+"updatePassword_confirmNewPassword_title"="Apstipriniet jauno paroli";
+"updatePassword_confirmNewPassword_placeholder"="Atkārtoti ievadiet jauno paroli";
+"updatePassword_newPassword_requirements"="Parolēm ir jābūt vismaz 8 rakstzīmes garām, un tajās jāietver vismaz viens lielais burts (A–Z), viens mazais burts (a–z), viens cipars (0–9) un viena speciālā rakstzīme (piemēram, ! % @ vai #).";
+"updatePassword_newPassword_cut1"="8 rakstzīmes";
+"updatePassword_newPassword_cut2"="viens lielais burts";
+"updatePassword_newPassword_cut3"="viens mazais burts";
+"updatePassword_newPassword_cut4"="viens numurs";
+"updatePassword_newPassword_cut5"="viens īpašs varonis";
+"updatePassword_action_save"="Saglabāt";
+"updatePassword_error_noPasswordRequirements"="Parolei jāatbilst paroles prasībām";
+"updatePassword_error_passwordsMismatch"="Parolēm jābūt vienādām";
+"updatePassword_error_needReauthenticate"="Lūdzu, atkārtoti autentificējiet savu paroli";
+
+"cardCategory_baseball"="Beisbols";
+"cardCategory_pokemon"="Pokemons";
+"cardCategory_basketball"="Basketbols";
+"cardCategory_football"="Futbols";
+"cardCategory_magic"="Maģija: pulcēšanās";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Hokejs";
+"cardCategory_soccer"="Futbols";
+
+"forgotPassword_title"="Aizmirsi paroli";
+"forgotPassword_description"="Ievadiet sava konta e-pasta adresi, un mēs jums nosūtīsim norādījumus paroles atiestatīšanai";
+"forgotPassword_email_title"="Epasta adrese";
+"forgotPassword_email_placeholder"="ievadiet savu e-pasta adresi";
+"forgotPassword_action_send"="Sūtīt";
+"forgotPassword_error_userNotFound"="Nav neviena lietotāja ar šo e-pasta adresi";
+"forgotPassword_error_invalidEmail"="Lūdzu ievadiet derīgu e-pasta adresi";
+
+"resetPassword_title"="Atiestatīt paroli";
+"resetPassword_emailSent"="Paroles atiestatīšanas instrukcijas ir nosūtītas uz e-pasta adresi: %@";
+
+"scanCard_cardSide_front"="Kartes priekšpuse";
+"scanCard_noAuthorization_title"="Atļaut %@ piekļūt jūsu kamerai";
+"scanCard_noAuthorization_description"="Tas ļauj skenēt kartes";
+"scanCard_action_openSettings"="Atveriet iestatījumus";
+"scanCard_gradeType_graded"="Novērtēts";
+"scanCard_gradeType_raw"="Neapstrādāts";
+
+"prompt_action_cancel"="Atcelt";
+"prompt_title"="Vai tu esi pārliecināts?";
+"prompt_logout_description"="Vai esat pārliecināts, ka vēlaties noņemt savu kontu?";
+"prompt_logout_confirmAction"="Izlogoties";
+"prompt_deleteAccount_description"="Dzēšot kolekciju, kartes netiks noņemtas; tie paliks jūsu portfolio.";
+"prompt_deleteAccount_keepAction"="Saglabāt";
+"prompt_deleteAccount_sure"="Vai esat pārliecināts, ka vēlaties noņemt savu kontu?";
+"prompt_deleteAccount_confirmAction"="Dzēst";
+"prompt_deleteCollection_description"="Dzēšot kolekciju, kolekcijas kartītes netiks izdzēstas. Kartes paliks jūsu portfelī.";
+"prompt_deleteCollection_keepAction"="Saglabāt";
+"prompt_deleteCollection_confirmAction"="Dzēst";
+"prompt_deleteDeck_description"="Izdzēšot kārtis, netiek izdzēstas kārtis. Kartes paliks jūsu portfelī.";
+"prompt_deleteDeck_keepAction"="Saglabāt";
+"prompt_deleteDeck_confirmAction"="Dzēst";
+"prompt_removeCard_description"="Jūs gatavojaties noņemt šo karti no sava portfeļa. Šī karte būs vēlreiz jāskenē, lai to atkal pievienotu savam portfelim.";
+"prompt_removeCard_keepAction"="Saglabāt";
+"prompt_removeCard_confirmAction"="Noņemt";
+
+"identifyingCard_title"="%@ karte uzņemta";
+"identifyingCard_processTitle"="Identifikācijas karte...";
+"identifyingCard_action_cancel"="Atcelt SCAN";
+
+"searchCard_title"="Meklēšanas kartīte";
+"searchCard_search_placeholder"="Meklēt karti";
+"searchCard_error_tryAgain"="Mēģini vēlreiz! Turpiniet meklēt!";
+
+"card_missingImage"="Trūkst\nAttēla";
+
+"cardDetails_action_addCard"="Pievienot portfelim";
+"cardDetails_action_findCard"="Atrast karti";
+"cardDetails_action_editCard"="Rediģēt karti un atzīmi";
+"cardDetails_action_removeCard"="Noņemt no portfeļa";
+
+"pricingReport_setCustomPrice"="Iestatiet pielāgotu cenu";
+"pricingReport_editCustomPrice"="Rediģēt pielāgoto cenu";
+"pricingReport_viewReport"="Skatīt cenu pārskatu";
+"pricingReport_valueEstimating"="Vērtības aprēķins gaida";
+
+"pricingReport_details_priceReport"="Cenu atskaite";
+"pricingReport_details_lastSoldPrice"="Pēdējā pārdošanas cena";
+"pricingReport_details_lastSoldDate"="Pēdējās pārdošanas datums";
+"pricingReport_details_recentSales"="Nesenie izpārdošanas";
+"pricingReport_details_noSales"="Nesen nav pārdots";
+
+"cardDetail_year"="Kartes gads";
+"cardDetail_cardNumber"="Karte Nr.";
+"cardDetail_set"="Iestatīt";
+"cardDetail_series"="sērija";
+"cardDetail_parallel"="Paralēli";
+"cardDetail_grade"="Novērtējums";
+"cardDetail_ungraded"="Nevērtēts";
+"cardDetail_color"="Krāsa";
+"cardDetail_colors"="Krāsas";
+"cardDetail_type"="Tips";
+"cardDetail_manaValue"="Mana vērtība";
+"cardDetail_power"="Jauda";
+"cardDetail_toughness"="Stingrība";
+"cardDetail_rarity"="Retums";
+
+"recentlyAdded_title"="Nesen pievienotās kartes";
+
+"highestValue_title"="Augstākās vērtības kartes";
+
+"currentValue_title"="Pašreizējā vērtība";
+"currentValue_valueByCategory"="Vērtība pēc kategorijas";
+
+"editCard_title"="Rediģēt detaļas";
+"editCard_parallel"="Paralēli";
+"editCard_grade"="Novērtējums";
+"editCard_customPrice"="Iestatiet pielāgotu cenu";
+"editCard_action_updateDetails"="Atjaunināt detaļas";
+"editCard_valueEstimating"="Vērtības aprēķins gaida";
+
+"parallelSelection_title"="Paralēli";
+"parallelSelection_search_placeholder"="Meklēt";
+"parallelSelection_allOptions"="Visas opcijas";
+"parallelSelection_missingSample"="Trūkst parauga";
+"parallelSelection_noResult"="Nekas nav atrasts";
+"parallelSelection_action_none"="Nav";
+
+"gradeSelection_title"="Novērtējums";
+"gradeSelection_selectGrader"="Atlasiet Greideris";
+"gradeSelection_selectGrade"="Atlasiet Novērtējums";
+
+"createCollection_title"="Izveidot jaunu kolekciju";
+"createCollection_collectionName_placeholder"="Nosauciet savu kolekciju";
+"createCollection_action_create"="Izveidot";
+
+"cardCollection_estimatedValue"="Paredzamā vērtība";
+"cardCollection_noCards"="Šajā kolekcijā nav kartīšu";
+"cardCollection_action_addCards"="Pievienot kartes";
+
+"addCards_title"="Pievienojiet kartes \"%@\"";
+"addCards_titleNoName_collection"="Pievienojiet kartītes kolekcijai";
+"addCards_titleNoName_deck"="Pievienojiet kārtis klājam";
+"addCards_oneCardSelected"="Atlasīta 1 karte";
+"addCards_numberOfCardsSelected"="Atlasītas %d kartes";
+"addCards_action_selectAll"="Izvēlēties visus";
+"addCards_allCards"="Visas kartes";
+"addCards_search_placeholder"="Meklēt karti";
+"addCards_noResult"="Nekas nav atrasts";
+
+"sortCards_title"="Kārtot pēc";
+"sortCards_option_dateRecent"="Saglabāšanas datums: jaunākais-vecākais";
+"sortCards_option_dateOldest"="Saglabāšanas datums: vecākais-jaunākais";
+"sortCards_option_nameDirect"="Kartes nosaukums: A-Z";
+"sortCards_option_nameReverse"="Kartes nosaukums: Z-A";
+"sortCards_option_yearRecent"="Kartes gads: Jaunākais-vecākais";
+"sortCards_option_yearOldest"="Kartes gads: vecākā-jaunākā";
+
+"editCollection_title"="Atjaunināt kolekciju";
+"editCollection_collectionName_placeholder"="Pārdēvējiet savu kolekciju";
+
+"createDeck_title"="Izveidojiet jaunu klāju";
+"createDeck_deckName_title"="Nosauciet savu klāju";
+"createDeck_deckName_placeholder"="Ievadiet vārdu";
+"createDeck_deckType_title"="Klāja tips";
+"createDeck_deckType_select"="Izvēlieties kartes kategoriju";
+"createDeck_description_title"="Apraksts (pēc izvēles)";
+"createDeck_description_placeholder"="Ievadiet sava klāja aprakstu";
+"createDeck_action_create"="Izveidot";
+
+"cardDeck_noCards"="Šajā kāršu komplektā nav kāršu";
+"cardDeck_action_addCards"="Pievienot kartes";
+
+"editCardSet_menu_addCards"="Pievienot kartes";
+"editCardSet_menu_removeCards"="Noņemiet kartes";
+"editCardSet_menu_sortCards"="Kārtot kartes";
+"editCardSet_menu_totalPrice"="Kopējās cenas aprēķins";
+"editCardSet_menu_renameCollection"="Pārdēvēt kolekciju";
+"editCardSet_menu_deleteCollection"="Dzēst kolekciju";
+"editCardSet_menu_editDeck"="Rediģēt klāju";
+"editCardSet_menu_deleteDeck"="Dzēst klāju";
+
+"editDeck_title"="Atjaunināšanas klājs";
+
+"legalityOption_standard"="Standarta";
+"legalityOption_pioneer"="Pionieris";
+"legalityOption_modern"="Mūsdienīgs";
+"legalityOption_legacy"="Mantojums";
+"legalityOption_vintage"="Vintage";
+"legalityOption_commander"="komandieris";
+"legalityOption_oathbreaker"="Zvērestu lauzējs";
+"legalityOption_alchemy"="Alķīmija";
+"legalityOption_explorer"="Explorer";
+"legalityOption_brawl"="Tracis";
+"legalityOption_historic"="Vēsturisks";
+"legalityOption_pauper"="Pauper";
+"legalityOption_penny"="Penny";
+
+"cardLegality_legal"="Juridisks";
+"cardLegality_notLegal"="Nav legāls";
+
+"magicCard_color_white"="Balts";
+"magicCard_color_blue"="Zils";
+"magicCard_color_black"="Melns";
+"magicCard_color_red"="sarkans";
+"magicCard_color_green"="Zaļš";
+"magicCard_color_colorless"="Bezkrāsains";
+
+"alert_noInternetConnection_title"="Savienojamības problēma";
+"alert_noInternetConnection_message"="Šķiet, ka interneta savienojums ir bezsaistē ☹️";
+"alert_needRecentLogin_title"="Atkārtoti autentificēt";
+"alert_needRecentLogin_message"="Lai izdzēstu kontu, ir nepieciešama nesena pieteikšanās";
+"alert_needRecentLogin_action_logOut"="Izlogoties";

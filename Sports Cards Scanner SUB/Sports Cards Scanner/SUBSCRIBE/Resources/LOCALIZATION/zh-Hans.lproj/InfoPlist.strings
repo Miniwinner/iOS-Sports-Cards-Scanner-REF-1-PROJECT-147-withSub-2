@@ -1,0 +1,3 @@
+"NSUserTrackingUsageDescription" = "请允许我们追踪您在应用内的活动，以便我们可以使用有关您与应用功能交互的数据来改进应用性能，并根据您的偏好为您提供个性化推荐和内容";
+
+"NSCameraUsageDescription" = "此应用使用相机扫描卡片。";

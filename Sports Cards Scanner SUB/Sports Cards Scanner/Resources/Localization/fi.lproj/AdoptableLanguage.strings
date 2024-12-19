@@ -1,0 +1,287 @@
+"common_close"="kiinni";
+"common_cancel"="Peruuttaa";
+"common_done"="Tehty";
+"common_reset"="Nollaa";
+"common_error"="Hups! Jotain meni pieleen";
+"common_ok"="Ok";
+
+"splash_loading"="Ladataan";
+
+"signIn_title"="Kirjaudu sisään";
+"signIn_email_title"="Sähköpostiosoite";
+"signIn_email_placeholder"="Syötä sähköposti";
+"signIn_password_title"="Kirjoita salasana";
+"signIn_password_placeholder"="Kirjoita salasana";
+"signIn_password_forgot"="Unohtuiko salasana?";
+"signIn_action_signIn"="Kirjaudu sisään";
+"signIn_action_signUp"="Kirjaudu";
+"signIn_signInWith"="Kirjaudu sisään";
+"signIn_noAccount"="Eikö sinulla ole tiliä?";
+"signIn_action_signUp"="Kirjaudu";
+"signIn_error_invalidEmail"="Ole hyvä ja syötä toimiva sähköpostiosoite";
+"signIn_error_userNotFound"="Anna kelvollinen sähköpostiosoite ja salasana";
+"signIn_error_wrongPassword"="Anna oikea salasana";
+"signIn_welcome"="Tervetuloa takaisin!";
+"signIn_ask"="Anna kirjautumistietosi";
+"signInLogInWith"="Kirjaudu sisään tunnuksella.";
+
+"signUp_title"="Kirjaudu";
+"signUp_email_title"="Sähköpostiosoite";
+"signUp_email_placeholder"="Syötä sähköpostiosoitteesi";
+"signUp_password_title"="Salasana";
+"signUp_password_placeholder"="Syötä salasanasi";
+"signUp_password_requirements"="Salasanan tulee olla vähintään 8 merkkiä pitkä ja sisältää vähintään yksi iso kirjain (A-Z), yksi pieni kirjain (a-z), yksi numero (0-9) ja yksi erikoismerkki (esim. ! % @ tai #).";
+"signUp_confirmPassword_title"="salasanan vahvistus";
+"signUp_confirmPassword_placeholder"="Anna salasanasi vahvistus";
+"signUp_action_signUp"="Kirjaudu";
+"signUp_action_signIn"="Kirjaudu sisään";
+"signUp_signInWith"="Kirjaudu sisään";
+"signUp_haveAccount"="Onko sinulla jo tili?";
+"signUp_error_invalidEmail"="Ole hyvä ja syötä toimiva sähköpostiosoite";
+"signUp_error_existUser"="Tällä sähköpostiosoitteella on jo tili";
+"signUp_error_noPasswordRequirements"="Salasanan on täytettävä salasanavaatimukset";
+"signUp_error_passwordsMismatch"="Salasanojen täytyy täsmätä";
+
+"dashboard_title"="Kojelauta";
+"dashboard_welcome_title"="Astu korttien keräämisen tulevaisuuteen";
+"dashboard_welcome_description"="Skannaa kortti laajentaaksesi kokoelmaasi";
+"dashboard_scanInstructions"="Aloita kortin skannaus napauttamalla.";
+"dashboard_currentValue"="Nykyinen arvo";
+"dashboard_highestValue"="Korkein arvo";
+"dashboard_recentlyAdded"="Viimeksi lisätyt";
+"dashboard_action_scanCard"="Skannaa kortti";
+
+"portfolio_title"="Portfolio";
+"portfolio_scanInstructions"="Napauta avataksesi skannerin ja ensimmäisen korttisi";
+"portfolio_collection_create"="Luo kokoelma";
+"portfolio_deck_create"="Luo kansi";
+"portfolio_deck_description"="Kaupankäyntikorttipelipaketti";
+"portfolio_collection_description"="Mukautettu kokoelma";
+"portfolio_cards"="Kortit";
+"portfolio_oneCard"="1 kortti";
+"portfolio_numberOfCards"="%d korttia";
+"portfolio_allCards"="Kaikki kortit";
+"portfolio_estimatedValue"="Arvioitu kokonaisarvo";
+"portfolio_scanToAdd"="Skannaa kortti lisätäksesi kokoelmaasi";
+
+"more_title"="Lisää";
+"more_item_cardCategories"="Kortin luokat";
+"more_item_updatePassword"="Päivitä salasana";
+"more_item_privacyPolicy"="Tietosuojakäytäntö";
+"more_item_termsAndConditions"="Käyttöehdot";
+"more_item_pushNotifications"="Ota Push-ilmoitukset käyttöön";
+"more_item_logout"="Kirjautua ulos";
+"more_item_deleteAccount"="Poista tili";
+
+"cardCategories_title"="Kortin luokat";
+"cardCategories_description"="Valitse korttityypit, jotka haluat sisällyttää portfolioosi ja skanneriisi";
+"cardCategories_minEnabledCategories"="Sinun on säilytettävä vähintään yksi aktiivinen luokka.";
+
+"updatePassword_title"="Päivitä salasana";
+"updatePassword_newPassword_title"="Luo uusi salasana";
+"updatePassword_newPassword_placeholder"="Syötä uusi salasana";
+"updatePassword_confirmNewPassword_title"="Vahvista uusi salasana";
+"updatePassword_confirmNewPassword_placeholder"="Kirjoita uusi salasana uudelleen";
+"updatePassword_newPassword_requirements"="Salasanan tulee olla vähintään 8 merkkiä pitkä ja sisältää vähintään yksi iso kirjain (A-Z), yksi pieni kirjain (a-z), yksi numero (0-9) ja yksi erikoismerkki (esim. ! % @ tai #).";
+"updatePassword_newPassword_cut1"="8 merkkiä";
+"updatePassword_newPassword_cut2"="yksi iso kirjain";
+"updatePassword_newPassword_cut3"="yksi pieni kirjain";
+"updatePassword_newPassword_cut4"="yksi numero";
+"updatePassword_newPassword_cut5"="yksi erikoishahmo";
+"updatePassword_action_save"="Tallentaa";
+"updatePassword_error_noPasswordRequirements"="Salasanan on täytettävä salasanavaatimukset";
+"updatePassword_error_passwordsMismatch"="Salasanojen täytyy täsmätä";
+"updatePassword_error_needReauthenticate"="Vahvista salasanasi uudelleen";
+
+"cardCategory_baseball"="Baseball";
+"cardCategory_pokemon"="Pokemon";
+"cardCategory_basketball"="Koripallo";
+"cardCategory_football"="Jalkapallo";
+"cardCategory_magic"="Magic: The Gathering";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Jääkiekko";
+"cardCategory_soccer"="Jalkapallo";
+
+"forgotPassword_title"="Unohtuiko salasana";
+"forgotPassword_description"="Anna tilisi sähköpostiosoite, niin lähetämme sinulle ohjeet salasanan vaihtamiseen";
+"forgotPassword_email_title"="Sähköpostiosoite";
+"forgotPassword_email_placeholder"="Syötä sähköpostiosoitteesi";
+"forgotPassword_action_send"="Lähettää";
+"forgotPassword_error_userNotFound"="Tällä sähköpostiosoitteella ei ole käyttäjiä";
+"forgotPassword_error_invalidEmail"="Ole hyvä ja syötä toimiva sähköpostiosoite";
+
+"resetPassword_title"="Nollaa salasana";
+"resetPassword_emailSent"="Salasanan palautusohjeet on lähetetty sähköpostiosoitteeseen: %@";
+
+"scanCard_cardSide_front"="Kortin etuosa";
+"scanCard_noAuthorization_title"="Salli %@ käyttää kameraasi";
+"scanCard_noAuthorization_description"="Tämän avulla voit skannata kortteja";
+"scanCard_action_openSettings"="Avaa asetukset";
+"scanCard_gradeType_graded"="Arvosteltu";
+"scanCard_gradeType_raw"="Raaka";
+
+"prompt_action_cancel"="Peruuttaa";
+"prompt_title"="Oletko varma?";
+"prompt_logout_description"="Oletko varma, että haluat poistaa tilisi?";
+"prompt_logout_confirmAction"="Kirjautua ulos";
+"prompt_deleteAccount_description"="Kokoelman poistaminen ei poista kortteja. ne pysyvät portfoliossasi.";
+"prompt_deleteAccount_keepAction"="Pitää";
+"prompt_deleteAccount_sure"="Oletko varma, että haluat poistaa tilisi?";
+"prompt_deleteAccount_confirmAction"="Poistaa";
+"prompt_deleteCollection_description"="Kokoelman poistaminen ei poista kokoelman kortteja. Kortit jäävät portfolioosi.";
+"prompt_deleteCollection_keepAction"="Pitää";
+"prompt_deleteCollection_confirmAction"="Poistaa";
+"prompt_deleteDeck_description"="Pakan poistaminen ei poista pakasta olevia kortteja. Kortit jäävät portfolioosi.";
+"prompt_deleteDeck_keepAction"="Pitää";
+"prompt_deleteDeck_confirmAction"="Poistaa";
+"prompt_removeCard_description"="Olet poistamassa tämän kortin portfoliostasi. Tämä kortti on skannattava uudelleen, jotta se voidaan lisätä takaisin portfolioosi.";
+"prompt_removeCard_keepAction"="Pitää";
+"prompt_removeCard_confirmAction"="Poista";
+
+"identifyingCard_title"="%@ Kortti otettu";
+"identifyingCard_processTitle"="Henkilökortti...";
+"identifyingCard_action_cancel"="Peruuta SKANNAUS";
+
+"searchCard_title"="Hakukortti";
+"searchCard_search_placeholder"="Etsi kortti";
+"searchCard_error_tryAgain"="Yritä uudelleen! Jatka etsimistä!";
+
+"card_missingImage"="Puuttuu\nKuva";
+
+"cardDetails_action_addCard"="Lisää portfolioon";
+"cardDetails_action_findCard"="Etsi kortti";
+"cardDetails_action_editCard"="Muokkaa korttia ja arvosanaa";
+"cardDetails_action_removeCard"="Poista portfoliosta";
+
+"pricingReport_setCustomPrice"="Aseta mukautettu hinta";
+"pricingReport_editCustomPrice"="Muokkaa mukautettua hintaa";
+"pricingReport_viewReport"="Katso hintaraportti";
+"pricingReport_valueEstimating"="Arvo-arvio odottaa";
+
+"pricingReport_details_priceReport"="Hintaraportti";
+"pricingReport_details_lastSoldPrice"="Viimeinen myyntihinta";
+"pricingReport_details_lastSoldDate"="Viimeinen myyntipäivä";
+"pricingReport_details_recentSales"="Viimeaikainen myynti";
+"pricingReport_details_noSales"="Ei viimeaikaisia ​​myyntiä";
+
+"cardDetail_year"="Kortin vuosi";
+"cardDetail_cardNumber"="Kortti nro";
+"cardDetail_set"="Aseta";
+"cardDetail_series"="Sarja";
+"cardDetail_parallel"="Rinnakkainen";
+"cardDetail_grade"="Arvosana";
+"cardDetail_ungraded"="Arvostelematon";
+"cardDetail_color"="Väri";
+"cardDetail_colors"="värit";
+"cardDetail_type"="Tyyppi";
+"cardDetail_manaValue"="Mana arvo";
+"cardDetail_power"="Tehoa";
+"cardDetail_toughness"="Kovuus";
+"cardDetail_rarity"="Harvinaisuus";
+
+"recentlyAdded_title"="Äskettäin lisätyt kortit";
+
+"highestValue_title"="Arvokkaimmat kortit";
+
+"currentValue_title"="Nykyinen arvo";
+"currentValue_valueByCategory"="Arvo kategorioittain";
+
+"editCard_title"="Muokkaa tietoja";
+"editCard_parallel"="Rinnakkainen";
+"editCard_grade"="Arvosana";
+"editCard_customPrice"="Aseta mukautettu hinta";
+"editCard_action_updateDetails"="Päivitä tiedot";
+"editCard_valueEstimating"="Arvo-arvio odottaa";
+
+"parallelSelection_title"="Rinnakkainen";
+"parallelSelection_search_placeholder"="Hae";
+"parallelSelection_allOptions"="Kaikki vaihtoehdot";
+"parallelSelection_missingSample"="Näyte puuttuu";
+"parallelSelection_noResult"="Ei tuloksia";
+"parallelSelection_action_none"="Ei mitään";
+
+"gradeSelection_title"="Arvosana";
+"gradeSelection_selectGrader"="Valitse Grader";
+"gradeSelection_selectGrade"="Valitse Arvosana";
+
+"createCollection_title"="Luo uusi kokoelma";
+"createCollection_collectionName_placeholder"="Nimeä kokoelmasi";
+"createCollection_action_create"="Luoda";
+
+"cardCollection_estimatedValue"="Arvioitu arvo";
+"cardCollection_noCards"="Tässä kokoelmassa ei ole kortteja";
+"cardCollection_action_addCards"="Lisää kortteja";
+
+"addCards_title"="Lisää kortteja kohteeseen \"%@\"";
+"addCards_titleNoName_collection"="Lisää kortteja kokoelmaan";
+"addCards_titleNoName_deck"="Lisää kortteja pakkaan";
+"addCards_oneCardSelected"="1 kortti valittu";
+"addCards_numberOfCardsSelected"="%d korttia valittu";
+"addCards_action_selectAll"="Valitse kaikki";
+"addCards_allCards"="Kaikki kortit";
+"addCards_search_placeholder"="Etsi kortti";
+"addCards_noResult"="Ei tuloksia";
+
+"sortCards_title"="Järjestä";
+"sortCards_option_dateRecent"="Tallennuspäivämäärä: Viimeisin - vanhin";
+"sortCards_option_dateOldest"="Tallennuspäivä: vanhin-uusi";
+"sortCards_option_nameDirect"="Kortin nimi: A-Z";
+"sortCards_option_nameReverse"="Kortin nimi: Z-A";
+"sortCards_option_yearRecent"="Kortin vuosi: Viimeisin-vanhin";
+"sortCards_option_yearOldest"="Kortin vuosi: Vanhin-uusi";
+
+"editCollection_title"="Päivitä kokoelma";
+"editCollection_collectionName_placeholder"="Nimeä kokoelmasi uudelleen";
+
+"createDeck_title"="Luo uusi kansi";
+"createDeck_deckName_title"="Nimeä kansi";
+"createDeck_deckName_placeholder"="Kirjoita nimi";
+"createDeck_deckType_title"="Kannen tyyppi";
+"createDeck_deckType_select"="Valitse korttiluokka";
+"createDeck_description_title"="kuvaus (vapaaehtoinen)";
+"createDeck_description_placeholder"="Anna kansillesi kuvaus";
+"createDeck_action_create"="Luoda";
+
+"cardDeck_noCards"="Tässä pakassa ei ole kortteja";
+"cardDeck_action_addCards"="Lisää kortteja";
+
+"editCardSet_menu_addCards"="Lisää kortteja";
+"editCardSet_menu_removeCards"="Poista kortit";
+"editCardSet_menu_sortCards"="Lajittele kortit";
+"editCardSet_menu_totalPrice"="Kokonaishinta-arvio";
+"editCardSet_menu_renameCollection"="Nimeä kokoelma uudelleen";
+"editCardSet_menu_deleteCollection"="Poista kokoelma";
+"editCardSet_menu_editDeck"="Muokkaa pakkaa";
+"editCardSet_menu_deleteDeck"="Poista kansi";
+
+"editDeck_title"="Päivitä kansi";
+
+"legalityOption_standard"="Vakio";
+"legalityOption_pioneer"="Pioneeri";
+"legalityOption_modern"="Moderni";
+"legalityOption_legacy"="Legacy";
+"legalityOption_vintage"="Vintage";
+"legalityOption_commander"="Komentaja";
+"legalityOption_oathbreaker"="Valan rikkoja";
+"legalityOption_alchemy"="Alkemia";
+"legalityOption_explorer"="tutkimusmatkailija";
+"legalityOption_brawl"="Rähinä";
+"legalityOption_historic"="Historiallinen";
+"legalityOption_pauper"="Vaivainen";
+"legalityOption_penny"="Penny";
+
+"cardLegality_legal"="Laillinen";
+"cardLegality_notLegal"="Ei laillista";
+
+"magicCard_color_white"="Valkoinen";
+"magicCard_color_blue"="Sininen";
+"magicCard_color_black"="Musta";
+"magicCard_color_red"="Punainen";
+"magicCard_color_green"="Vihreä";
+"magicCard_color_colorless"="Väritön";
+
+"alert_noInternetConnection_title"="Yhteysongelma";
+"alert_noInternetConnection_message"="Internet-yhteys näyttää olevan offline-tilassa ☹️";
+"alert_needRecentLogin_title"="Todenna uudelleen";
+"alert_needRecentLogin_message"="Tilin poistaminen edellyttää äskettäin kirjautumista";
+"alert_needRecentLogin_action_logOut"="Kirjautua ulos";

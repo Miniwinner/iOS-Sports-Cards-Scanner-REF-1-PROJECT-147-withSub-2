@@ -1,0 +1,287 @@
+"common_close"="Închide";
+"common_cancel"="Anulare";
+"common_done"="Terminat";
+"common_reset"="Resetați";
+"common_error"="Ups! Ceva a mers prost";
+"common_ok"="Bine";
+
+"splash_loading"="Se încarcă";
+
+"signIn_title"="Conectare";
+"signIn_email_title"="Adresa de email";
+"signIn_email_placeholder"="Introduceți adresa de email";
+"signIn_password_title"="Introdu parola";
+"signIn_password_placeholder"="Introdu parola";
+"signIn_password_forgot"="Aţi uitat parola?";
+"signIn_action_signIn"="Conectare";
+"signIn_action_signUp"="Inscrie-te";
+"signIn_signInWith"="Logheaza-te cu";
+"signIn_noAccount"="Nu ai un cont?";
+"signIn_action_signUp"="Inscrie-te";
+"signIn_error_invalidEmail"="Vă rugăm să introduceți o adresă de email validă";
+"signIn_error_userNotFound"="Vă rugăm să introduceți o e-mail și o parolă valide";
+"signIn_error_wrongPassword"="Vă rugăm să introduceți parola corectă";
+"signIn_welcome"="Bine ai revenit!";
+"signIn_ask"="Vă rugăm să introduceți detaliile dvs. de conectare";
+"signInLogInWith"="Logheaza-te cu.";
+
+"signUp_title"="Inscrie-te";
+"signUp_email_title"="Adresa de e-mail";
+"signUp_email_placeholder"="Introdu adresa ta de e-mail";
+"signUp_password_title"="Parola";
+"signUp_password_placeholder"="Introduceți parola";
+"signUp_password_requirements"="Parolele trebuie să aibă minimum 8 caractere și să includă cel puțin o literă mare (A-Z), o literă mică (a-z), un număr (0-9) și un caracter special (de exemplu, ! % @ sau #).";
+"signUp_confirmPassword_title"="Confirmarea parolei";
+"signUp_confirmPassword_placeholder"="Introduceți confirmarea parolei";
+"signUp_action_signUp"="Inscrie-te";
+"signUp_action_signIn"="Conectare";
+"signUp_signInWith"="Logheaza-te cu";
+"signUp_haveAccount"="ai deja un cont?";
+"signUp_error_invalidEmail"="Vă rugăm să introduceți o adresă de email validă";
+"signUp_error_existUser"="Există deja un cont cu această adresă de e-mail";
+"signUp_error_noPasswordRequirements"="Parola trebuie să îndeplinească cerințele privind parola";
+"signUp_error_passwordsMismatch"="Parolele trebuie să se potrtivească";
+
+"dashboard_title"="Bord";
+"dashboard_welcome_title"="Pășiți în viitorul colectării cardurilor";
+"dashboard_welcome_description"="Scanați un card pentru a vă extinde colecția";
+"dashboard_scanInstructions"="Atingeți pentru a începe să vă scanați cardul.";
+"dashboard_currentValue"="Valoarea curentă";
+"dashboard_highestValue"="Cea mai mare valoare";
+"dashboard_recentlyAdded"="Adaugat recent";
+"dashboard_action_scanCard"="Scanare card";
+
+"portfolio_title"="Portofoliu";
+"portfolio_scanInstructions"="Atingeți pentru a deschide scanerul și primul card";
+"portfolio_collection_create"="Creați o colecție";
+"portfolio_deck_create"="Creați Deck";
+"portfolio_deck_description"="pachet de jocuri de cărți de schimb";
+"portfolio_collection_description"="Colecție personalizată";
+"portfolio_cards"="Carduri";
+"portfolio_oneCard"="1 Card";
+"portfolio_numberOfCards"="%d carduri";
+"portfolio_allCards"="Toate cărțile";
+"portfolio_estimatedValue"="Valoarea totală estimată";
+"portfolio_scanToAdd"="Scanează un card pentru a-l adăuga la colecția ta";
+
+"more_title"="Mai mult";
+"more_item_cardCategories"="Categorii de carduri";
+"more_item_updatePassword"="Actualizați parola";
+"more_item_privacyPolicy"="Politica de confidențialitate";
+"more_item_termsAndConditions"="Termeni de utilizare";
+"more_item_pushNotifications"="Activați notificările push";
+"more_item_logout"="Deconectare";
+"more_item_deleteAccount"="Șterge cont";
+
+"cardCategories_title"="Categorii de carduri";
+"cardCategories_description"="Vă rugăm să selectați tipurile de carduri pe care doriți să le includeți în portofoliu și scaner";
+"cardCategories_minEnabledCategories"="Trebuie să mențineți cel puțin o categorie activă.";
+
+"updatePassword_title"="Actualizați parola";
+"updatePassword_newPassword_title"="Creați o nouă parolă";
+"updatePassword_newPassword_placeholder"="Introduceți o nouă parolă";
+"updatePassword_confirmNewPassword_title"="Confirmă noua parolă";
+"updatePassword_confirmNewPassword_placeholder"="Reintroduceți parola nouă";
+"updatePassword_newPassword_requirements"="Parolele trebuie să aibă minimum 8 caractere și să includă cel puțin o literă mare (A-Z), o literă mică (a-z), un număr (0-9) și un caracter special (de exemplu, ! % @ sau #).";
+"updatePassword_newPassword_cut1"="8 caractere";
+"updatePassword_newPassword_cut2"="O litera mare";
+"updatePassword_newPassword_cut3"="o literă mică";
+"updatePassword_newPassword_cut4"="un numar";
+"updatePassword_newPassword_cut5"="un personaj special";
+"updatePassword_action_save"="Salvați";
+"updatePassword_error_noPasswordRequirements"="Parola trebuie să îndeplinească cerințele privind parola";
+"updatePassword_error_passwordsMismatch"="Parolele trebuie să se potrtivească";
+"updatePassword_error_needReauthenticate"="Vă rugăm să vă autentificați din nou pentru a vă schimba parola";
+
+"cardCategory_baseball"="Baseball";
+"cardCategory_pokemon"="Pokemon";
+"cardCategory_basketball"="Baschet";
+"cardCategory_football"="Fotbal";
+"cardCategory_magic"="Magic: The Gathering";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Hochei";
+"cardCategory_soccer"="Fotbal";
+
+"forgotPassword_title"="Aţi uitat parola";
+"forgotPassword_description"="Introdu adresa de e-mail a contului tău și îți vom trimite instrucțiuni pentru a-ți reseta parola";
+"forgotPassword_email_title"="Adresa de e-mail";
+"forgotPassword_email_placeholder"="Introdu adresa ta de e-mail";
+"forgotPassword_action_send"="Trimite";
+"forgotPassword_error_userNotFound"="Nu există utilizatori cu această adresă de e-mail";
+"forgotPassword_error_invalidEmail"="Vă rugăm să introduceți o adresă de email validă";
+
+"resetPassword_title"="Reseteaza parola";
+"resetPassword_emailSent"="Instrucțiunile de resetare a parolei au fost trimise la adresa de e-mail: %@";
+
+"scanCard_cardSide_front"="Fața cardului";
+"scanCard_noAuthorization_title"="Permiteți %@ să vă acceseze camera";
+"scanCard_noAuthorization_description"="Acest lucru vă permite să scanați carduri";
+"scanCard_action_openSettings"="Deschide setările";
+"scanCard_gradeType_graded"="Notat";
+"scanCard_gradeType_raw"="Brut";
+
+"prompt_action_cancel"="Anulare";
+"prompt_title"="Esti sigur?";
+"prompt_logout_description"="Sunteți sigur că doriți să vă eliminați contul?";
+"prompt_logout_confirmAction"="Deconectați-vă";
+"prompt_deleteAccount_description"="Ștergerea colecției nu va elimina cardurile; vor rămâne în portofoliul tău.";
+"prompt_deleteAccount_keepAction"="A pastra";
+"prompt_deleteAccount_sure"="Sunteți sigur că doriți să vă eliminați contul?";
+"prompt_deleteAccount_confirmAction"="Șterge";
+"prompt_deleteCollection_description"="Ștergerea colecției nu va șterge cardurile din colecție. Cărțile vor rămâne în portofoliu.";
+"prompt_deleteCollection_keepAction"="A pastra";
+"prompt_deleteCollection_confirmAction"="Șterge";
+"prompt_deleteDeck_description"="Ștergerea pachetului nu va șterge cărțile din pachet. Cărțile vor rămâne în portofoliu.";
+"prompt_deleteDeck_keepAction"="A pastra";
+"prompt_deleteDeck_confirmAction"="Șterge";
+"prompt_removeCard_description"="Sunteți pe cale să eliminați acest card din portofoliu. Acest card ar trebui să fie scanat din nou pentru a-l adăuga înapoi în portofoliul dvs.";
+"prompt_removeCard_keepAction"="A pastra";
+"prompt_removeCard_confirmAction"="Elimina";
+
+"identifyingCard_title"="%@ Card capturat";
+"identifyingCard_processTitle"="Cartea de identitate...";
+"identifyingCard_action_cancel"="Anulați SCANARE";
+
+"searchCard_title"="Căutare Card";
+"searchCard_search_placeholder"="Căutați un card";
+"searchCard_error_tryAgain"="Încearcă din nou! Continuați să căutați!";
+
+"card_missingImage"="Lipsă\nImagine";
+
+"cardDetails_action_addCard"="Adăugați în portofoliu";
+"cardDetails_action_findCard"="Găsiți Card";
+"cardDetails_action_editCard"="Editați cardul și nota";
+"cardDetails_action_removeCard"="Eliminați din portofoliu";
+
+"pricingReport_setCustomPrice"="Setați prețul personalizat";
+"pricingReport_editCustomPrice"="Editați prețul personalizat";
+"pricingReport_viewReport"="Vedeți raportul de prețuri";
+"pricingReport_valueEstimating"="Estimarea valorii în așteptare";
+
+"pricingReport_details_priceReport"="Raport de preț";
+"pricingReport_details_lastSoldPrice"="Ultimul preț vândut";
+"pricingReport_details_lastSoldDate"="Data ultimei vânzări";
+"pricingReport_details_recentSales"="Vânzări recente";
+"pricingReport_details_noSales"="Fără vânzări recente";
+
+"cardDetail_year"="Anul cardului";
+"cardDetail_cardNumber"="Card #";
+"cardDetail_set"="A stabilit";
+"cardDetail_series"="Serie";
+"cardDetail_parallel"="Paralel";
+"cardDetail_grade"="Nota";
+"cardDetail_ungraded"="Negradat";
+"cardDetail_color"="Culoare";
+"cardDetail_colors"="Culori";
+"cardDetail_type"="Tip";
+"cardDetail_manaValue"="Valoarea Mana";
+"cardDetail_power"="Putere";
+"cardDetail_toughness"="Duritate";
+"cardDetail_rarity"="Raritate";
+
+"recentlyAdded_title"="Carduri adăugate recent";
+
+"highestValue_title"="Carduri cu cea mai mare valoare";
+
+"currentValue_title"="Valoarea curentă";
+"currentValue_valueByCategory"="Valoare după categorie";
+
+"editCard_title"="Editează detaliile";
+"editCard_parallel"="Paralel";
+"editCard_grade"="Nota";
+"editCard_customPrice"="Setați prețul personalizat";
+"editCard_action_updateDetails"="Actualizați detalii";
+"editCard_valueEstimating"="Estimarea valorii în așteptare";
+
+"parallelSelection_title"="Paralel";
+"parallelSelection_search_placeholder"="Căutare";
+"parallelSelection_allOptions"="Toate Opțiunile";
+"parallelSelection_missingSample"="Eșantion lipsă";
+"parallelSelection_noResult"="Nici un rezultat gasit";
+"parallelSelection_action_none"="Nici unul";
+
+"gradeSelection_title"="Nota";
+"gradeSelection_selectGrader"="Selectați Grader";
+"gradeSelection_selectGrade"="Selectați Nota";
+
+"createCollection_title"="Creați o nouă colecție";
+"createCollection_collectionName_placeholder"="Denumiți-vă colecția";
+"createCollection_action_create"="Crea";
+
+"cardCollection_estimatedValue"="Valoarea estimată";
+"cardCollection_noCards"="Această colecție nu are carduri";
+"cardCollection_action_addCards"="Adăugați carduri";
+
+"addCards_title"="Adăugați carduri la \"%@\"";
+"addCards_titleNoName_collection"="Adăugați carduri la colecție";
+"addCards_titleNoName_deck"="Adăugați cărți la pachet";
+"addCards_oneCardSelected"="1 card selectat";
+"addCards_numberOfCardsSelected"="%d carduri selectate";
+"addCards_action_selectAll"="Selectează tot";
+"addCards_allCards"="Toate cărțile";
+"addCards_search_placeholder"="Căutați un card";
+"addCards_noResult"="Nici un rezultat gasit";
+
+"sortCards_title"="Filtrează după";
+"sortCards_option_dateRecent"="Data salvării: recent-cel mai vechi";
+"sortCards_option_dateOldest"="Data salvării: cel mai vechi-recent";
+"sortCards_option_nameDirect"="Nume card: A-Z";
+"sortCards_option_nameReverse"="Nume card: Z-A";
+"sortCards_option_yearRecent"="Anul cardului: recent-cel mai vechi";
+"sortCards_option_yearOldest"="Anul cardului: cel mai vechi-recent";
+
+"editCollection_title"="Actualizați colecția";
+"editCollection_collectionName_placeholder"="Redenumiți-vă colecția";
+
+"createDeck_title"="Creați un nou pachet";
+"createDeck_deckName_title"="Denumiți-vă puntea";
+"createDeck_deckName_placeholder"="Introduceți un nume";
+"createDeck_deckType_title"="Tip punte";
+"createDeck_deckType_select"="Selectați o categorie de card";
+"createDeck_description_title"="Descriere (optional)";
+"createDeck_description_placeholder"="Introduceți o descriere pentru Deck-ul dvs";
+"createDeck_action_create"="Crea";
+
+"cardDeck_noCards"="Nu există cărți în acest pachet";
+"cardDeck_action_addCards"="Adăugați carduri";
+
+"editCardSet_menu_addCards"="Adăugați carduri";
+"editCardSet_menu_removeCards"="Eliminați cardurile";
+"editCardSet_menu_sortCards"="Sortare carduri";
+"editCardSet_menu_totalPrice"="Prețul total estimat";
+"editCardSet_menu_renameCollection"="Redenumiți colecția";
+"editCardSet_menu_deleteCollection"="Șterge colecția";
+"editCardSet_menu_editDeck"="Editează pachetul";
+"editCardSet_menu_deleteDeck"="Șterge pachetul";
+
+"editDeck_title"="Actualizați pachetul";
+
+"legalityOption_standard"="Standard";
+"legalityOption_pioneer"="Pionier";
+"legalityOption_modern"="Modern";
+"legalityOption_legacy"="Moştenire";
+"legalityOption_vintage"="Epocă";
+"legalityOption_commander"="Comandant";
+"legalityOption_oathbreaker"="Spărgătorul de jurământ";
+"legalityOption_alchemy"="Alchimie";
+"legalityOption_explorer"="Explorator";
+"legalityOption_brawl"="Certa";
+"legalityOption_historic"="Istoric";
+"legalityOption_pauper"="Cerşetor";
+"legalityOption_penny"="Penny";
+
+"cardLegality_legal"="Legal";
+"cardLegality_notLegal"="Nu este legal";
+
+"magicCard_color_white"="alb";
+"magicCard_color_blue"="Albastru";
+"magicCard_color_black"="Negru";
+"magicCard_color_red"="roșu";
+"magicCard_color_green"="Verde";
+"magicCard_color_colorless"="Incolor";
+
+"alert_noInternetConnection_title"="Problemă de conectivitate";
+"alert_noInternetConnection_message"="Conexiunea la internet pare să fie offline ☹️";
+"alert_needRecentLogin_title"="Re-autentificați";
+"alert_needRecentLogin_message"="Pentru a șterge un cont, este necesară o autentificare recentă";
+"alert_needRecentLogin_action_logOut"="Deconectați-vă";

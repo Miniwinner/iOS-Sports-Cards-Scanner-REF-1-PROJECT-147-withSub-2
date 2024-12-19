@@ -1,0 +1,165 @@
+"common_close" = "关闭";
+"common_cancel" = "取消";
+"common_done" = "完成";
+"common_reset" = "重置";
+"common_error" = "哎呀，出了点问题";
+"common_ok" = "好的";
+
+"splash_loading" = "加载中";
+
+"signIn_title" = "登录";
+"signIn_email_title" = "电子邮件地址";
+"signIn_email_placeholder" = "输入电子邮件";
+"signIn_password_title" = "输入密码";
+"signIn_password_placeholder" = "输入密码";
+"signIn_password_forgot" = "忘记密码？";
+"signIn_action_signIn" = "登录";
+"signIn_action_signUp" = "注册";
+"signIn_signInWith" = "使用以下方式登录";
+"signIn_noAccount" = "没有账户？";
+"signIn_error_invalidEmail" = "请输入有效的电子邮件地址";
+"signIn_error_userNotFound" = "请输入有效的电子邮件和密码";
+"signIn_error_wrongPassword" = "请输入正确的密码";
+"signIn_welcome" = "欢迎回来！";
+"signIn_ask" = "请输入您的登录详情";
+"signInLogInWith" = "使用以下方式登录";
+
+"signUp_title" = "注册";
+"signUp_email_title" = "电子邮件地址";
+"signUp_email_placeholder" = "输入您的电子邮件地址";
+"signUp_password_title" = "密码";
+"signUp_password_placeholder" = "输入您的密码";
+"signUp_password_requirements" = "密码应至少包含8个字符，并包括至少一个大写字母（A-Z）、一个小写字母（a-z）、一个数字（0-9）和一个特殊字符（例如，! % @ 或 #）。";
+"signUp_confirmPassword_title" = "确认密码";
+"signUp_confirmPassword_placeholder" = "再次输入您的密码";
+"signUp_action_signUp" = "注册";
+"signUp_action_signIn" = "登录";
+"signUp_signInWith" = "使用以下方式登录";
+"signUp_haveAccount" = "已经有账户了？";
+"signUp_error_invalidEmail" = "请输入有效的电子邮件地址";
+"signUp_error_existUser" = "此电子邮件地址已存在账户";
+"signUp_error_noPasswordRequirements" = "密码必须符合密码要求";
+"signUp_error_passwordsMismatch" = "密码必须匹配";
+
+"dashboard_title" = "仪表板";
+"dashboard_welcome_title" = "进入卡片收集的未来";
+"dashboard_welcome_description" = "扫描卡片以扩展您的收藏";
+"dashboard_scanInstructions" = "点击开始扫描您的卡片。";
+"dashboard_currentValue" = "当前价值";
+"dashboard_highestValue" = "最高价值";
+"dashboard_recentlyAdded" = "最近添加";
+"dashboard_action_scanCard" = "扫描卡片";
+
+"portfolio_title" = "投资组合";
+"portfolio_scanInstructions" = "点击打开扫描仪和您的第一张卡片";
+"portfolio_collection_create" = "创建收藏";
+"portfolio_deck_create" = "创建卡组";
+"portfolio_deck_description" = "交易卡牌游戏卡组";
+"portfolio_collection_description" = "自定义收藏";
+"portfolio_cards" = "卡片";
+"portfolio_oneCard" = "1 张卡片";
+"portfolio_numberOfCards" = "%d 张卡片";
+"portfolio_allCards" = "所有卡片";
+"portfolio_estimatedValue" = "总估值";
+"portfolio_scanToAdd" = "扫描卡片以添加到您的收藏";
+
+"more_title" = "更多";
+"more_item_cardCategories" = "卡片类别";
+"more_item_updatePassword" = "更新密码";
+"more_item_privacyPolicy" = "隐私政策";
+"more_item_termsAndConditions" = "使用条款";
+"more_item_pushNotifications" = "启用推送通知";
+"more_item_logout" = "登出";
+"more_item_deleteAccount" = "删除账户";
+
+"cardCategories_title" = "卡片类别";
+"cardCategories_description" = "请选择您希望包含在投资组合和扫描仪中的卡片类型";
+"cardCategories_minEnabledCategories" = "您需要保持至少一个活动类别。";
+
+"updatePassword_title" = "更新密码";
+"updatePassword_newPassword_title" = "创建新密码";
+"updatePassword_newPassword_placeholder" = "输入新密码";
+"updatePassword_confirmNewPassword_title" = "确认新密码";
+"updatePassword_confirmNewPassword_placeholder" = "再次输入新密码";
+"updatePassword_newPassword_requirements" = "密码应至少包含8个字符，并包括至少一个大写字母（A-Z）、一个小写字母（a-z）、一个数字（0-9）和一个特殊字符（例如，! % @ 或 #）。";
+"updatePassword_newPassword_cut1" = "8 个字符";
+"updatePassword_newPassword_cut2" = "一个大写字母";
+"updatePassword_newPassword_cut3" = "一个小写字母";
+"updatePassword_newPassword_cut4" = "一个数字";
+"updatePassword_newPassword_cut5" = "一个特殊字符";
+"updatePassword_action_save" = "保存";
+"updatePassword_error_noPasswordRequirements" = "密码必须符合密码要求";
+"updatePassword_error_passwordsMismatch" = "密码必须匹配";
+"updatePassword_error_needReauthenticate" = "请重新认证以更改您的密码";
+
+"cardCategory_baseball" = "棒球";
+"cardCategory_pokemon" = "宝可梦";
+"cardCategory_basketball" = "篮球";
+"cardCategory_football" = "美式足球";
+"cardCategory_magic" = "万智牌";
+"cardCategory_magic_short" = "MTG";
+"cardCategory_hockey" = "冰球";
+"cardCategory_soccer" = "足球";
+
+"forgotPassword_title" = "忘记密码";
+"forgotPassword_description" = "输入您的账户电子邮件地址，我们将发送重置密码的说明";
+"forgotPassword_email_title" = "电子邮件地址";
+"forgotPassword_email_placeholder" = "输入您的电子邮件地址";
+"forgotPassword_action_send" = "发送";
+"forgotPassword_error_userNotFound" = "没有与此电子邮件地址匹配的用户";
+"forgotPassword_error_invalidEmail" = "请输入有效的电子邮件地址";
+
+"resetPassword_title" = "重置密码";
+"resetPassword_emailSent" = "密码重置说明已发送至电子邮件地址：%@";
+"createDeck_title" = "创建新卡组";
+"createDeck_deckName_title" = "命名您的卡组";
+"createDeck_deckName_placeholder" = "输入一个名称";
+"createDeck_deckType_title" = "卡组类型";
+"createDeck_deckType_select" = "选择一个卡片类别";
+"createDeck_description_title" = "描述（可选）";
+"createDeck_description_placeholder" = "输入您的卡组描述";
+"createDeck_action_create" = "创建";
+
+"cardDeck_noCards" = "此卡组中没有卡片";
+"cardDeck_action_addCards" = "添加卡片";
+
+"editCardSet_menu_addCards" = "添加卡片";
+"editCardSet_menu_removeCards" = "移除卡片";
+"editCardSet_menu_sortCards" = "排序卡片";
+"editCardSet_menu_totalPrice" = "总价估计";
+"editCardSet_menu_renameCollection" = "重新命名收藏";
+"editCardSet_menu_deleteCollection" = "删除收藏";
+"editCardSet_menu_editDeck" = "编辑卡组";
+"editCardSet_menu_deleteDeck" = "删除卡组";
+
+"editDeck_title" = "更新卡组";
+
+"legalityOption_standard" = "标准";
+"legalityOption_pioneer" = "先锋";
+"legalityOption_modern" = "现代";
+"legalityOption_legacy" = "传统";
+"legalityOption_vintage" = "老牌";
+"legalityOption_commander" = "指挥官";
+"legalityOption_oathbreaker" = "誓破";
+"legalityOption_alchemy" = "炼金";
+"legalityOption_explorer" = "探险者";
+"legalityOption_brawl" = "斗殴";
+"legalityOption_historic" = "历史";
+"legalityOption_pauper" = "穷人";
+"legalityOption_penny" = "便士";
+
+"cardLegality_legal" = "合法";
+"cardLegality_notLegal" = "不合法";
+
+"magicCard_color_white" = "白色";
+"magicCard_color_blue" = "蓝色";
+"magicCard_color_black" = "黑色";
+"magicCard_color_red" = "红色";
+"magicCard_color_green" = "绿色";
+"magicCard_color_colorless" = "无色";
+
+"alert_noInternetConnection_title" = "连接问题";
+"alert_noInternetConnection_message" = "互联网连接似乎已断开 ☹️";
+"alert_needRecentLogin_title" = "重新认证";
+"alert_needRecentLogin_message" = "删除账户需要最近的登录";
+"alert_needRecentLogin_action_logOut" = "登出";

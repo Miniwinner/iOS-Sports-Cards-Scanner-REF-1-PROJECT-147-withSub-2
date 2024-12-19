@@ -1,0 +1,288 @@
+"common_close" = "Sluiten";
+"common_cancel" = "Annuleren";
+"common_done" = "Gereed";
+"common_reset" = "Resetten";
+"common_error" = "Oeps, er is iets misgegaan";
+"common_ok" = "Oké";
+
+"splash_loading" = "Laden";
+
+"signIn_title" = "Inloggen";
+"signIn_email_title" = "E-mailadres";
+"signIn_email_placeholder" = "Voer e-mail in";
+"signIn_password_title" = "Voer wachtwoord in";
+"signIn_password_placeholder" = "Voer wachtwoord in";
+"signIn_password_forgot" = "Wachtwoord vergeten?";
+"signIn_action_signIn" = "Inloggen";
+"signIn_action_signUp" = "Registreren";
+"signIn_signInWith" = "Inloggen met";
+"signIn_noAccount" = "Geen account?";
+"signIn_action_signUp" = "Registreren";
+"signIn_error_invalidEmail" = "Voer een geldig e-mailadres in";
+"signIn_error_userNotFound" = "Voer een geldig e-mailadres en wachtwoord in";
+"signIn_error_wrongPassword" = "Voer het juiste wachtwoord in";
+"signIn_welcome" = "Welkom terug!";
+"signIn_ask" = "Voer uw inloggegevens in";
+"signInLogInWith" = "Log in met.";
+
+"signUp_title" = "Registreren";
+"signUp_email_title" = "E-mailadres";
+"signUp_email_placeholder" = "Voer uw e-mailadres in";
+"signUp_password_title" = "Wachtwoord";
+"signUp_password_placeholder" = "Voer uw wachtwoord in";
+"signUp_password_requirements" = "Wachtwoorden moeten minimaal 8 tekens lang zijn en ten minste één hoofdletter (A-Z), één kleine letter (a-z), één cijfer (0-9) en één speciaal teken bevatten (bijv. ! % @ of #).";
+"signUp_confirmPassword_title" = "Bevestiging wachtwoord";
+"signUp_confirmPassword_placeholder" = "Voer uw wachtwoordbevestiging in";
+"signUp_action_signUp" = "Registreren";
+"signUp_action_signIn" = "Inloggen";
+"signUp_signInWith" = "Inloggen met";
+"signUp_haveAccount" = "Heb je al een account?";
+"signUp_error_invalidEmail" = "Voer een geldig e-mailadres in";
+"signUp_error_existUser" = "Er bestaat al een account met dit e-mailadres";
+"signUp_error_noPasswordRequirements" = "Wachtwoord moet voldoen aan de wachtwoordeisen";
+"signUp_error_passwordsMismatch" = "Wachtwoorden moeten overeenkomen";
+
+"dashboard_title" = "Dashboard";
+"dashboard_welcome_title" = "Stap in de toekomst van het kaartverzamelen";
+"dashboard_welcome_description" = "Scan een kaart om uw collectie uit te breiden";
+"dashboard_scanInstructions" = "Tik om te beginnen met scannen van uw kaart.";
+"dashboard_currentValue" = "Huidige waarde";
+"dashboard_highestValue" = "Hoogste waarde";
+"dashboard_recentlyAdded" = "Recent toegevoegd";
+"dashboard_action_scanCard" = "Scan kaart";
+
+"portfolio_title" = "Portfolio";
+"portfolio_scanInstructions" = "Tik om de scanner te openen en uw eerste kaart";
+"portfolio_collection_create" = "Collectie aanmaken";
+"portfolio_deck_create" = "Deck aanmaken";
+"portfolio_deck_description" = "Verzamelkaartspel deck";
+"portfolio_collection_description" = "Aangepaste collectie";
+"portfolio_cards" = "Kaarten";
+"portfolio_oneCard" = "1 kaart";
+"portfolio_numberOfCards" = "%d kaarten";
+"portfolio_allCards" = "Alle kaarten";
+"portfolio_estimatedValue" = "Totale geschatte waarde";
+"portfolio_scanToAdd" = "Scan een kaart om aan uw collectie toe te voegen";
+
+"more_title" = "Meer";
+"more_item_cardCategories" = "Kaartcategorieën";
+"more_item_updatePassword" = "Wachtwoord bijwerken";
+"more_item_privacyPolicy" = "Privacybeleid";
+"more_item_termsAndConditions" = "Gebruiksvoorwaarden";
+"more_item_pushNotifications" = "Pushmeldingen inschakelen";
+"more_item_logout" = "Uitloggen";
+"more_item_deleteAccount" = "Account verwijderen";
+
+"cardCategories_title" = "Kaartcategorieën";
+"cardCategories_description" = "Selecteer de kaarttypen die u in uw portfolio en scanner wilt opnemen";
+"cardCategories_minEnabledCategories" = "U moet minimaal één actieve categorie behouden.";
+
+"updatePassword_title" = "Wachtwoord bijwerken";
+"updatePassword_newPassword_title" = "Nieuw wachtwoord aanmaken";
+"updatePassword_newPassword_placeholder" = "Voer nieuw wachtwoord in";
+"updatePassword_confirmNewPassword_title" = "Bevestig nieuw wachtwoord";
+"updatePassword_confirmNewPassword_placeholder" = "Voer nieuw wachtwoord opnieuw in";
+"updatePassword_newPassword_requirements" = "Wachtwoorden moeten minimaal 8 tekens lang zijn en ten minste één hoofdletter (A-Z), één kleine letter (a-z), één cijfer (0-9) en één speciaal teken bevatten (bijv. ! % @ of #).";
+"updatePassword_newPassword_cut1" = "8 tekens";
+"updatePassword_newPassword_cut2" = "één hoofdletter";
+"updatePassword_newPassword_cut3" = "één kleine letter";
+"updatePassword_newPassword_cut4" = "één cijfer";
+"updatePassword_newPassword_cut5" = "één speciaal teken";
+"updatePassword_action_save" = "Opslaan";
+"updatePassword_error_noPasswordRequirements" = "Wachtwoord moet voldoen aan de wachtwoordeisen";
+"updatePassword_error_passwordsMismatch" = "Wachtwoorden moeten overeenkomen";
+"updatePassword_error_needReauthenticate" = "Gelieve opnieuw in te loggen om uw wachtwoord te wijzigen";
+
+"cardCategory_baseball" = "Honkbal";
+"cardCategory_pokemon" = "Pokémon";
+"cardCategory_basketball" = "Basketbal";
+"cardCategory_football" = "Voetbal";
+"cardCategory_magic" = "Magic: The Gathering";
+"cardCategory_magic_short" = "MTG";
+"cardCategory_hockey" = "IJshockey";
+"cardCategory_soccer" = "Voetbal";
+
+"forgotPassword_title" = "Wachtwoord vergeten";
+"forgotPassword_description" = "Voer het e-mailadres van uw account in en we sturen u instructies om uw wachtwoord te resetten";
+"forgotPassword_email_title" = "E-mailadres";
+"forgotPassword_email_placeholder" = "Voer uw e-mailadres in";
+"forgotPassword_action_send" = "Verzenden";
+"forgotPassword_error_userNotFound" = "Er zijn geen gebruikers met dit e-mailadres";
+"forgotPassword_error_invalidEmail" = "Voer een geldig e-mailadres in";
+
+"resetPassword_title" = "Wachtwoord resetten";
+"resetPassword_emailSent" = "Instructies voor het resetten van het wachtwoord zijn verzonden naar het e-mailadres: %@";
+
+"scanCard_cardSide_front" = "Voorkant van de kaart";
+"scanCard_noAuthorization_title" = "Sta %@ toe om toegang te krijgen tot uw camera";
+"scanCard_noAuthorization_description" = "Dit stelt u in staat om kaarten te scannen";
+"scanCard_action_openSettings" = "Open instellingen";
+"scanCard_gradeType_graded" = "Beoordeeld";
+"scanCard_gradeType_raw" = "Onbewerkt";
+
+"prompt_action_cancel" = "Annuleren";
+"prompt_title" = "Weet u het zeker?";
+"prompt_logout_description" = "Weet u zeker dat u uw account wilt verwijderen?";
+"prompt_logout_confirmAction" = "Uitloggen";
+"prompt_deleteAccount_description" = "Het verwijderen van de collectie verwijdert de kaarten niet; ze blijven in uw portfolio.";
+"prompt_deleteAccount_keepAction" = "Behouden";
+"prompt_deleteAccount_sure" = "Weet u zeker dat u uw account wilt verwijderen?";
+"prompt_deleteAccount_confirmAction" = "Verwijderen";
+"prompt_deleteCollection_description" = "Het verwijderen van de collectie verwijdert de kaarten binnen de collectie niet. De kaarten blijven in uw portfolio.";
+"prompt_deleteCollection_keepAction" = "Behouden";
+"prompt_deleteCollection_confirmAction" = "Verwijderen";
+"prompt_deleteDeck_description" = "Het verwijderen van het deck verwijdert de kaarten binnen het deck niet. De kaarten blijven in uw portfolio.";
+"prompt_deleteDeck_keepAction" = "Behouden";
+"prompt_deleteDeck_confirmAction" = "Verwijderen";
+"prompt_removeCard_description" = "U staat op het punt deze kaart uit uw portfolio te verwijderen. Deze kaart moet opnieuw gescand worden om weer aan uw portfolio toegevoegd te worden.";
+"prompt_removeCard_keepAction" = "Behouden";
+"prompt_removeCard_confirmAction" = "Verwijderen";
+
+"identifyingCard_title" = "%@ kaart vastgelegd";
+"identifyingCard_processTitle" = "Kaart identificeren...";
+"identifyingCard_action_cancel" = "Annuleer SCAN";
+
+"searchCard_title" = "Zoek kaart";
+"searchCard_search_placeholder" = "Zoek naar een kaart";
+"searchCard_error_tryAgain" = "Probeer het opnieuw! Blijf zoeken!";
+
+"card_missingImage" = "Ontbrekende\nAfbeelding";
+
+"cardDetails_action_addCard" = "Toevoegen aan portfolio";
+"cardDetails_action_findCard" = "Vind kaart";
+"cardDetails_action_editCard" = "Bewerk kaart en beoordeling";
+"cardDetails_action_removeCard" = "Verwijderen uit portfolio";
+
+"pricingReport_setCustomPrice" = "Stel aangepaste prijs in";
+"pricingReport_editCustomPrice" = "Bewerk aangepaste prijs";
+"pricingReport_viewReport" = "Bekijk prijsrapport";
+"pricingReport_valueEstimating" = "Waardeschatting in behandeling";
+
+"pricingReport_details_priceReport" = "Prijsrapport";
+"pricingReport_details_lastSoldPrice" = "Laatst verkochte prijs";
+"pricingReport_details_lastSoldDate" = "Laatste verkoopdatum";
+"pricingReport_details_recentSales" = "Recente verkopen";
+"pricingReport_details_noSales" = "Geen recente verkopen";
+
+"cardDetail_year" = "Kaartjaar";
+"cardDetail_cardNumber" = "Kaartnummer";
+"cardDetail_set" = "Set";
+"cardDetail_series" = "Serie";
+"cardDetail_parallel" = "Parallel";
+"cardDetail_grade" = "Beoordeling";
+"cardDetail_ungraded" = "Niet beoordeeld";
+"cardDetail_color" = "Kleur";
+"cardDetail_colors" = "Kleuren";
+"cardDetail_type" = "Type";
+"cardDetail_manaValue" = "Mana-waarde";
+"cardDetail_power" = "Kracht";
+"cardDetail_toughness" = "Weerbaarheid";
+"cardDetail_rarity" = "Zeldzaamheid";
+
+"recentlyAdded_title" = "Recent toegevoegde kaarten";
+
+"highestValue_title" = "Kaarten met hoogste waarde";
+
+"currentValue_title" = "Huidige waarde";
+"currentValue_valueByCategory" = "Waarde per categorie";
+
+"editCard_title" = "Details bewerken";
+"editCard_parallel" = "Parallel";
+"editCard_grade" = "Beoordeling";
+"editCard_customPrice" = "Aangepaste prijs instellen";
+"editCard_action_updateDetails" = "Details bijwerken";
+"editCard_valueEstimating" = "Waardeschatting in behandeling";
+
+"parallelSelection_title" = "Parallel";
+"parallelSelection_search_placeholder" = "Zoek";
+"parallelSelection_allOptions" = "Alle opties";
+"parallelSelection_missingSample" = "Ontbrekend voorbeeld";
+"parallelSelection_noResult" = "Geen resultaten gevonden";
+"parallelSelection_action_none" = "Geen";
+
+"gradeSelection_title" = "Beoordeling";
+"gradeSelection_selectGrader" = "Selecteer beoordelaar";
+"gradeSelection_selectGrade" = "Selecteer beoordeling";
+
+"createCollection_title" = "Nieuwe collectie aanmaken";
+"createCollection_collectionName_placeholder" = "Naam uw collectie";
+"createCollection_action_create" = "Aanmaken";
+
+"cardCollection_estimatedValue" = "Geschatte waarde";
+"cardCollection_noCards" = "Deze collectie bevat geen kaarten";
+"cardCollection_action_addCards" = "Kaarten toevoegen";
+
+"addCards_title" = "Kaarten toevoegen aan \"%@\"";
+"addCards_titleNoName_collection" = "Kaarten toevoegen aan collectie";
+"addCards_titleNoName_deck" = "Kaarten toevoegen aan deck";
+"addCards_oneCardSelected" = "1 kaart geselecteerd";
+"addCards_numberOfCardsSelected" = "%d kaarten geselecteerd";
+"addCards_action_selectAll" = "Alles selecteren";
+"addCards_allCards" = "Alle kaarten";
+"addCards_search_placeholder" = "Zoek naar een kaart";
+"addCards_noResult" = "Geen resultaten gevonden";
+
+"sortCards_title" = "Sorteren op";
+"sortCards_option_dateRecent" = "Opslagdatum: Nieuw naar Oud";
+"sortCards_option_dateOldest" = "Opslagdatum: Oud naar Nieuw";
+"sortCards_option_nameDirect" = "Kaartnaam: A-Z";
+"sortCards_option_nameReverse" = "Kaartnaam: Z-A";
+"sortCards_option_yearRecent" = "Kaartjaar: Nieuw naar Oud";
+"sortCards_option_yearOldest" = "Kaartjaar: Oud naar Nieuw";
+
+"editCollection_title" = "Collectie bijwerken";
+"editCollection_collectionName_placeholder" = "Naam uw collectie opnieuw";
+
+"createDeck_title" = "Nieuw deck aanmaken";
+"createDeck_deckName_title" = "Naam uw deck";
+"createDeck_deckName_placeholder" = "Voer een naam in";
+"createDeck_deckType_title" = "Decktype";
+"createDeck_deckType_select" = "Selecteer een kaartcategorie";
+"createDeck_description_title" = "Beschrijving (optioneel)";
+"createDeck_description_placeholder" = "Voer een beschrijving voor uw deck in";
+"createDeck_action_create" = "Aanmaken";
+
+"cardDeck_noCards" = "Er zijn geen kaarten in dit deck";
+"cardDeck_action_addCards" = "Kaarten toevoegen";
+
+"editCardSet_menu_addCards" = "Kaarten toevoegen";
+"editCardSet_menu_removeCards" = "Kaarten verwijderen";
+"editCardSet_menu_sortCards" = "Kaarten sorteren";
+"editCardSet_menu_totalPrice" = "Totale prijsschatting";
+"editCardSet_menu_renameCollection" = "Collectie hernoemen";
+"editCardSet_menu_deleteCollection" = "Collectie verwijderen";
+"editCardSet_menu_editDeck" = "Deck bewerken";
+"editCardSet_menu_deleteDeck" = "Deck verwijderen";
+
+"editDeck_title" = "Deck bijwerken";
+
+"legalityOption_standard" = "Standaard";
+"legalityOption_pioneer" = "Pionier";
+"legalityOption_modern" = "Modern";
+"legalityOption_legacy" = "Legacy";
+"legalityOption_vintage" = "Vintage";
+"legalityOption_commander" = "Commander";
+"legalityOption_oathbreaker" = "Oathbreaker";
+"legalityOption_alchemy" = "Alchemy";
+"legalityOption_explorer" = "Explorer";
+"legalityOption_brawl" = "Brawl";
+"legalityOption_historic" = "Historic";
+"legalityOption_pauper" = "Pauper";
+"legalityOption_penny" = "Penny";
+
+"cardLegality_legal" = "Legaal";
+"cardLegality_notLegal" = "Niet legaal";
+
+"magicCard_color_white" = "Wit";
+"magicCard_color_blue" = "Blauw";
+"magicCard_color_black" = "Zwart";
+"magicCard_color_red" = "Rood";
+"magicCard_color_green" = "Groen";
+"magicCard_color_colorless" = "Kleurloos";
+
+"alert_noInternetConnection_title" = "Verbindingsprobleem";
+"alert_noInternetConnection_message" = "Het lijkt erop dat de internetverbinding offline is ☹️";
+"alert_needRecentLogin_title" = "Opnieuw verifiëren";
+"alert_needRecentLogin_message" = "Om een account te verwijderen, is een recente aanmelding vereist";
+"alert_needRecentLogin_action_logOut" = "Uitloggen";
+

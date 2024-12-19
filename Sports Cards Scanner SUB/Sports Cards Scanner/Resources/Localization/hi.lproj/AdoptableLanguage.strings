@@ -1,0 +1,287 @@
+"common_close"="बंद करना";
+"common_cancel"="रद्द करना";
+"common_done"="हो गया";
+"common_reset"="रीसेट";
+"common_error"="ओह! कुछ गलत हो गया है";
+"common_ok"="ठीक है";
+
+"splash_loading"="लोड हो रहा है";
+
+"signIn_title"="दाखिल करना";
+"signIn_email_title"="ईमेल पता";
+"signIn_email_placeholder"="ईमेल दर्ज करें";
+"signIn_password_title"="पास वर्ड दर्ज करें";
+"signIn_password_placeholder"="पास वर्ड दर्ज करें";
+"signIn_password_forgot"="पासवर्ड भूल गए?";
+"signIn_action_signIn"="दाखिल करना";
+"signIn_action_signUp"="साइन अप करें";
+"signIn_signInWith"="के साथ साइन इन करें";
+"signIn_noAccount"="कोई खाता नहीं है?";
+"signIn_action_signUp"="साइन अप करें";
+"signIn_error_invalidEmail"="कृपया एक मान्य ईमेल पता प्रविष्ट करें";
+"signIn_error_userNotFound"="कृपया एक वैध ईमेल और पासवर्ड दर्ज करें";
+"signIn_error_wrongPassword"="कृपया सही पासवर्ड दर्ज करें";
+"signIn_welcome"="वापसी पर स्वागत है!";
+"signIn_ask"="कृपया अपना लॉगिन विवरण दर्ज करें";
+"signInLogInWith"="साथ प्रवेश करना।";
+
+"signUp_title"="साइन अप करें";
+"signUp_email_title"="मेल पता";
+"signUp_email_placeholder"="अपना ईमेल पता दर्ज करें";
+"signUp_password_title"="पासवर्ड";
+"signUp_password_placeholder"="अपना कूटशब्द भरें";
+"signUp_password_requirements"="पासवर्ड कम से कम 8 अक्षर लंबा होना चाहिए और इसमें कम से कम एक अपरकेस अक्षर (ए-जेड), एक लोअरकेस अक्षर (ए-जेड), एक संख्या (0-9), और एक विशेष अक्षर (उदाहरण के लिए, ! % @ या #) शामिल होना चाहिए।";
+"signUp_confirmPassword_title"="पासवर्ड पुष्टि";
+"signUp_confirmPassword_placeholder"="अपना पासवर्ड पुष्टिकरण दर्ज करें";
+"signUp_action_signUp"="साइन अप करें";
+"signUp_action_signIn"="दाखिल करना";
+"signUp_signInWith"="के साथ साइन इन करें";
+"signUp_haveAccount"="क्या आपके पास पहले से एक खाता मौजूद है?";
+"signUp_error_invalidEmail"="कृपया एक मान्य ईमेल पता प्रविष्ट करें";
+"signUp_error_existUser"="इस ईमेल पते के साथ एक खाता पहले से मौजूद है";
+"signUp_error_noPasswordRequirements"="पासवर्ड को पासवर्ड आवश्यकताओं को पूरा करना होगा";
+"signUp_error_passwordsMismatch"="पासवर्डों को मेल खाना चाहिए";
+
+"dashboard_title"="डैशबोर्ड";
+"dashboard_welcome_title"="कार्ड संग्रह के भविष्य में कदम रखें";
+"dashboard_welcome_description"="अपने संग्रह का विस्तार करने के लिए कार्ड को स्कैन करें";
+"dashboard_scanInstructions"="अपने कार्ड को स्कैन करना शुरू करने के लिए टैप करें।";
+"dashboard_currentValue"="वर्तमान मूल्य";
+"dashboard_highestValue"="उच्चतम मूल्य";
+"dashboard_recentlyAdded"="हाल ही में जोड़ा";
+"dashboard_action_scanCard"="कार्ड स्कैन करें";
+
+"portfolio_title"="पोर्टफोलियो";
+"portfolio_scanInstructions"="स्कैनर और अपना पहला कार्ड खोलने के लिए टैप करें";
+"portfolio_collection_create"="संग्रह बनाएँ";
+"portfolio_deck_create"="डेक बनाएं";
+"portfolio_deck_description"="ट्रेडिंग कार्ड गेम डेक";
+"portfolio_collection_description"="कस्टम संग्रह";
+"portfolio_cards"="पत्ते";
+"portfolio_oneCard"="1 कार्ड";
+"portfolio_numberOfCards"="%d कार्ड";
+"portfolio_allCards"="सभी कार्ड";
+"portfolio_estimatedValue"="कुल अनुमानित मूल्य";
+"portfolio_scanToAdd"="अपने संग्रह में जोड़ने के लिए कार्ड को स्कैन करें";
+
+"more_title"="अधिक";
+"more_item_cardCategories"="कार्ड श्रेणियाँ";
+"more_item_updatePassword"="पासवर्ड अपडेट करें";
+"more_item_privacyPolicy"="गोपनीयता नीति";
+"more_item_termsAndConditions"="उपयोग की शर्तें";
+"more_item_pushNotifications"="पुश सूचनाएँ सक्षम करें";
+"more_item_logout"="लॉग आउट";
+"more_item_deleteAccount"="खाता हटा दो";
+
+"cardCategories_title"="कार्ड श्रेणियाँ";
+"cardCategories_description"="कृपया उन कार्ड प्रकारों का चयन करें जिन्हें आप अपने पोर्टफोलियो और स्कैनर में शामिल करना चाहते हैं";
+"cardCategories_minEnabledCategories"="आपको कम से कम एक सक्रिय श्रेणी बनाए रखनी होगी.";
+
+"updatePassword_title"="पासवर्ड अपडेट करें";
+"updatePassword_newPassword_title"="नया पासवर्ड बनाएं";
+"updatePassword_newPassword_placeholder"="नया पासवर्ड दर्ज करें";
+"updatePassword_confirmNewPassword_title"="नए पासवर्ड की पुष्टि करें";
+"updatePassword_confirmNewPassword_placeholder"="नया पासवर्ड पुनः दर्ज करें";
+"updatePassword_newPassword_requirements"="पासवर्ड कम से कम 8 अक्षर लंबा होना चाहिए और इसमें कम से कम एक अपरकेस अक्षर (ए-जेड), एक लोअरकेस अक्षर (ए-जेड), एक संख्या (0-9), और एक विशेष अक्षर (उदाहरण के लिए, ! % @ या #) शामिल होना चाहिए।";
+"updatePassword_newPassword_cut1"="8 अक्षर";
+"updatePassword_newPassword_cut2"="एक ऊपरी मामले पत्र";
+"updatePassword_newPassword_cut3"="एक छोटा अक्षर";
+"updatePassword_newPassword_cut4"="एक नंबर";
+"updatePassword_newPassword_cut5"="एक विशेष पात्र";
+"updatePassword_action_save"="बचाना";
+"updatePassword_error_noPasswordRequirements"="पासवर्ड को पासवर्ड आवश्यकताओं को पूरा करना होगा";
+"updatePassword_error_passwordsMismatch"="पासवर्डों को मेल खाना चाहिए";
+"updatePassword_error_needReauthenticate"="कृपया अपना पासवर्ड बदलने के लिए पुनः प्रमाणित करें";
+
+"cardCategory_baseball"="बेसबॉल";
+"cardCategory_pokemon"="पोकीमॉन";
+"cardCategory_basketball"="बास्केटबाल";
+"cardCategory_football"="फ़ुटबॉल";
+"cardCategory_magic"="मैजिक द गेदरिंग";
+"cardCategory_magic_short"="एमटीजी";
+"cardCategory_hockey"="हॉकी";
+"cardCategory_soccer"="फुटबॉल";
+
+"forgotPassword_title"="पासवर्ड भूल गए";
+"forgotPassword_description"="अपने खाते का ईमेल पता दर्ज करें और हम आपको आपका पासवर्ड रीसेट करने के निर्देश भेजेंगे";
+"forgotPassword_email_title"="मेल पता";
+"forgotPassword_email_placeholder"="अपना ईमेल पता दर्ज करें";
+"forgotPassword_action_send"="भेजना";
+"forgotPassword_error_userNotFound"="इस ईमेल पते वाला कोई उपयोगकर्ता नहीं है";
+"forgotPassword_error_invalidEmail"="कृपया एक मान्य ईमेल पता प्रविष्ट करें";
+
+"resetPassword_title"="पासवर्ड रीसेट";
+"resetPassword_emailSent"="पासवर्ड रीसेट निर्देश ईमेल पते पर भेज दिए गए हैं: %@";
+
+"scanCard_cardSide_front"="कार्ड के सामने";
+"scanCard_noAuthorization_title"="%@ को अपने कैमरे तक पहुंचने की अनुमति दें";
+"scanCard_noAuthorization_description"="इससे आप कार्ड स्कैन कर सकते हैं";
+"scanCard_action_openSettings"="खुली सेटिंग";
+"scanCard_gradeType_graded"="ग्रेड दिया गया";
+"scanCard_gradeType_raw"="कच्चा";
+
+"prompt_action_cancel"="रद्द करना";
+"prompt_title"="क्या आपको यकीन है?";
+"prompt_logout_description"="क्या आप निश्चित हैं कि आप अपना खाता हटाना चाहते हैं?";
+"prompt_logout_confirmAction"="लॉग आउट";
+"prompt_deleteAccount_description"="संग्रह हटाने से कार्ड नहीं हटेंगे; वे आपके पोर्टफोलियो में रहेंगे.";
+"prompt_deleteAccount_keepAction"="रखना";
+"prompt_deleteAccount_sure"="क्या आप निश्चित हैं कि आप अपना खाता हटाना चाहते हैं?";
+"prompt_deleteAccount_confirmAction"="मिटाना";
+"prompt_deleteCollection_description"="संग्रह को हटाने से संग्रह के भीतर के कार्ड नहीं हटेंगे। कार्ड आपके पोर्टफोलियो में रहेंगे.";
+"prompt_deleteCollection_keepAction"="रखना";
+"prompt_deleteCollection_confirmAction"="मिटाना";
+"prompt_deleteDeck_description"="डेक को हटाने से डेक के भीतर के कार्ड नहीं हटेंगे। कार्ड आपके पोर्टफोलियो में रहेंगे.";
+"prompt_deleteDeck_keepAction"="रखना";
+"prompt_deleteDeck_confirmAction"="मिटाना";
+"prompt_removeCard_description"="आप इस कार्ड को अपने पोर्टफोलियो से हटाने वाले हैं. आपके पोर्टफोलियो में वापस जोड़ने के लिए इस कार्ड को फिर से स्कैन करने की आवश्यकता होगी।";
+"prompt_removeCard_keepAction"="रखना";
+"prompt_removeCard_confirmAction"="निकालना";
+
+"identifyingCard_title"="%@ कार्ड कैप्चर किया गया";
+"identifyingCard_processTitle"="पहचान पत्र...";
+"identifyingCard_action_cancel"="स्कैन रद्द करें";
+
+"searchCard_title"="कार्ड खोजें";
+"searchCard_search_placeholder"="कार्ड खोजें";
+"searchCard_error_tryAgain"="पुनः प्रयास करें! खोज जारी रखिये!";
+
+"card_missingImage"="गुम\nछवि";
+
+"cardDetails_action_addCard"="पोर्टफोलियो में जोड़ें";
+"cardDetails_action_findCard"="कार्ड खोजें";
+"cardDetails_action_editCard"="कार्ड और ग्रेड संपादित करें";
+"cardDetails_action_removeCard"="पोर्टफ़ोलियो से हटाएँ";
+
+"pricingReport_setCustomPrice"="कस्टम मूल्य निर्धारित करें";
+"pricingReport_editCustomPrice"="कस्टम मूल्य संपादित करें";
+"pricingReport_viewReport"="मूल्य निर्धारण रिपोर्ट देखें";
+"pricingReport_valueEstimating"="मूल्य अनुमान लंबित";
+
+"pricingReport_details_priceReport"="मूल्य रिपोर्ट";
+"pricingReport_details_lastSoldPrice"="अंतिम विक्रय मूल्य";
+"pricingReport_details_lastSoldDate"="अंतिम बिक्री तिथि";
+"pricingReport_details_recentSales"="हाल की बिक्री";
+"pricingReport_details_noSales"="कोई हालिया बिक्री नहीं";
+
+"cardDetail_year"="कार्ड वर्ष";
+"cardDetail_cardNumber"="कार्ड #";
+"cardDetail_set"="तय करना";
+"cardDetail_series"="शृंखला";
+"cardDetail_parallel"="समानांतर";
+"cardDetail_grade"="श्रेणी";
+"cardDetail_ungraded"="ग्रेड नहीं किया गया";
+"cardDetail_color"="रंग";
+"cardDetail_colors"="रंग की";
+"cardDetail_type"="प्रकार";
+"cardDetail_manaValue"="मन मूल्य";
+"cardDetail_power"="शक्ति";
+"cardDetail_toughness"="बेरहमी";
+"cardDetail_rarity"="दुर्लभ वस्तु";
+
+"recentlyAdded_title"="हाल ही में जोड़े गए कार्ड";
+
+"highestValue_title"="उच्चतम मूल्य वाले कार्ड";
+
+"currentValue_title"="वर्तमान मूल्य";
+"currentValue_valueByCategory"="श्रेणी के अनुसार मूल्य";
+
+"editCard_title"="विवरण संपादित करें";
+"editCard_parallel"="समानांतर";
+"editCard_grade"="श्रेणी";
+"editCard_customPrice"="कस्टम मूल्य निर्धारित करें";
+"editCard_action_updateDetails"="अद्यतन विवरण";
+"editCard_valueEstimating"="मूल्य अनुमान लंबित";
+
+"parallelSelection_title"="समानांतर";
+"parallelSelection_search_placeholder"="खोज";
+"parallelSelection_allOptions"="सभी विकल्प";
+"parallelSelection_missingSample"="गुम नमूना";
+"parallelSelection_noResult"="कोई परिणाम नहीं मिला";
+"parallelSelection_action_none"="कोई नहीं";
+
+"gradeSelection_title"="श्रेणी";
+"gradeSelection_selectGrader"="ग्रेडर का चयन करें";
+"gradeSelection_selectGrade"="ग्रेड चुनें";
+
+"createCollection_title"="नया संग्रह बनाएं";
+"createCollection_collectionName_placeholder"="अपने संग्रह को नाम दें";
+"createCollection_action_create"="बनाएं";
+
+"cardCollection_estimatedValue"="अनुमानित मूल्य";
+"cardCollection_noCards"="इस संग्रह में कोई कार्ड नहीं है";
+"cardCollection_action_addCards"="कार्ड जोड़ें";
+
+"addCards_title"="\"%@\" में कार्ड जोड़ें";
+"addCards_titleNoName_collection"="संग्रह में कार्ड जोड़ें";
+"addCards_titleNoName_deck"="डेक में कार्ड जोड़ें";
+"addCards_oneCardSelected"="1 कार्ड चयनित";
+"addCards_numberOfCardsSelected"="%d कार्ड चयनित";
+"addCards_action_selectAll"="सबका चयन करें";
+"addCards_allCards"="सभी कार्ड";
+"addCards_search_placeholder"="कार्ड खोजें";
+"addCards_noResult"="कोई परिणाम नहीं मिला";
+
+"sortCards_title"="इसके अनुसार क्रमबद्ध करें";
+"sortCards_option_dateRecent"="सहेजी गई तिथि: नवीनतम-सबसे पुराना";
+"sortCards_option_dateOldest"="सहेजी गई तिथि: सबसे पुरानी-हाल की";
+"sortCards_option_nameDirect"="कार्ड का नाम: A-Z";
+"sortCards_option_nameReverse"="कार्ड का नाम: Z-A";
+"sortCards_option_yearRecent"="कार्ड वर्ष: नवीनतम-सबसे पुराना";
+"sortCards_option_yearOldest"="कार्ड वर्ष: सबसे पुराना-हाल का";
+
+"editCollection_title"="अद्यतन संग्रह";
+"editCollection_collectionName_placeholder"="अपने संग्रह का नाम बदलें";
+
+"createDeck_title"="नया डेक बनाएं";
+"createDeck_deckName_title"="अपने डेक को नाम दें";
+"createDeck_deckName_placeholder"="नाम डालें";
+"createDeck_deckType_title"="डेक प्रकार";
+"createDeck_deckType_select"="एक कार्ड श्रेणी चुनें";
+"createDeck_description_title"="विवरण (वैकल्पिक)";
+"createDeck_description_placeholder"="अपने डेक के लिए विवरण दर्ज करें";
+"createDeck_action_create"="बनाएं";
+
+"cardDeck_noCards"="इस डेक में कोई कार्ड नहीं हैं";
+"cardDeck_action_addCards"="कार्ड जोड़ें";
+
+"editCardSet_menu_addCards"="कार्ड जोड़ें";
+"editCardSet_menu_removeCards"="कार्ड निकालें";
+"editCardSet_menu_sortCards"="कार्डों को क्रमबद्ध करें";
+"editCardSet_menu_totalPrice"="कुल कीमत अनुमान";
+"editCardSet_menu_renameCollection"="संग्रह का नाम बदलें";
+"editCardSet_menu_deleteCollection"="संग्रह हटाएँ";
+"editCardSet_menu_editDeck"="डेक संपादित करें";
+"editCardSet_menu_deleteDeck"="डेक हटाएँ";
+
+"editDeck_title"="डेक अद्यतन करें";
+
+"legalityOption_standard"="मानक";
+"legalityOption_pioneer"="प्रथम अन्वेषक";
+"legalityOption_modern"="आधुनिक";
+"legalityOption_legacy"="परंपरा";
+"legalityOption_vintage"="बढ़िया शराब";
+"legalityOption_commander"="कमांडर";
+"legalityOption_oathbreaker"="शपथ तोड़ने वाला";
+"legalityOption_alchemy"="रस-विधा";
+"legalityOption_explorer"="एक्सप्लोरर";
+"legalityOption_brawl"="विवाद";
+"legalityOption_historic"="ऐतिहासिक";
+"legalityOption_pauper"="कंगाल";
+"legalityOption_penny"="पैसे";
+
+"cardLegality_legal"="कानूनी";
+"cardLegality_notLegal"="कानूनी नहीं";
+
+"magicCard_color_white"="सफ़ेद";
+"magicCard_color_blue"="नीला";
+"magicCard_color_black"="काला";
+"magicCard_color_red"="लाल";
+"magicCard_color_green"="हरा";
+"magicCard_color_colorless"="बेरंग";
+
+"alert_noInternetConnection_title"="कनेक्टिविटी समस्या";
+"alert_noInternetConnection_message"="इंटरनेट कनेक्शन ऑफ़लाइन प्रतीत होता है ☹️";
+"alert_needRecentLogin_title"="पुन: प्रमाणीकृत";
+"alert_needRecentLogin_message"="किसी खाते को हटाने के लिए, हाल ही में लॉगिन करना आवश्यक है";
+"alert_needRecentLogin_action_logOut"="लॉग आउट";

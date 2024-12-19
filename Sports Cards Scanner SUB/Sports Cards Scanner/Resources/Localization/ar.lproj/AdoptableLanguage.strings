@@ -1,0 +1,286 @@
+"common_close" = "إغلاق";
+"common_cancel" = "إلغاء";
+"common_done" = "تم";
+"common_reset" = "إعادة تعيين";
+"common_error" = "عذرًا، حدث خطأ ما";
+"common_ok" = "حسنًا";
+
+"splash_loading" = "جاري التحميل";
+
+"signIn_title" = "تسجيل الدخول";
+"signIn_email_title" = "عنوان البريد الإلكتروني";
+"signIn_email_placeholder" = "أدخل البريد الإلكتروني";
+"signIn_password_title" = "أدخل كلمة المرور";
+"signIn_password_placeholder" = "أدخل كلمة المرور";
+"signIn_password_forgot" = "هل نسيت كلمة المرور؟";
+"signIn_action_signIn" = "تسجيل الدخول";
+"signIn_action_signUp" = "التسجيل";
+"signIn_signInWith" = "تسجيل الدخول بواسطة";
+"signIn_noAccount" = "ليس لديك حساب؟";
+"signIn_action_signUp" = "التسجيل";
+"signIn_error_invalidEmail" = "يرجى إدخال عنوان بريد إلكتروني صالح";
+"signIn_error_userNotFound" = "يرجى إدخال بريد إلكتروني وكلمة مرور صالحين";
+"signIn_error_wrongPassword" = "يرجى إدخال كلمة مرور صحيحة";
+"signIn_welcome" = "مرحبًا بعودتك!";
+"signIn_ask" = "يرجى إدخال تفاصيل تسجيل الدخول الخاصة بك";
+"signInLogInWith" = "تسجيل الدخول بواسطة.";
+
+"signUp_title" = "التسجيل";
+"signUp_email_title" = "عنوان البريد الإلكتروني";
+"signUp_email_placeholder" = "أدخل عنوان بريدك الإلكتروني";
+"signUp_password_title" = "كلمة المرور";
+"signUp_password_placeholder" = "أدخل كلمة المرور الخاصة بك";
+"signUp_password_requirements" = "يجب أن تتكون كلمات المرور من 8 أحرف على الأقل وتحتوي على حرف كبير واحد (A-Z)، حرف صغير واحد (a-z)، رقم واحد (0-9)، وحرف خاص واحد (مثل ! % @ أو #).";
+"signUp_confirmPassword_title" = "تأكيد كلمة المرور";
+"signUp_confirmPassword_placeholder" = "أدخل تأكيد كلمة المرور الخاصة بك";
+"signUp_action_signUp" = "التسجيل";
+"signUp_action_signIn" = "تسجيل الدخول";
+"signUp_signInWith" = "تسجيل الدخول بواسطة";
+"signUp_haveAccount" = "هل لديك حساب بالفعل؟";
+"signUp_error_invalidEmail" = "يرجى إدخال عنوان بريد إلكتروني صالح";
+"signUp_error_existUser" = "يوجد حساب بالفعل بهذا البريد الإلكتروني";
+"signUp_error_noPasswordRequirements" = "يجب أن تفي كلمة المرور بمتطلبات كلمة المرور";
+"signUp_error_passwordsMismatch" = "يجب أن تتطابق كلمات المرور";
+
+"dashboard_title" = "لوحة التحكم";
+"dashboard_welcome_title" = "اخطو إلى مستقبل جمع البطاقات";
+"dashboard_welcome_description" = "امسح بطاقة لتوسيع مجموعتك";
+"dashboard_scanInstructions" = "اضغط للبدء في مسح بطاقتك.";
+"dashboard_currentValue" = "القيمة الحالية";
+"dashboard_highestValue" = "أعلى قيمة";
+"dashboard_recentlyAdded" = "أضيفت مؤخرا";
+"dashboard_action_scanCard" = "مسح بطاقة";
+
+"portfolio_title" = "المحفظة";
+"portfolio_scanInstructions" = "اضغط لفتح الماسح الضوئي وبطاقتك الأولى";
+"portfolio_collection_create" = "إنشاء مجموعة";
+"portfolio_deck_create" = "إنشاء سطح";
+"portfolio_deck_description" = "سطح لعبة بطاقات التداول";
+"portfolio_collection_description" = "مجموعة مخصصة";
+"portfolio_cards" = "البطاقات";
+"portfolio_oneCard" = "1 بطاقة";
+"portfolio_numberOfCards" = "%d بطاقات";
+"portfolio_allCards" = "كل البطاقات";
+"portfolio_estimatedValue" = "القيمة التقديرية الإجمالية";
+"portfolio_scanToAdd" = "امسح بطاقة لإضافتها إلى مجموعتك";
+
+"more_title" = "المزيد";
+"more_item_cardCategories" = "فئات البطاقات";
+"more_item_updatePassword" = "تحديث كلمة المرور";
+"more_item_privacyPolicy" = "سياسة الخصوصية";
+"more_item_termsAndConditions" = "شروط الاستخدام";
+"more_item_pushNotifications" = "تمكين الإشعارات الفورية";
+"more_item_logout" = "تسجيل الخروج";
+"more_item_deleteAccount" = "حذف الحساب";
+
+"cardCategories_title" = "فئات البطاقات";
+"cardCategories_description" = "يرجى تحديد أنواع البطاقات التي ترغب في تضمينها في محفظتك وماسحك الضوئي";
+"cardCategories_minEnabledCategories" = "تحتاج إلى الحفاظ على فئة واحدة نشطة على الأقل.";
+
+"updatePassword_title" = "تحديث كلمة المرور";
+"updatePassword_newPassword_title" = "إنشاء كلمة مرور جديدة";
+"updatePassword_newPassword_placeholder" = "أدخل كلمة مرور جديدة";
+"updatePassword_confirmNewPassword_title" = "تأكيد كلمة المرور الجديدة";
+"updatePassword_confirmNewPassword_placeholder" = "أعد إدخال كلمة المرور الجديدة";
+"updatePassword_newPassword_requirements" = "يجب أن تتكون كلمات المرور من 8 أحرف على الأقل وتحتوي على حرف كبير واحد (A-Z)، حرف صغير واحد (a-z)، رقم واحد (0-9)، وحرف خاص واحد (مثل ! % @ أو #).";
+"updatePassword_newPassword_cut1" = "8 أحرف";
+"updatePassword_newPassword_cut2" = "حرف كبير واحد";
+"updatePassword_newPassword_cut3" = "حرف صغير واحد";
+"updatePassword_newPassword_cut4" = "رقم واحد";
+"updatePassword_newPassword_cut5" = "حرف خاص واحد";
+"updatePassword_action_save" = "حفظ";
+"updatePassword_error_noPasswordRequirements" = "يجب أن تفي كلمة المرور بمتطلبات كلمة المرور";
+"updatePassword_error_passwordsMismatch" = "يجب أن تتطابق كلمات المرور";
+"updatePassword_error_needReauthenticate" = "يرجى إعادة المصادقة لتغيير كلمة المرور الخاصة بك";
+
+"cardCategory_baseball" = "البيسبول";
+"cardCategory_pokemon" = "بوكيمون";
+"cardCategory_basketball" = "كرة السلة";
+"cardCategory_football" = "كرة القدم";
+"cardCategory_magic" = "ماجيك: التجمع";
+"cardCategory_magic_short" = "MTG";
+"cardCategory_hockey" = "الهوكي";
+"cardCategory_soccer" = "كرة القدم";
+
+"forgotPassword_title" = "نسيت كلمة المرور";
+"forgotPassword_description" = "أدخل عنوان البريد الإلكتروني لحسابك وسنرسل لك تعليمات لإعادة تعيين كلمة المرور الخاصة بك";
+"forgotPassword_email_title" = "عنوان البريد الإلكتروني";
+"forgotPassword_email_placeholder" = "أدخل عنوان بريدك الإلكتروني";
+"forgotPassword_action_send" = "إرسال";
+"forgotPassword_error_userNotFound" = "لا يوجد مستخدمون بهذا البريد الإلكتروني";
+"forgotPassword_error_invalidEmail" = "يرجى إدخال عنوان بريد إلكتروني صالح";
+
+"resetPassword_title" = "إعادة تعيين كلمة المرور";
+"resetPassword_emailSent" = "تم إرسال تعليمات إعادة تعيين كلمة المرور إلى عنوان البريد الإلكتروني: %@";
+
+"scanCard_cardSide_front" = "الجزء الأمامي من البطاقة";
+"scanCard_noAuthorization_title" = "اسمح لـ %@ بالوصول إلى الكاميرا الخاصة بك";
+"scanCard_noAuthorization_description" = "هذا يتيح لك مسح البطاقات";
+"scanCard_action_openSettings" = "فتح الإعدادات";
+"scanCard_gradeType_graded" = "مصنف";
+"scanCard_gradeType_raw" = "خام";
+
+"prompt_action_cancel" = "إلغاء";
+"prompt_title" = "هل أنت متأكد؟";
+"prompt_logout_description" = "هل أنت متأكد أنك تريد إزالة حسابك؟";
+"prompt_logout_confirmAction" = "تسجيل الخروج";
+"prompt_deleteAccount_description" = "لن يؤدي حذف المجموعة إلى إزالة البطاقات؛ ستظل في محفظتك.";
+"prompt_deleteAccount_keepAction" = "الاحتفاظ";
+"prompt_deleteAccount_sure" = "هل أنت متأكد أنك تريد إزالة حسابك؟";
+"prompt_deleteAccount_confirmAction" = "حذف";
+"prompt_deleteCollection_description" = "لن يؤدي حذف المجموعة إلى حذف البطاقات داخل المجموعة. ستظل البطاقات في محفظتك.";
+"prompt_deleteCollection_keepAction" = "الاحتفاظ";
+"prompt_deleteCollection_confirmAction" = "حذف";
+"prompt_deleteDeck_description" = "لن يؤدي حذف السطح إلى حذف البطاقات داخل السطح. ستظل البطاقات في محفظتك.";
+"prompt_deleteDeck_keepAction" = "الاحتفاظ";
+"prompt_deleteDeck_confirmAction" = "حذف";
+"prompt_removeCard_description" = "أنت على وشك إزالة هذه البطاقة من محفظتك. ستحتاج هذه البطاقة إلى أن يتم مسحها مرة أخرى لإضافتها إلى محفظتك.";
+"prompt_removeCard_keepAction" = "الاحتفاظ";
+"prompt_removeCard_confirmAction" = "إزالة";
+
+"identifyingCard_title" = "تم التقاط بطاقة %@";
+"identifyingCard_processTitle" = "جارٍ تحديد البطاقة...";
+"identifyingCard_action_cancel" = "إلغاء المسح";
+
+"searchCard_title" = "بحث عن بطاقة";
+"searchCard_search_placeholder" = "ابحث عن بطاقة";
+"searchCard_error_tryAgain" = "حاول مرة أخرى! استمر في البحث!";
+
+"card_missingImage" = "الصورة مفقودة";
+
+"cardDetails_action_addCard" = "إضافة إلى المحفظة";
+"cardDetails_action_findCard" = "ابحث عن بطاقة";
+"cardDetails_action_editCard" = "تعديل البطاقة والتقدير";
+"cardDetails_action_removeCard" = "إزالة من المحفظة";
+
+"pricingReport_setCustomPrice" = "تعيين سعر مخصص";
+"pricingReport_editCustomPrice" = "تعديل السعر المخصص";
+"pricingReport_viewReport" = "عرض تقرير التسعير";
+"pricingReport_valueEstimating" = "تقدير القيمة معلقة";
+
+"pricingReport_details_priceReport" = "تقرير السعر";
+"pricingReport_details_lastSoldPrice" = "آخر سعر بيع";
+"pricingReport_details_lastSoldDate" = "تاريخ آخر بيع";
+"pricingReport_details_recentSales" = "المبيعات الأخيرة";
+"pricingReport_details_noSales" = "لا توجد مبيعات حديثة";
+
+"cardDetail_year" = "سنة البطاقة";
+"cardDetail_cardNumber" = "رقم البطاقة";
+"cardDetail_set" = "المجموعة";
+"cardDetail_series" = "السلسلة";
+"cardDetail_parallel" = "موازية";
+"cardDetail_grade" = "الدرجة";
+"cardDetail_ungraded" = "غير مصنف";
+"cardDetail_color" = "اللون";
+"cardDetail_colors" = "الألوان";
+"cardDetail_type" = "النوع";
+"cardDetail_manaValue" = "قيمة المانا";
+"cardDetail_power" = "القوة";
+"cardDetail_toughness" = "الصلابة";
+"cardDetail_rarity" = "الندرة";
+
+"recentlyAdded_title" = "البطاقات المضافة حديثًا";
+
+"highestValue_title" = "بطاقات بأعلى قيمة";
+
+"currentValue_title" = "القيمة الحالية";
+"currentValue_valueByCategory" = "القيمة حسب الفئة";
+
+"editCard_title" = "تعديل التفاصيل";
+"editCard_parallel" = "موازية";
+"editCard_grade" = "الدرجة";
+"editCard_customPrice" = "تعيين سعر مخصص";
+"editCard_action_updateDetails" = "تحديث التفاصيل";
+"editCard_valueEstimating" = "تقدير القيمة معلقة";
+
+"parallelSelection_title" = "موازية";
+"parallelSelection_search_placeholder" = "بحث";
+"parallelSelection_allOptions" = "كل الخيارات";
+"parallelSelection_missingSample" = "عينة مفقودة";
+"parallelSelection_noResult" = "لم يتم العثور على نتائج";
+"parallelSelection_action_none" = "لا شيء";
+
+"gradeSelection_title" = "الدرجة";
+"gradeSelection_selectGrader" = "اختر المصنف";
+"gradeSelection_selectGrade" = "اختر الدرجة";
+
+"createCollection_title" = "إنشاء مجموعة جديدة";
+"createCollection_collectionName_placeholder" = "اسم مجموعتك";
+"createCollection_action_create" = "إنشاء";
+
+"cardCollection_estimatedValue" = "القيمة التقديرية";
+"cardCollection_noCards" = "لا تحتوي هذه المجموعة على بطاقات";
+"cardCollection_action_addCards" = "إضافة بطاقات";
+
+"addCards_title" = "إضافة بطاقات إلى \"%@\"";
+"addCards_titleNoName_collection" = "إضافة بطاقات إلى المجموعة";
+"addCards_titleNoName_deck" = "إضافة بطاقات إلى السطح";
+"addCards_oneCardSelected" = "تم اختيار 1 بطاقة";
+"addCards_numberOfCardsSelected" = "تم اختيار %d بطاقات";
+"addCards_action_selectAll" = "اختيار الكل";
+"addCards_allCards" = "كل البطاقات";
+"addCards_search_placeholder" = "ابحث عن بطاقة";
+"addCards_noResult" = "لم يتم العثور على نتائج";
+
+"sortCards_title" = "ترتيب حسب";
+"sortCards_option_dateRecent" = "تاريخ الحفظ: الأحدث-الأقدم";
+"sortCards_option_dateOldest" = "تاريخ الحفظ: الأقدم-الأحدث";
+"sortCards_option_nameDirect" = "اسم البطاقة: أ-ي";
+"sortCards_option_nameReverse" = "اسم البطاقة: ي-أ";
+"sortCards_option_yearRecent" = "سنة البطاقة: الأحدث-الأقدم";
+"sortCards_option_yearOldest" = "سنة البطاقة: الأقدم-الأحدث";
+"editCollection_title" = "تحديث المجموعة";
+"editCollection_collectionName_placeholder" = "إعادة تسمية مجموعتك";
+
+"createDeck_title" = "إنشاء سطح جديد";
+"createDeck_deckName_title" = "اسم السطح";
+"createDeck_deckName_placeholder" = "أدخل الاسم";
+"createDeck_deckType_title" = "نوع السطح";
+"createDeck_deckType_select" = "اختر فئة البطاقة";
+"createDeck_description_title" = "الوصف (اختياري)";
+"createDeck_description_placeholder" = "أدخل وصفًا للسطح الخاص بك";
+"createDeck_action_create" = "إنشاء";
+
+"cardDeck_noCards" = "لا توجد بطاقات في هذا السطح";
+"cardDeck_action_addCards" = "إضافة بطاقات";
+
+"editCardSet_menu_addCards" = "إضافة بطاقات";
+"editCardSet_menu_removeCards" = "إزالة بطاقات";
+"editCardSet_menu_sortCards" = "ترتيب البطاقات";
+"editCardSet_menu_totalPrice" = "إجمالي تقدير السعر";
+"editCardSet_menu_renameCollection" = "إعادة تسمية المجموعة";
+"editCardSet_menu_deleteCollection" = "حذف المجموعة";
+"editCardSet_menu_editDeck" = "تعديل السطح";
+"editCardSet_menu_deleteDeck" = "حذف السطح";
+
+"editDeck_title" = "تحديث السطح";
+
+"legalityOption_standard" = "قياسي";
+"legalityOption_pioneer" = "رائد";
+"legalityOption_modern" = "حديث";
+"legalityOption_legacy" = "تراث";
+"legalityOption_vintage" = "عتيق";
+"legalityOption_commander" = "قائد";
+"legalityOption_oathbreaker" = "منتهك العهد";
+"legalityOption_alchemy" = "خيمياء";
+"legalityOption_explorer" = "مستكشف";
+"legalityOption_brawl" = "شجار";
+"legalityOption_historic" = "تاريخي";
+"legalityOption_pauper" = "فقير";
+"legalityOption_penny" = "بنس";
+
+"cardLegality_legal" = "قانوني";
+"cardLegality_notLegal" = "غير قانوني";
+
+"magicCard_color_white" = "أبيض";
+"magicCard_color_blue" = "أزرق";
+"magicCard_color_black" = "أسود";
+"magicCard_color_red" = "أحمر";
+"magicCard_color_green" = "أخضر";
+"magicCard_color_colorless" = "بلا لون";
+
+"alert_noInternetConnection_title" = "مشكلة في الاتصال";
+"alert_noInternetConnection_message" = "يبدو أن اتصال الإنترنت غير متصل ☹️";
+"alert_needRecentLogin_title" = "إعادة المصادقة";
+"alert_needRecentLogin_message" = "لحذف الحساب، يلزم تسجيل الدخول حديثًا";
+"alert_needRecentLogin_action_logOut" = "تسجيل الخروج";

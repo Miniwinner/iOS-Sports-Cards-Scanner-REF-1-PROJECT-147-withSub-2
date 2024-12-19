@@ -1,0 +1,287 @@
+"common_close"="Kapalı";
+"common_cancel"="İptal etmek";
+"common_done"="Tamamlamak";
+"common_reset"="Sıfırla";
+"common_error"="Hoop! Birşeyler yanlış gitti";
+"common_ok"="Tamam";
+
+"splash_loading"="Yükleniyor";
+
+"signIn_title"="Kayıt olmak";
+"signIn_email_title"="E-posta adresi";
+"signIn_email_placeholder"="E-postayı girin";
+"signIn_password_title"="Parolanı Gir";
+"signIn_password_placeholder"="Parolanı Gir";
+"signIn_password_forgot"="Parolanızı mı unuttunuz?";
+"signIn_action_signIn"="Kayıt olmak";
+"signIn_action_signUp"="Üye olmak";
+"signIn_signInWith"="Şununla giriş yap";
+"signIn_noAccount"="Hesabınız yok mu?";
+"signIn_action_signUp"="Üye olmak";
+"signIn_error_invalidEmail"="Geçerli bir e";
+"signIn_error_userNotFound"="Lütfen geçerli bir e-posta ve şifre girin";
+"signIn_error_wrongPassword"="Lütfen doğru şifreyi girin";
+"signIn_welcome"="Tekrar hoşgeldiniz!";
+"signIn_ask"="Lütfen giriş bilgilerinizi girin";
+"signInLogInWith"="İle giriş.";
+
+"signUp_title"="Üye olmak";
+"signUp_email_title"="E-posta adresi";
+"signUp_email_placeholder"="E-posta adresinizi giriniz";
+"signUp_password_title"="Şifre";
+"signUp_password_placeholder"="Şifrenizi girin";
+"signUp_password_requirements"="Şifreler en az 8 karakter uzunluğunda olmalı ve en az bir büyük harf (A-Z), bir küçük harf (a-z), bir rakam (0-9) ve bir özel karakter (örn. ! % @ veya #) içermelidir.";
+"signUp_confirmPassword_title"="Şifre onayı";
+"signUp_confirmPassword_placeholder"="Şifre onayınızı girin";
+"signUp_action_signUp"="Üye olmak";
+"signUp_action_signIn"="Kayıt olmak";
+"signUp_signInWith"="Şununla giriş yap";
+"signUp_haveAccount"="Zaten hesabınız var mı?";
+"signUp_error_invalidEmail"="Geçerli bir e";
+"signUp_error_existUser"="Bu e-posta adresine sahip bir hesap zaten mevcut";
+"signUp_error_noPasswordRequirements"="Şifre, şifre gereksinimlerini karşılamalıdır";
+"signUp_error_passwordsMismatch"="Şifreler aynı olmalıdır";
+
+"dashboard_title"="Gösterge Paneli";
+"dashboard_welcome_title"="Kart koleksiyonunun geleceğine adım atın";
+"dashboard_welcome_description"="Koleksiyonunuzu genişletmek için bir kart tarayın";
+"dashboard_scanInstructions"="Kartınızı taramaya başlamak için dokunun.";
+"dashboard_currentValue"="Mevcut değer";
+"dashboard_highestValue"="En yüksek değer";
+"dashboard_recentlyAdded"="Son Eklenenler";
+"dashboard_action_scanCard"="Kartı Tara";
+
+"portfolio_title"="Portföy";
+"portfolio_scanInstructions"="Tarayıcıyı ve ilk kartınızı açmak için dokunun";
+"portfolio_collection_create"="Koleksiyon Oluştur";
+"portfolio_deck_create"="Deste Oluştur";
+"portfolio_deck_description"="Ticaret kartı oyun destesi";
+"portfolio_collection_description"="Özel Koleksiyon";
+"portfolio_cards"="Kartlar";
+"portfolio_oneCard"="1 Kart";
+"portfolio_numberOfCards"="%d Kart";
+"portfolio_allCards"="Tüm Kartlar";
+"portfolio_estimatedValue"="Toplam Tahmini Değer";
+"portfolio_scanToAdd"="Koleksiyonunuza eklemek için bir kartı tarayın";
+
+"more_title"="Daha";
+"more_item_cardCategories"="Kart Kategorileri";
+"more_item_updatePassword"="Şifre güncelle";
+"more_item_privacyPolicy"="Gizlilik Politikası";
+"more_item_termsAndConditions"="Kullanım Şartları";
+"more_item_pushNotifications"="Anında Bildirimleri Etkinleştir";
+"more_item_logout"="Çıkış Yap";
+"more_item_deleteAccount"="Hesabı sil";
+
+"cardCategories_title"="Kart Kategorileri";
+"cardCategories_description"="Lütfen portföyünüze ve tarayıcınıza dahil etmek istediğiniz kart türlerini seçin";
+"cardCategories_minEnabledCategories"="En az bir aktif kategoriyi korumanız gerekir.";
+
+"updatePassword_title"="Şifre güncelle";
+"updatePassword_newPassword_title"="Yeni şifre oluştur";
+"updatePassword_newPassword_placeholder"="Yeni şifreyi girin";
+"updatePassword_confirmNewPassword_title"="Yeni şifreyi onayla";
+"updatePassword_confirmNewPassword_placeholder"="yeni şifreyi tekrar giriniz";
+"updatePassword_newPassword_requirements"="Şifreler en az 8 karakter uzunluğunda olmalı ve en az bir büyük harf (A-Z), bir küçük harf (a-z), bir rakam (0-9) ve bir özel karakter (örn. ! % @ veya #) içermelidir.";
+"updatePassword_newPassword_cut1"="8 karakter";
+"updatePassword_newPassword_cut2"="bir üst harf";
+"updatePassword_newPassword_cut3"="bir küçük harf";
+"updatePassword_newPassword_cut4"="bir numara";
+"updatePassword_newPassword_cut5"="özel bir karakter";
+"updatePassword_action_save"="Kaydetmek";
+"updatePassword_error_noPasswordRequirements"="Şifre, şifre gereksinimlerini karşılamalıdır";
+"updatePassword_error_passwordsMismatch"="Şifreler aynı olmalıdır";
+"updatePassword_error_needReauthenticate"="Şifrenizi değiştirmek için lütfen yeniden kimlik doğrulaması yapın";
+
+"cardCategory_baseball"="Beyzbol";
+"cardCategory_pokemon"="pokemon";
+"cardCategory_basketball"="Basketbol";
+"cardCategory_football"="Futbol";
+"cardCategory_magic"="Sihir: Buluşma";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Hokey";
+"cardCategory_soccer"="Futbol";
+
+"forgotPassword_title"="Parolanızı mı unuttunuz";
+"forgotPassword_description"="Hesabınızın e-posta adresini girin, size şifrenizi sıfırlamanız için talimatlar gönderelim";
+"forgotPassword_email_title"="E-posta adresi";
+"forgotPassword_email_placeholder"="E-posta adresinizi giriniz";
+"forgotPassword_action_send"="Göndermek";
+"forgotPassword_error_userNotFound"="Bu e-posta adresine sahip kullanıcı yok";
+"forgotPassword_error_invalidEmail"="Geçerli bir e";
+
+"resetPassword_title"="Şifreyi yenile";
+"resetPassword_emailSent"="Şifre sıfırlama talimatları şu e-posta adresine gönderildi: %@";
+
+"scanCard_cardSide_front"="Kartın Ön Yüzü";
+"scanCard_noAuthorization_title"="%@'ın kameranıza erişmesine izin verin";
+"scanCard_noAuthorization_description"="Bu, kartları taramanızı sağlar";
+"scanCard_action_openSettings"="Ayarları aç";
+"scanCard_gradeType_graded"="kademeli";
+"scanCard_gradeType_raw"="Çiğ";
+
+"prompt_action_cancel"="İptal etmek";
+"prompt_title"="Emin misin?";
+"prompt_logout_description"="Hesabınızı kaldırmak istediğinizden emin misiniz?";
+"prompt_logout_confirmAction"="Çıkış Yap";
+"prompt_deleteAccount_description"="Koleksiyonun silinmesi kartların kaldırılmasına neden olmaz; portföyünüzde kalacaklar.";
+"prompt_deleteAccount_keepAction"="Kale";
+"prompt_deleteAccount_sure"="Hesabınızı kaldırmak istediğinizden emin misiniz?";
+"prompt_deleteAccount_confirmAction"="Silmek";
+"prompt_deleteCollection_description"="Koleksiyonun silinmesi, koleksiyon içindeki kartların silinmesine neden olmaz. Kartlar portföyünüzde kalacaktır.";
+"prompt_deleteCollection_keepAction"="Kale";
+"prompt_deleteCollection_confirmAction"="Silmek";
+"prompt_deleteDeck_description"="Destenin silinmesi deste içindeki kartların silinmesine neden olmaz. Kartlar portföyünüzde kalacaktır.";
+"prompt_deleteDeck_keepAction"="Kale";
+"prompt_deleteDeck_confirmAction"="Silmek";
+"prompt_removeCard_description"="Bu kartı portföyünüzden çıkarmak üzeresiniz. Portföyünüze tekrar eklenmek için bu kartın tekrar taranması gerekir.";
+"prompt_removeCard_keepAction"="Kale";
+"prompt_removeCard_confirmAction"="Kaldırmak";
+
+"identifyingCard_title"="%@ Kart Yakalandı";
+"identifyingCard_processTitle"="Kart tanımlanıyor...";
+"identifyingCard_action_cancel"="Taramayı iptal et";
+
+"searchCard_title"="Arama Kartı";
+"searchCard_search_placeholder"="Kart arayın";
+"searchCard_error_tryAgain"="Tekrar deneyin! Aramaya devam et!";
+
+"card_missingImage"="Eksik\nResim";
+
+"cardDetails_action_addCard"="Portföye Ekle";
+"cardDetails_action_findCard"="Kart Bul";
+"cardDetails_action_editCard"="Kartı ve Notu Düzenle";
+"cardDetails_action_removeCard"="Portföyden kaldır";
+
+"pricingReport_setCustomPrice"="Özel fiyat belirle";
+"pricingReport_editCustomPrice"="Özel fiyatı düzenle";
+"pricingReport_viewReport"="Fiyatlandırma Raporunu Görüntüle";
+"pricingReport_valueEstimating"="Değer Tahmini Beklemede";
+
+"pricingReport_details_priceReport"="Fiyat Raporu";
+"pricingReport_details_lastSoldPrice"="Son Satılan Fiyat";
+"pricingReport_details_lastSoldDate"="Son Satış Tarihi";
+"pricingReport_details_recentSales"="Son Satışlar";
+"pricingReport_details_noSales"="Yakın zamanda satış yok";
+
+"cardDetail_year"="Kart Yılı";
+"cardDetail_cardNumber"="Kart #";
+"cardDetail_set"="Ayarlamak";
+"cardDetail_series"="Seri";
+"cardDetail_parallel"="Paralel";
+"cardDetail_grade"="Seviye";
+"cardDetail_ungraded"="Not verilmedi";
+"cardDetail_color"="Renk";
+"cardDetail_colors"="Renkler";
+"cardDetail_type"="Tip";
+"cardDetail_manaValue"="Mana Değeri";
+"cardDetail_power"="Güç";
+"cardDetail_toughness"="tokluk";
+"cardDetail_rarity"="Nadirlik";
+
+"recentlyAdded_title"="Son Eklenen Kartlar";
+
+"highestValue_title"="En Yüksek Değere Sahip Kartlar";
+
+"currentValue_title"="Mevcut değer";
+"currentValue_valueByCategory"="Kategoriye Göre Değer";
+
+"editCard_title"="Detayları düzenle";
+"editCard_parallel"="Paralel";
+"editCard_grade"="Seviye";
+"editCard_customPrice"="Özel fiyat belirle";
+"editCard_action_updateDetails"="Ayrıntıları Güncelle";
+"editCard_valueEstimating"="Değer Tahmini Beklemede";
+
+"parallelSelection_title"="Paralel";
+"parallelSelection_search_placeholder"="Aramak";
+"parallelSelection_allOptions"="Tüm Seçenekler";
+"parallelSelection_missingSample"="Eksik örnek";
+"parallelSelection_noResult"="Sonuç bulunamadı";
+"parallelSelection_action_none"="Hiçbiri";
+
+"gradeSelection_title"="Seviye";
+"gradeSelection_selectGrader"="Sınıflandırıcıyı Seçin";
+"gradeSelection_selectGrade"="Not Seç";
+
+"createCollection_title"="Yeni Koleksiyon Oluştur";
+"createCollection_collectionName_placeholder"="Koleksiyonunuza ad verin";
+"createCollection_action_create"="Yaratmak";
+
+"cardCollection_estimatedValue"="Tahmini değer";
+"cardCollection_noCards"="Bu Koleksiyonda kart yok";
+"cardCollection_action_addCards"="Kart Ekle";
+
+"addCards_title"="\"%@\" klasörüne Kart Ekle";
+"addCards_titleNoName_collection"="Koleksiyona Kart Ekle";
+"addCards_titleNoName_deck"="Desteye Kart Ekle";
+"addCards_oneCardSelected"="1 Kart Seçildi";
+"addCards_numberOfCardsSelected"="%d Kart Seçildi";
+"addCards_action_selectAll"="Hepsini seç";
+"addCards_allCards"="Tüm Kartlar";
+"addCards_search_placeholder"="Kart arayın";
+"addCards_noResult"="Sonuç bulunamadı";
+
+"sortCards_title"="Göre sırala";
+"sortCards_option_dateRecent"="Kaydedilme Tarihi: En Son-En Eski";
+"sortCards_option_dateOldest"="Kaydedilme Tarihi: En Eski-Son";
+"sortCards_option_nameDirect"="Kart Adı: A'dan Z'ye";
+"sortCards_option_nameReverse"="Kart Adı: Z-A";
+"sortCards_option_yearRecent"="Kart Yılı: En Yeni-En Eski";
+"sortCards_option_yearOldest"="Kart Yılı: En Eski-Yeni";
+
+"editCollection_title"="Koleksiyonu Güncelle";
+"editCollection_collectionName_placeholder"="Koleksiyonunuzu yeniden adlandırın";
+
+"createDeck_title"="Yeni Deste Oluştur";
+"createDeck_deckName_title"="Destenize ad verin";
+"createDeck_deckName_placeholder"="İsim girin";
+"createDeck_deckType_title"="Güverte Tipi";
+"createDeck_deckType_select"="Bir kart kategorisi seçin";
+"createDeck_description_title"="Açıklama (isteğe bağlı)";
+"createDeck_description_placeholder"="Desteniz için bir açıklama girin";
+"createDeck_action_create"="Yaratmak";
+
+"cardDeck_noCards"="Bu destede kart yok";
+"cardDeck_action_addCards"="Kart Ekle";
+
+"editCardSet_menu_addCards"="Kart Ekle";
+"editCardSet_menu_removeCards"="Kartları Kaldır";
+"editCardSet_menu_sortCards"="Kartları Sırala";
+"editCardSet_menu_totalPrice"="Toplam Fiyat Tahmini";
+"editCardSet_menu_renameCollection"="Koleksiyonu Yeniden Adlandır";
+"editCardSet_menu_deleteCollection"="Koleksiyonu Sil";
+"editCardSet_menu_editDeck"="Desteyi Düzenle";
+"editCardSet_menu_deleteDeck"="Desteyi Sil";
+
+"editDeck_title"="Desteyi Güncelle";
+
+"legalityOption_standard"="Standart";
+"legalityOption_pioneer"="Öncü";
+"legalityOption_modern"="Modern";
+"legalityOption_legacy"="Miras";
+"legalityOption_vintage"="Nostaljik";
+"legalityOption_commander"="Komutan";
+"legalityOption_oathbreaker"="Yemin bozan";
+"legalityOption_alchemy"="Simya";
+"legalityOption_explorer"="Kaşif";
+"legalityOption_brawl"="Dövüş";
+"legalityOption_historic"="Tarihi";
+"legalityOption_pauper"="yoksul";
+"legalityOption_penny"="Kuruş";
+
+"cardLegality_legal"="Yasal";
+"cardLegality_notLegal"="Yasal değil";
+
+"magicCard_color_white"="Beyaz";
+"magicCard_color_blue"="Mavi";
+"magicCard_color_black"="Siyah";
+"magicCard_color_red"="Kırmızı";
+"magicCard_color_green"="Yeşil";
+"magicCard_color_colorless"="Renksiz";
+
+"alert_noInternetConnection_title"="Bağlantı Sorunu";
+"alert_noInternetConnection_message"="İnternet bağlantısı çevrimdışı görünüyor ☹️";
+"alert_needRecentLogin_title"="Yeniden kimlik doğrulaması";
+"alert_needRecentLogin_message"="Bir hesabı silmek için yakın zamanda giriş yapılması gerekir";
+"alert_needRecentLogin_action_logOut"="Çıkış Yap";

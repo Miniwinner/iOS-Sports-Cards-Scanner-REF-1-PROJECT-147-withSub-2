@@ -1,0 +1,287 @@
+"common_close"="סגור";
+"common_cancel"="לְבַטֵל";
+"common_done"="בוצע";
+"common_reset"="אִתחוּל";
+"common_error"="אופס! משהו השתבש";
+"common_ok"="בסדר";
+
+"splash_loading"="טוען";
+
+"signIn_title"="להתחבר";
+"signIn_email_title"="כתובת דואל";
+"signIn_email_placeholder"="הזן אימייל";
+"signIn_password_title"="הזן את הסיסמה";
+"signIn_password_placeholder"="הזן את הסיסמה";
+"signIn_password_forgot"="שכחת את הסיסמא?";
+"signIn_action_signIn"="להתחבר";
+"signIn_action_signUp"="הירשם";
+"signIn_signInWith"="להתחבר עם";
+"signIn_noAccount"="אין לך חשבון?";
+"signIn_action_signUp"="הירשם";
+"signIn_error_invalidEmail"="אנא הזן כתובת דואל תקנית";
+"signIn_error_userNotFound"="נא להזין מייל וסיסמה חוקיים";
+"signIn_error_wrongPassword"="נא להזין סיסמה נכונה";
+"signIn_welcome"="ברוך שובך!";
+"signIn_ask"="אנא הכנס את פרטי הכניסה שלך";
+"signInLogInWith"="היכנס עם.";
+
+"signUp_title"="הירשם";
+"signUp_email_title"="כתובת דואל";
+"signUp_email_placeholder"="הזן את כתובת הדואל שלך";
+"signUp_password_title"="סיסמה";
+"signUp_password_placeholder"="הכנס את הסיסמה שלך";
+"signUp_password_requirements"="סיסמאות צריכות להיות באורך של לפחות 8 תווים ולכלול לפחות אות אחת גדולה (A-Z), אות קטנה אחת (a-z), מספר אחד (0-9) ותו מיוחד אחד (לדוגמה, ! % @ או #).";
+"signUp_confirmPassword_title"="אימות סיסמה";
+"signUp_confirmPassword_placeholder"="הזן את אישור הסיסמה שלך";
+"signUp_action_signUp"="הירשם";
+"signUp_action_signIn"="להתחבר";
+"signUp_signInWith"="להתחבר עם";
+"signUp_haveAccount"="כבר יש לך חשבון?";
+"signUp_error_invalidEmail"="אנא הזן כתובת דואל תקנית";
+"signUp_error_existUser"="כבר קיים חשבון עם כתובת דואל זו";
+"signUp_error_noPasswordRequirements"="הסיסמה חייבת לעמוד בדרישות הסיסמה";
+"signUp_error_passwordsMismatch"="הססמאות חייבות להיות זהות";
+
+"dashboard_title"="לוּחַ מַחווָנִים";
+"dashboard_welcome_title"="צעד אל העתיד של איסוף כרטיסים";
+"dashboard_welcome_description"="סרוק כרטיס כדי להרחיב את האוסף שלך";
+"dashboard_scanInstructions"="הקש כדי להתחיל לסרוק את הכרטיס שלך.";
+"dashboard_currentValue"="ערך נוכחי";
+"dashboard_highestValue"="הערך הגבוה ביותר";
+"dashboard_recentlyAdded"="נוספו לאחרונה";
+"dashboard_action_scanCard"="סרוק כרטיס";
+
+"portfolio_title"="תיק עבודות";
+"portfolio_scanInstructions"="הקש כדי לפתוח את הסורק ואת הכרטיס הראשון שלך";
+"portfolio_collection_create"="צור אוסף";
+"portfolio_deck_create"="צור סיפון";
+"portfolio_deck_description"="חפיסת משחק קלפי מסחר";
+"portfolio_collection_description"="אוסף מותאם אישית";
+"portfolio_cards"="קלפים";
+"portfolio_oneCard"="1 כרטיס";
+"portfolio_numberOfCards"="%d כרטיסים";
+"portfolio_allCards"="כל הקלפים";
+"portfolio_estimatedValue"="ערך משוער כולל";
+"portfolio_scanToAdd"="סרוק כרטיס כדי להוסיף לאוסף שלך";
+
+"more_title"="יותר";
+"more_item_cardCategories"="קטגוריות כרטיסים";
+"more_item_updatePassword"="עדכן סיסמה";
+"more_item_privacyPolicy"="מדיניות הפרטיות";
+"more_item_termsAndConditions"="תנאי שימוש";
+"more_item_pushNotifications"="אפשר הודעות דחיפה";
+"more_item_logout"="להתנתק";
+"more_item_deleteAccount"="מחק חשבון";
+
+"cardCategories_title"="קטגוריות כרטיסים";
+"cardCategories_description"="אנא בחר את סוגי הכרטיסים שברצונך לכלול בתיק העבודות ובסורק שלך";
+"cardCategories_minEnabledCategories"="עליך לשמור על קטגוריה פעילה אחת לפחות.";
+
+"updatePassword_title"="עדכן סיסמה";
+"updatePassword_newPassword_title"="צור סיסמה חדשה";
+"updatePassword_newPassword_placeholder"="הכנס סיסמה חדשה";
+"updatePassword_confirmNewPassword_title"="תאשר סיסמא חדשה";
+"updatePassword_confirmNewPassword_placeholder"="הזן מחדש סיסמה חדשה";
+"updatePassword_newPassword_requirements"="סיסמאות צריכות להיות באורך של לפחות 8 תווים ולכלול לפחות אות אחת גדולה (A-Z), אות קטנה אחת (a-z), מספר אחד (0-9) ותו מיוחד אחד (לדוגמה, ! % @ או #).";
+"updatePassword_newPassword_cut1"="8 תווים";
+"updatePassword_newPassword_cut2"="אות גדולה אחת";
+"updatePassword_newPassword_cut3"="אות אחת קטנה";
+"updatePassword_newPassword_cut4"="מספר אחד";
+"updatePassword_newPassword_cut5"="דמות אחת מיוחדת";
+"updatePassword_action_save"="להציל";
+"updatePassword_error_noPasswordRequirements"="הסיסמה חייבת לעמוד בדרישות הסיסמה";
+"updatePassword_error_passwordsMismatch"="הססמאות חייבות להיות זהות";
+"updatePassword_error_needReauthenticate"="אנא אימות מחדש כדי לשנות את הסיסמה שלך";
+
+"cardCategory_baseball"="בייסבול";
+"cardCategory_pokemon"="פוקימון";
+"cardCategory_basketball"="כדורסל";
+"cardCategory_football"="כדורגל";
+"cardCategory_magic"="קסם: ההתכנסות";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="הוֹקֵי";
+"cardCategory_soccer"="כדורגל";
+
+"forgotPassword_title"="שכחת את הסיסמא";
+"forgotPassword_description"="הזן את כתובת הדואל של חשבונך ואנו נשלח לך הוראות לאיפוס הסיסמה שלך";
+"forgotPassword_email_title"="כתובת דואל";
+"forgotPassword_email_placeholder"="הזן את כתובת הדואל שלך";
+"forgotPassword_action_send"="לִשְׁלוֹחַ";
+"forgotPassword_error_userNotFound"="אין משתמשים עם כתובת אימייל זו";
+"forgotPassword_error_invalidEmail"="אנא הזן כתובת דואל תקנית";
+
+"resetPassword_title"="לאפס את הסיסמה";
+"resetPassword_emailSent"="הוראות לאיפוס סיסמה נשלחו לכתובת האימייל: %@";
+
+"scanCard_cardSide_front"="חזית הכרטיס";
+"scanCard_noAuthorization_title"="אפשר %@ לגשת למצלמה שלך";
+"scanCard_noAuthorization_description"="זה מאפשר לך לסרוק כרטיסים";
+"scanCard_action_openSettings"="פתח את ההגדרות";
+"scanCard_gradeType_graded"="מְדוּרָג";
+"scanCard_gradeType_raw"="גלם";
+
+"prompt_action_cancel"="לְבַטֵל";
+"prompt_title"="האם אתה בטוח?";
+"prompt_logout_description"="האם אתה בטוח שברצונך להסיר את חשבונך?";
+"prompt_logout_confirmAction"="להתנתק";
+"prompt_deleteAccount_description"="מחיקת האוסף לא תסיר את הקלפים; הם יישארו בתיק שלך.";
+"prompt_deleteAccount_keepAction"="לִשְׁמוֹר";
+"prompt_deleteAccount_sure"="האם אתה בטוח שברצונך להסיר את חשבונך?";
+"prompt_deleteAccount_confirmAction"="לִמְחוֹק";
+"prompt_deleteCollection_description"="מחיקת האוסף לא תמחק את הכרטיסים בתוך האוסף. הקלפים יישארו בתיק העבודות שלך.";
+"prompt_deleteCollection_keepAction"="לִשְׁמוֹר";
+"prompt_deleteCollection_confirmAction"="לִמְחוֹק";
+"prompt_deleteDeck_description"="מחיקת החפיסה לא תמחק את הקלפים בתוך החפיסה. הקלפים יישארו בתיק העבודות שלך.";
+"prompt_deleteDeck_keepAction"="לִשְׁמוֹר";
+"prompt_deleteDeck_confirmAction"="לִמְחוֹק";
+"prompt_removeCard_description"="אתה עומד להסיר כרטיס זה מתיק העבודות שלך. יהיה צורך לסרוק את הכרטיס הזה שוב כדי להוסיף חזרה לתיק העבודות שלך.";
+"prompt_removeCard_keepAction"="לִשְׁמוֹר";
+"prompt_removeCard_confirmAction"="לְהַסִיר";
+
+"identifyingCard_title"="%@ כרטיס נתפס";
+"identifyingCard_processTitle"="תעודת זיהוי...";
+"identifyingCard_action_cancel"="בטל סריקה";
+
+"searchCard_title"="כרטיס חיפוש";
+"searchCard_search_placeholder"="חפש כרטיס";
+"searchCard_error_tryAgain"="נסה שוב! המשך לחפש!";
+
+"card_missingImage"="חסר\nתמונה";
+
+"cardDetails_action_addCard"="הוסף לתיק";
+"cardDetails_action_findCard"="מצא כרטיס";
+"cardDetails_action_editCard"="ערוך כרטיס וציון";
+"cardDetails_action_removeCard"="הסר מהפורטפוליו";
+
+"pricingReport_setCustomPrice"="קבע מחיר מותאם אישית";
+"pricingReport_editCustomPrice"="ערוך מחיר מותאם אישית";
+"pricingReport_viewReport"="צפו בדוח תמחור";
+"pricingReport_valueEstimating"="הערכת ערך בהמתנה";
+
+"pricingReport_details_priceReport"="דוח מחירים";
+"pricingReport_details_lastSoldPrice"="מחיר נמכר אחרון";
+"pricingReport_details_lastSoldDate"="תאריך מכירה אחרון";
+"pricingReport_details_recentSales"="מכירות אחרונות";
+"pricingReport_details_noSales"="אין מכירות אחרונות";
+
+"cardDetail_year"="שנת כרטיס";
+"cardDetail_cardNumber"="כרטיס מס'";
+"cardDetail_set"="מַעֲרֶכֶת";
+"cardDetail_series"="סִדרָה";
+"cardDetail_parallel"="מַקְבִּיל";
+"cardDetail_grade"="כיתה";
+"cardDetail_ungraded"="לא מדורג";
+"cardDetail_color"="צֶבַע";
+"cardDetail_colors"="צבעים";
+"cardDetail_type"="סוּג";
+"cardDetail_manaValue"="מאנה ערך";
+"cardDetail_power"="כּוֹחַ";
+"cardDetail_toughness"="קשיחות";
+"cardDetail_rarity"="נְדִירוּת";
+
+"recentlyAdded_title"="כרטיסים שנוספו לאחרונה";
+
+"highestValue_title"="כרטיסי הערך הגבוה ביותר";
+
+"currentValue_title"="ערך נוכחי";
+"currentValue_valueByCategory"="ערך לפי קטגוריה";
+
+"editCard_title"="לערוך את הפרטים";
+"editCard_parallel"="מַקְבִּיל";
+"editCard_grade"="כיתה";
+"editCard_customPrice"="קבע מחיר מותאם אישית";
+"editCard_action_updateDetails"="עדכן פרטים";
+"editCard_valueEstimating"="הערכת ערך בהמתנה";
+
+"parallelSelection_title"="מַקְבִּיל";
+"parallelSelection_search_placeholder"="לחפש";
+"parallelSelection_allOptions"="כל האפשרויות";
+"parallelSelection_missingSample"="חסר מדגם";
+"parallelSelection_noResult"="לא נמצאו תוצאות";
+"parallelSelection_action_none"="אף אחד";
+
+"gradeSelection_title"="כיתה";
+"gradeSelection_selectGrader"="בחר Grader";
+"gradeSelection_selectGrade"="בחר ציון";
+
+"createCollection_title"="צור אוסף חדש";
+"createCollection_collectionName_placeholder"="תן שם לאוסף שלך";
+"createCollection_action_create"="לִיצוֹר";
+
+"cardCollection_estimatedValue"="ערך מוערך";
+"cardCollection_noCards"="לאוסף זה אין כרטיסים";
+"cardCollection_action_addCards"="הוסף כרטיסים";
+
+"addCards_title"="הוסף כרטיסים ל \"%@\"";
+"addCards_titleNoName_collection"="הוסף כרטיסים לאוסף";
+"addCards_titleNoName_deck"="הוסף קלפים לחפיסה";
+"addCards_oneCardSelected"="כרטיס אחד נבחר";
+"addCards_numberOfCardsSelected"="נבחרו %d כרטיסים";
+"addCards_action_selectAll"="בחר הכל";
+"addCards_allCards"="כל הקלפים";
+"addCards_search_placeholder"="חפש כרטיס";
+"addCards_noResult"="לא נמצאו תוצאות";
+
+"sortCards_title"="מיין לפי";
+"sortCards_option_dateRecent"="תאריך שמירה: אחרונים-עתיקים";
+"sortCards_option_dateOldest"="תאריך שמירה: הוותיק-אחרון";
+"sortCards_option_nameDirect"="שם הכרטיס: A-Z";
+"sortCards_option_nameReverse"="שם הכרטיס: Z-A";
+"sortCards_option_yearRecent"="שנת כרטיס: אחרונות-עתיקות";
+"sortCards_option_yearOldest"="שנת כרטיס: הוותיק-אחרון";
+
+"editCollection_title"="עדכן את האוסף";
+"editCollection_collectionName_placeholder"="שנה את שם האוסף שלך";
+
+"createDeck_title"="צור סיפון חדש";
+"createDeck_deckName_title"="תן שם לסיפון שלך";
+"createDeck_deckName_placeholder"="הכנס שם";
+"createDeck_deckType_title"="סוג הסיפון";
+"createDeck_deckType_select"="בחר קטגוריית כרטיסים";
+"createDeck_description_title"="תיאור (אופציונאלי)";
+"createDeck_description_placeholder"="הזן תיאור עבור הסיפון שלך";
+"createDeck_action_create"="לִיצוֹר";
+
+"cardDeck_noCards"="אין קלפים בחפיסה הזו";
+"cardDeck_action_addCards"="הוסף כרטיסים";
+
+"editCardSet_menu_addCards"="הוסף כרטיסים";
+"editCardSet_menu_removeCards"="הסר כרטיסים";
+"editCardSet_menu_sortCards"="מיון כרטיסים";
+"editCardSet_menu_totalPrice"="הערכת מחיר כולל";
+"editCardSet_menu_renameCollection"="שנה את שם האוסף";
+"editCardSet_menu_deleteCollection"="מחק אוסף";
+"editCardSet_menu_editDeck"="ערוך סיפון";
+"editCardSet_menu_deleteDeck"="מחק סיפון";
+
+"editDeck_title"="עדכון סיפון";
+
+"legalityOption_standard"="תֶקֶן";
+"legalityOption_pioneer"="חָלוּץ";
+"legalityOption_modern"="מוֹדֶרנִי";
+"legalityOption_legacy"="מוֹרֶשֶׁת";
+"legalityOption_vintage"="בָּצִיר";
+"legalityOption_commander"="מְפַקֵד";
+"legalityOption_oathbreaker"="שובר שבועה";
+"legalityOption_alchemy"="אַלכִּימְיָה";
+"legalityOption_explorer"="מגלה ארצות";
+"legalityOption_brawl"="קְטָטָה";
+"legalityOption_historic"="הִיסטוֹרִי";
+"legalityOption_pauper"="עָנִי";
+"legalityOption_penny"="פֶּנִי";
+
+"cardLegality_legal"="משפטי";
+"cardLegality_notLegal"="לא חוקי";
+
+"magicCard_color_white"="לבן";
+"magicCard_color_blue"="כְּחוֹל";
+"magicCard_color_black"="שָׁחוֹר";
+"magicCard_color_red"="אָדוֹם";
+"magicCard_color_green"="ירוק";
+"magicCard_color_colorless"="חֲסַר צֶבַע";
+
+"alert_noInternetConnection_title"="בעיית קישוריות";
+"alert_noInternetConnection_message"="נראה שהחיבור לאינטרנט לא מקוון ☹️";
+"alert_needRecentLogin_title"="אימות מחדש";
+"alert_needRecentLogin_message"="כדי למחוק חשבון, נדרשת התחברות עדכנית";
+"alert_needRecentLogin_action_logOut"="להתנתק";

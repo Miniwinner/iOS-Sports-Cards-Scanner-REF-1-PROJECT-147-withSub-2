@@ -1,0 +1,287 @@
+"common_close"="Zamknąć";
+"common_cancel"="Anulować";
+"common_done"="Zrobione";
+"common_reset"="Resetowanie";
+"common_error"="Ups! Coś poszło nie tak";
+"common_ok"="OK";
+
+"splash_loading"="Ładowanie";
+
+"signIn_title"="Zalogować się";
+"signIn_email_title"="Adres mailowy";
+"signIn_email_placeholder"="Wprowadź e-mail";
+"signIn_password_title"="Wprowadź hasło";
+"signIn_password_placeholder"="Wprowadź hasło";
+"signIn_password_forgot"="Zapomniałeś hasła?";
+"signIn_action_signIn"="Zalogować się";
+"signIn_action_signUp"="Zapisać się";
+"signIn_signInWith"="Zaloguj się korzystając z";
+"signIn_noAccount"="Nie masz konta?";
+"signIn_action_signUp"="Zapisać się";
+"signIn_error_invalidEmail"="Proszę wpisać aktualny adres e-mail";
+"signIn_error_userNotFound"="Proszę podać poprawny adres e-mail i hasło";
+"signIn_error_wrongPassword"="Proszę wprowadzić poprawne hasło";
+"signIn_welcome"="Witamy spowrotem!";
+"signIn_ask"="Proszę podać swoje dane do logowania";
+"signInLogInWith"="Zaloguj się z.";
+
+"signUp_title"="Zapisać się";
+"signUp_email_title"="Adres e-mail";
+"signUp_email_placeholder"="Wpisz swój adres e-mail";
+"signUp_password_title"="Hasło";
+"signUp_password_placeholder"="Wprowadź hasło";
+"signUp_password_requirements"="Hasła powinny mieć co najmniej 8 znaków i zawierać co najmniej jedną wielką literę (A-Z), jedną małą literę (a-z), jedną cyfrę (0-9) i jeden znak specjalny (np. !% @ lub #).";
+"signUp_confirmPassword_title"="Potwierdzenie hasła";
+"signUp_confirmPassword_placeholder"="Wprowadź potwierdzenie hasła";
+"signUp_action_signUp"="Zapisać się";
+"signUp_action_signIn"="Zalogować się";
+"signUp_signInWith"="Zaloguj się korzystając z";
+"signUp_haveAccount"="Posiadasz już konto?";
+"signUp_error_invalidEmail"="Proszę wpisać aktualny adres e-mail";
+"signUp_error_existUser"="Konto już istnieje z tym adresem e-mail";
+"signUp_error_noPasswordRequirements"="Hasło musi spełniać wymagania dotyczące hasła";
+"signUp_error_passwordsMismatch"="Hasło musi pasować";
+
+"dashboard_title"="Panel";
+"dashboard_welcome_title"="Wejdź w przyszłość kolekcji kart";
+"dashboard_welcome_description"="Zeskanuj kartę, aby powiększyć swoją kolekcję";
+"dashboard_scanInstructions"="Kliknij, aby rozpocząć skanowanie karty.";
+"dashboard_currentValue"="Aktualna wartość";
+"dashboard_highestValue"="Najwyższa wartość";
+"dashboard_recentlyAdded"="Niedawno dodane";
+"dashboard_action_scanCard"="Zeskanuj kartę";
+
+"portfolio_title"="Teczka";
+"portfolio_scanInstructions"="Stuknij, aby otworzyć skaner i pierwszą kartę";
+"portfolio_collection_create"="Utwórz kolekcję";
+"portfolio_deck_create"="Utwórz talię";
+"portfolio_deck_description"="Kolekcjonerska talia gier karcianych";
+"portfolio_collection_description"="Kolekcja niestandardowa";
+"portfolio_cards"="Karty";
+"portfolio_oneCard"="1 karta";
+"portfolio_numberOfCards"="%d Karty";
+"portfolio_allCards"="Wszystkie karty";
+"portfolio_estimatedValue"="Całkowita szacunkowa wartość";
+"portfolio_scanToAdd"="Zeskanuj kartę, aby dodać ją do swojej kolekcji";
+
+"more_title"="Więcej";
+"more_item_cardCategories"="Kategorie kart";
+"more_item_updatePassword"="Aktualizować hasło";
+"more_item_privacyPolicy"="Polityka prywatności";
+"more_item_termsAndConditions"="Warunki korzystania";
+"more_item_pushNotifications"="Włącz powiadomienia push";
+"more_item_logout"="Wyloguj";
+"more_item_deleteAccount"="Usuń konto";
+
+"cardCategories_title"="Kategorie kart";
+"cardCategories_description"="Wybierz typy kart, które chcesz uwzględnić w swoim portfelu i skanerze";
+"cardCategories_minEnabledCategories"="Musisz utrzymać co najmniej jedną aktywną kategorię.";
+
+"updatePassword_title"="Aktualizować hasło";
+"updatePassword_newPassword_title"="Utwórz nowe hasło";
+"updatePassword_newPassword_placeholder"="Wprowadź nowe hasło";
+"updatePassword_confirmNewPassword_title"="Potwierdź nowe hasło";
+"updatePassword_confirmNewPassword_placeholder"="Wprowadź ponownie nowe hasło";
+"updatePassword_newPassword_requirements"="Hasła powinny mieć co najmniej 8 znaków i zawierać co najmniej jedną wielką literę (A-Z), jedną małą literę (a-z), jedną cyfrę (0-9) i jeden znak specjalny (np. !% @ lub #).";
+"updatePassword_newPassword_cut1"="8 znaków";
+"updatePassword_newPassword_cut2"="jedna duża litera";
+"updatePassword_newPassword_cut3"="jedną małą literę";
+"updatePassword_newPassword_cut4"="jeden numer";
+"updatePassword_newPassword_cut5"="jeden znak specjalny";
+"updatePassword_action_save"="Ratować";
+"updatePassword_error_noPasswordRequirements"="Hasło musi spełniać wymagania dotyczące hasła";
+"updatePassword_error_passwordsMismatch"="Hasło musi pasować";
+"updatePassword_error_needReauthenticate"="Aby zmienić hasło, prosimy o ponowne uwierzytelnienie";
+
+"cardCategory_baseball"="Baseball";
+"cardCategory_pokemon"="Pokemony";
+"cardCategory_basketball"="Koszykówka";
+"cardCategory_football"="Piłka nożna";
+"cardCategory_magic"="Magia: Zgromadzenie";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Hokej";
+"cardCategory_soccer"="Piłka nożna";
+
+"forgotPassword_title"="Zapomniałeś hasła";
+"forgotPassword_description"="Wpisz adres e-mail swojego konta, a my wyślemy Ci instrukcje dotyczące resetowania hasła";
+"forgotPassword_email_title"="Adres e-mail";
+"forgotPassword_email_placeholder"="Wpisz swój adres e-mail";
+"forgotPassword_action_send"="Wysłać";
+"forgotPassword_error_userNotFound"="Brak użytkowników o tym adresie e-mail";
+"forgotPassword_error_invalidEmail"="Proszę wpisać aktualny adres e-mail";
+
+"resetPassword_title"="Zresetuj hasło";
+"resetPassword_emailSent"="Instrukcje resetowania hasła zostały wysłane na adres e-mail: %@";
+
+"scanCard_cardSide_front"="Przód kard";
+"scanCard_noAuthorization_title"="Zezwól %@ na dostęp do Twojej kamery";
+"scanCard_noAuthorization_description"="Umożliwia to skanowanie kart";
+"scanCard_action_openSettings"="Otwórz ustawienia";
+"scanCard_gradeType_graded"="Ocenione";
+"scanCard_gradeType_raw"="Surowy";
+
+"prompt_action_cancel"="Anulować";
+"prompt_title"="Jesteś pewny?";
+"prompt_logout_description"="Czy na pewno chcesz usunąć swoje konto?";
+"prompt_logout_confirmAction"="Wyloguj";
+"prompt_deleteAccount_description"="Usunięcie kolekcji nie spowoduje usunięcia kart; pozostaną w Twoim portfolio.";
+"prompt_deleteAccount_keepAction"="Trzymać";
+"prompt_deleteAccount_sure"="Czy na pewno chcesz usunąć swoje konto?";
+"prompt_deleteAccount_confirmAction"="Usuwać";
+"prompt_deleteCollection_description"="Usunięcie kolekcji nie powoduje usunięcia kart znajdujących się w kolekcji. Karty pozostaną w Twoim portfelu.";
+"prompt_deleteCollection_keepAction"="Trzymać";
+"prompt_deleteCollection_confirmAction"="Usuwać";
+"prompt_deleteDeck_description"="Usunięcie talii nie powoduje usunięcia kart z talii. Karty pozostaną w Twoim portfelu.";
+"prompt_deleteDeck_keepAction"="Trzymać";
+"prompt_deleteDeck_confirmAction"="Usuwać";
+"prompt_removeCard_description"="Zamierzasz usunąć tę kartę ze swojego portfela. Aby dodać ją ponownie do swojego portfolio, należy ją ponownie zeskanować.";
+"prompt_removeCard_keepAction"="Trzymać";
+"prompt_removeCard_confirmAction"="Usunąć";
+
+"identifyingCard_title"="%@ Karta przechwycona";
+"identifyingCard_processTitle"="Karta identyfikacyjna...";
+"identifyingCard_action_cancel"="Anuluj skanowanie";
+
+"searchCard_title"="Karta wyszukiwania";
+"searchCard_search_placeholder"="Wyszukaj kartę";
+"searchCard_error_tryAgain"="Spróbuj ponownie! Szukaj dalej!";
+
+"card_missingImage"="Brakujący\nobraz";
+
+"cardDetails_action_addCard"="Dodaj do portfela";
+"cardDetails_action_findCard"="Znajdź kartę";
+"cardDetails_action_editCard"="Edytuj kartę i ocenę";
+"cardDetails_action_removeCard"="Usuń z portfolio";
+
+"pricingReport_setCustomPrice"="Ustaw cenę niestandardową";
+"pricingReport_editCustomPrice"="Edytuj cenę niestandardową";
+"pricingReport_viewReport"="Zobacz raport cenowy";
+"pricingReport_valueEstimating"="Oszacowanie wartości w oczekiwaniu";
+
+"pricingReport_details_priceReport"="Raport cenowy";
+"pricingReport_details_lastSoldPrice"="Ostatnia sprzedana cena";
+"pricingReport_details_lastSoldDate"="Data ostatniej sprzedaży";
+"pricingReport_details_recentSales"="Ostatnie wyprzedaże";
+"pricingReport_details_noSales"="Brak niedawnych sprzedaży";
+
+"cardDetail_year"="Rok karty";
+"cardDetail_cardNumber"="Karta #";
+"cardDetail_set"="Ustawić";
+"cardDetail_series"="Seria";
+"cardDetail_parallel"="Równoległy";
+"cardDetail_grade"="Stopień";
+"cardDetail_ungraded"="Bez oceny";
+"cardDetail_color"="Kolor";
+"cardDetail_colors"="Zabarwienie";
+"cardDetail_type"="Typ";
+"cardDetail_manaValue"="Wartość many";
+"cardDetail_power"="Moc";
+"cardDetail_toughness"="Wytrzymałość";
+"cardDetail_rarity"="Rzadkość";
+
+"recentlyAdded_title"="Ostatnio dodane karty";
+
+"highestValue_title"="Karty o najwyższej wartości";
+
+"currentValue_title"="Aktualna wartość";
+"currentValue_valueByCategory"="Wartość według kategorii";
+
+"editCard_title"="Edytuj szczegóły";
+"editCard_parallel"="Równoległy";
+"editCard_grade"="Stopień";
+"editCard_customPrice"="Ustaw cenę niestandardową";
+"editCard_action_updateDetails"="Aktualizuj szczegóły";
+"editCard_valueEstimating"="Oszacowanie wartości w oczekiwaniu";
+
+"parallelSelection_title"="Równoległy";
+"parallelSelection_search_placeholder"="Szukaj";
+"parallelSelection_allOptions"="Wszystkie opcje";
+"parallelSelection_missingSample"="Brakująca próbka";
+"parallelSelection_noResult"="Nie znaleziono wyników";
+"parallelSelection_action_none"="Nic";
+
+"gradeSelection_title"="Stopień";
+"gradeSelection_selectGrader"="Wybierz opcję Równiarka";
+"gradeSelection_selectGrade"="Wybierz opcję Ocena";
+
+"createCollection_title"="Utwórz nową kolekcję";
+"createCollection_collectionName_placeholder"="Nazwij swoją kolekcję";
+"createCollection_action_create"="Tworzyć";
+
+"cardCollection_estimatedValue"="Przewidywana wartość";
+"cardCollection_noCards"="Ta kolekcja nie zawiera żadnych kart";
+"cardCollection_action_addCards"="Dodaj karty";
+
+"addCards_title"="Dodaj karty do \"%@\"";
+"addCards_titleNoName_collection"="Dodaj karty do kolekcji";
+"addCards_titleNoName_deck"="Dodaj karty do talii";
+"addCards_oneCardSelected"="Wybrano 1 kartę";
+"addCards_numberOfCardsSelected"="Wybrano %d kart";
+"addCards_action_selectAll"="Zaznacz wszystko";
+"addCards_allCards"="Wszystkie karty";
+"addCards_search_placeholder"="Wyszukaj kartę";
+"addCards_noResult"="Nie znaleziono wyników";
+
+"sortCards_title"="Sortuj według";
+"sortCards_option_dateRecent"="Data zapisania: najnowsze-najstarsze";
+"sortCards_option_dateOldest"="Data zapisania: najstarsze-ostatnie";
+"sortCards_option_nameDirect"="Nazwa karty: A-Z";
+"sortCards_option_nameReverse"="Nazwa karty: Z-A";
+"sortCards_option_yearRecent"="Rok karty: najnowszy-najstarszy";
+"sortCards_option_yearOldest"="Rok karty: najstarszy-ostatni";
+
+"editCollection_title"="Aktualizuj kolekcję";
+"editCollection_collectionName_placeholder"="Zmień nazwę swojej kolekcji";
+
+"createDeck_title"="Utwórz nową talię";
+"createDeck_deckName_title"="Nazwij swoją talię";
+"createDeck_deckName_placeholder"="Wpisz imię";
+"createDeck_deckType_title"="Typ pokładu";
+"createDeck_deckType_select"="Wybierz kategorię karty";
+"createDeck_description_title"="Opis (opcjonalnie)";
+"createDeck_description_placeholder"="Wprowadź opis swojej talii";
+"createDeck_action_create"="Tworzyć";
+
+"cardDeck_noCards"="W tej talii nie ma żadnych kart";
+"cardDeck_action_addCards"="Dodaj karty";
+
+"editCardSet_menu_addCards"="Dodaj karty";
+"editCardSet_menu_removeCards"="Usuń karty";
+"editCardSet_menu_sortCards"="Sortuj karty";
+"editCardSet_menu_totalPrice"="Szacunkowa cena całkowita";
+"editCardSet_menu_renameCollection"="Zmień nazwę kolekcji";
+"editCardSet_menu_deleteCollection"="Usuń kolekcję";
+"editCardSet_menu_editDeck"="Edytuj talię";
+"editCardSet_menu_deleteDeck"="Usuń talię";
+
+"editDeck_title"="Zaktualizuj talię";
+
+"legalityOption_standard"="Standard";
+"legalityOption_pioneer"="Pionier";
+"legalityOption_modern"="Nowoczesny";
+"legalityOption_legacy"="Dziedzictwo";
+"legalityOption_vintage"="Klasyczny";
+"legalityOption_commander"="Dowódca";
+"legalityOption_oathbreaker"="Łamacz przysięgi";
+"legalityOption_alchemy"="Alchemia";
+"legalityOption_explorer"="poszukiwacz";
+"legalityOption_brawl"="Bijatyka";
+"legalityOption_historic"="Historyczny";
+"legalityOption_pauper"="Żebrak";
+"legalityOption_penny"="Grosz";
+
+"cardLegality_legal"="Prawny";
+"cardLegality_notLegal"="Nielegalne";
+
+"magicCard_color_white"="Biały";
+"magicCard_color_blue"="Niebieski";
+"magicCard_color_black"="Czarny";
+"magicCard_color_red"="Czerwony";
+"magicCard_color_green"="Zielony";
+"magicCard_color_colorless"="Bezbarwny";
+
+"alert_noInternetConnection_title"="Problem z łącznością";
+"alert_noInternetConnection_message"="Połączenie internetowe wydaje się być offline ☹️";
+"alert_needRecentLogin_title"="Uwierzytelnij ponownie";
+"alert_needRecentLogin_message"="Aby usunąć konto wymagane jest ostatnie logowanie";
+"alert_needRecentLogin_action_logOut"="Wyloguj";

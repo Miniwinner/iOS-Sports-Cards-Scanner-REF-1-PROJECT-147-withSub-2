@@ -1,0 +1,287 @@
+"common_close"="tutup";
+"common_cancel"="Batal";
+"common_done"="Selesai";
+"common_reset"="Tetapkan semula";
+"common_error"="Op, berlaku masalah";
+"common_ok"="Okey";
+
+"splash_loading"="Memuatkan";
+
+"signIn_title"="Log Masuk";
+"signIn_email_title"="Alamat emel";
+"signIn_email_placeholder"="Masukkan email";
+"signIn_password_title"="Masukkan kata laluan";
+"signIn_password_placeholder"="Masukkan kata laluan";
+"signIn_password_forgot"="Lupa kata laluan?";
+"signIn_action_signIn"="Log Masuk";
+"signIn_action_signUp"="Daftar";
+"signIn_signInWith"="Daftar masuk dengan";
+"signIn_noAccount"="Tiada akaun?";
+"signIn_action_signUp"="Daftar";
+"signIn_error_invalidEmail"="Sila masukkan alamat emel yang sah";
+"signIn_error_userNotFound"="Sila masukkan e-mel dan kata laluan yang sah";
+"signIn_error_wrongPassword"="Sila masukkan kata laluan yang betul";
+"signIn_welcome"="Selamat kembali!";
+"signIn_ask"="Sila masukkan butiran log masuk anda";
+"signInLogInWith"="Log masuk dengan.";
+
+"signUp_title"="Daftar";
+"signUp_email_title"="Alamat emel";
+"signUp_email_placeholder"="Masukkan alamat emel anda";
+"signUp_password_title"="Kata laluan";
+"signUp_password_placeholder"="Masukkan kata laluan anda";
+"signUp_password_requirements"="Kata laluan hendaklah sekurang-kurangnya 8 aksara dan mengandungi sekurang-kurangnya satu huruf besar (A-Z), satu huruf kecil (a-z), satu nombor (0-9) dan satu aksara khas (mis., ! % @ atau #).";
+"signUp_confirmPassword_title"="pengesahan kata laluan";
+"signUp_confirmPassword_placeholder"="Masukkan pengesahan kata laluan anda";
+"signUp_action_signUp"="Daftar";
+"signUp_action_signIn"="Log Masuk";
+"signUp_signInWith"="Daftar masuk dengan";
+"signUp_haveAccount"="Sudah mempunyai akaun?";
+"signUp_error_invalidEmail"="Sila masukkan alamat emel yang sah";
+"signUp_error_existUser"="Akaun sudah wujud dengan alamat e-mel ini";
+"signUp_error_noPasswordRequirements"="Kata laluan mesti memenuhi keperluan kata laluan";
+"signUp_error_passwordsMismatch"="kata laluan mesti sepadan";
+
+"dashboard_title"="Papan pemuka";
+"dashboard_welcome_title"="Melangkah ke masa depan pengumpulan kad";
+"dashboard_welcome_description"="Imbas kad untuk mengembangkan koleksi anda";
+"dashboard_scanInstructions"="Ketik untuk mula mengimbas kad anda.";
+"dashboard_currentValue"="Nilai semasa";
+"dashboard_highestValue"="Nilai Tertinggi";
+"dashboard_recentlyAdded"="Baru sahaja ditambah";
+"dashboard_action_scanCard"="Kad Imbasan";
+
+"portfolio_title"="Portfolio";
+"portfolio_scanInstructions"="Ketik untuk membuka pengimbas dan kad pertama anda";
+"portfolio_collection_create"="Buat Koleksi";
+"portfolio_deck_create"="Buat Dek";
+"portfolio_deck_description"="Dek permainan kad dagangan";
+"portfolio_collection_description"="Koleksi Tersuai";
+"portfolio_cards"="Kad";
+"portfolio_oneCard"="1 Kad";
+"portfolio_numberOfCards"="%d Kad";
+"portfolio_allCards"="Semua Kad";
+"portfolio_estimatedValue"="Jumlah Anggaran Nilai";
+"portfolio_scanToAdd"="Imbas kad untuk ditambahkan pada koleksi anda";
+
+"more_title"="Lagi";
+"more_item_cardCategories"="Kategori Kad";
+"more_item_updatePassword"="Kemas kini Kata Laluan";
+"more_item_privacyPolicy"="Dasar Privasi";
+"more_item_termsAndConditions"="Syarat Penggunaan";
+"more_item_pushNotifications"="Dayakan Pemberitahuan Tolak";
+"more_item_logout"="Log keluar";
+"more_item_deleteAccount"="Padam Akaun";
+
+"cardCategories_title"="Kategori Kad";
+"cardCategories_description"="Sila pilih jenis kad yang anda ingin sertakan dalam portfolio dan pengimbas anda";
+"cardCategories_minEnabledCategories"="Anda perlu mengekalkan sekurang-kurangnya satu kategori aktif.";
+
+"updatePassword_title"="Kemas kini Kata Laluan";
+"updatePassword_newPassword_title"="Buat kata laluan baharu";
+"updatePassword_newPassword_placeholder"="Masukkan kata laluan baru";
+"updatePassword_confirmNewPassword_title"="Sahkan kata laluan baharu";
+"updatePassword_confirmNewPassword_placeholder"="Masukkan semula kata laluan baharu";
+"updatePassword_newPassword_requirements"="Kata laluan hendaklah sekurang-kurangnya 8 aksara dan mengandungi sekurang-kurangnya satu huruf besar (A-Z), satu huruf kecil (a-z), satu nombor (0-9) dan satu aksara khas (mis., ! % @ atau #).";
+"updatePassword_newPassword_cut1"="8 aksara";
+"updatePassword_newPassword_cut2"="satu huruf besar";
+"updatePassword_newPassword_cut3"="satu huruf kecil";
+"updatePassword_newPassword_cut4"="satu nombor";
+"updatePassword_newPassword_cut5"="satu watak istimewa";
+"updatePassword_action_save"="Jimat";
+"updatePassword_error_noPasswordRequirements"="Kata laluan mesti memenuhi keperluan kata laluan";
+"updatePassword_error_passwordsMismatch"="kata laluan mesti sepadan";
+"updatePassword_error_needReauthenticate"="Sila sahkan semula untuk menukar kata laluan anda";
+
+"cardCategory_baseball"="besbol";
+"cardCategory_pokemon"="Pokemon";
+"cardCategory_basketball"="Bola keranjang";
+"cardCategory_football"="bola sepak";
+"cardCategory_magic"="Sihir: Perhimpunan";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="hoki";
+"cardCategory_soccer"="bola sepak";
+
+"forgotPassword_title"="Lupa kata laluan";
+"forgotPassword_description"="Masukkan alamat e-mel untuk akaun anda dan kami akan menghantar arahan untuk menetapkan semula kata laluan anda";
+"forgotPassword_email_title"="Alamat emel";
+"forgotPassword_email_placeholder"="Masukkan alamat emel anda";
+"forgotPassword_action_send"="Hantar";
+"forgotPassword_error_userNotFound"="Tiada pengguna dengan alamat e-mel ini";
+"forgotPassword_error_invalidEmail"="Sila masukkan alamat emel yang sah";
+
+"resetPassword_title"="Menetapkan semula kata laluan";
+"resetPassword_emailSent"="Arahan tetapan semula kata laluan telah dihantar ke alamat e-mel: %@";
+
+"scanCard_cardSide_front"="Depan Kad";
+"scanCard_noAuthorization_title"="Benarkan %@ mengakses kamera anda";
+"scanCard_noAuthorization_description"="Ini membolehkan anda mengimbas kad";
+"scanCard_action_openSettings"="Buka Tetapan";
+"scanCard_gradeType_graded"="Digredkan";
+"scanCard_gradeType_raw"="mentah";
+
+"prompt_action_cancel"="Batal";
+"prompt_title"="Adakah anda pasti?";
+"prompt_logout_description"="Adakah anda pasti mahu mengalih keluar akaun anda?";
+"prompt_logout_confirmAction"="Log keluar";
+"prompt_deleteAccount_description"="Memadamkan koleksi tidak akan mengalih keluar kad; mereka akan kekal dalam portfolio anda.";
+"prompt_deleteAccount_keepAction"="Simpan";
+"prompt_deleteAccount_sure"="Adakah anda pasti mahu mengalih keluar akaun anda?";
+"prompt_deleteAccount_confirmAction"="Padam";
+"prompt_deleteCollection_description"="Memadamkan koleksi tidak akan memadamkan kad dalam koleksi. Kad akan kekal dalam portfolio anda.";
+"prompt_deleteCollection_keepAction"="Simpan";
+"prompt_deleteCollection_confirmAction"="Padam";
+"prompt_deleteDeck_description"="Memadamkan dek tidak akan memadamkan kad dalam dek. Kad akan kekal dalam portfolio anda.";
+"prompt_deleteDeck_keepAction"="Simpan";
+"prompt_deleteDeck_confirmAction"="Padam";
+"prompt_removeCard_description"="Anda akan mengalih keluar kad ini daripada portfolio anda. Kad ini perlu diimbas semula untuk menambah semula portfolio anda.";
+"prompt_removeCard_keepAction"="Simpan";
+"prompt_removeCard_confirmAction"="Alih keluar";
+
+"identifyingCard_title"="%@ Kad Ditangkap";
+"identifyingCard_processTitle"="Kad pengenalan...";
+"identifyingCard_action_cancel"="Batalkan SCAN";
+
+"searchCard_title"="Kad Carian";
+"searchCard_search_placeholder"="Cari kad";
+"searchCard_error_tryAgain"="Cuba lagi! Teruskan mencari!";
+
+"card_missingImage"="Tiada\nImej";
+
+"cardDetails_action_addCard"="Tambahkan pada Portfolio";
+"cardDetails_action_findCard"="Cari Kad";
+"cardDetails_action_editCard"="Edit Kad & Gred";
+"cardDetails_action_removeCard"="Alih keluar daripada Portfolio";
+
+"pricingReport_setCustomPrice"="Tetapkan harga tersuai";
+"pricingReport_editCustomPrice"="Edit harga tersuai";
+"pricingReport_viewReport"="Lihat Laporan Harga";
+"pricingReport_valueEstimating"="Anggaran Nilai Belum Selesai";
+
+"pricingReport_details_priceReport"="Laporan Harga";
+"pricingReport_details_lastSoldPrice"="Harga Jualan Terakhir";
+"pricingReport_details_lastSoldDate"="Tarikh Terakhir Dijual";
+"pricingReport_details_recentSales"="Jualan Terkini";
+"pricingReport_details_noSales"="Tiada jualan terbaru";
+
+"cardDetail_year"="Tahun Kad";
+"cardDetail_cardNumber"="# Kad";
+"cardDetail_set"="Tetapkan";
+"cardDetail_series"="Siri";
+"cardDetail_parallel"="selari";
+"cardDetail_grade"="Gred";
+"cardDetail_ungraded"="Tidak dinilai";
+"cardDetail_color"="Warna";
+"cardDetail_colors"="Warna";
+"cardDetail_type"="taip";
+"cardDetail_manaValue"="Nilai Mana";
+"cardDetail_power"="Kuasa";
+"cardDetail_toughness"="Kekuatan";
+"cardDetail_rarity"="Jarang";
+
+"recentlyAdded_title"="Kad Baru Ditambah";
+
+"highestValue_title"="Kad Nilai Tertinggi";
+
+"currentValue_title"="Nilai semasa";
+"currentValue_valueByCategory"="Nilai mengikut Kategori";
+
+"editCard_title"="Edit Butiran";
+"editCard_parallel"="selari";
+"editCard_grade"="Gred";
+"editCard_customPrice"="Tetapkan harga tersuai";
+"editCard_action_updateDetails"="Kemas kini Butiran";
+"editCard_valueEstimating"="Anggaran Nilai Belum Selesai";
+
+"parallelSelection_title"="selari";
+"parallelSelection_search_placeholder"="Cari";
+"parallelSelection_allOptions"="Semua Pilihan";
+"parallelSelection_missingSample"="Sampel hilang";
+"parallelSelection_noResult"="Tiada keputusan dijumpai";
+"parallelSelection_action_none"="tiada";
+
+"gradeSelection_title"="Gred";
+"gradeSelection_selectGrader"="Pilih Penggred";
+"gradeSelection_selectGrade"="Pilih Gred";
+
+"createCollection_title"="Buat Koleksi Baharu";
+"createCollection_collectionName_placeholder"="Namakan koleksi anda";
+"createCollection_action_create"="Buat";
+
+"cardCollection_estimatedValue"="Anggaran Nilai";
+"cardCollection_noCards"="Koleksi ini tidak mempunyai kad";
+"cardCollection_action_addCards"="Tambah Kad";
+
+"addCards_title"="Tambahkan Kad pada \"%@\"";
+"addCards_titleNoName_collection"="Tambahkan Kad pada Koleksi";
+"addCards_titleNoName_deck"="Tambahkan Kad pada Dek";
+"addCards_oneCardSelected"="1 Kad Dipilih";
+"addCards_numberOfCardsSelected"="%d Kad Dipilih";
+"addCards_action_selectAll"="Pilih semua";
+"addCards_allCards"="Semua Kad";
+"addCards_search_placeholder"="Cari kad";
+"addCards_noResult"="Tiada keputusan dijumpai";
+
+"sortCards_title"="Disusun mengikut";
+"sortCards_option_dateRecent"="Tarikh Disimpan: Terkini-Tertua";
+"sortCards_option_dateOldest"="Tarikh Disimpan: Terlama-Terkini";
+"sortCards_option_nameDirect"="Nama Kad: A-Z";
+"sortCards_option_nameReverse"="Nama Kad: Z-A";
+"sortCards_option_yearRecent"="Tahun Kad: Terkini-Tertua";
+"sortCards_option_yearOldest"="Tahun Kad: Terlama-Terkini";
+
+"editCollection_title"="Kemas kini Koleksi";
+"editCollection_collectionName_placeholder"="Namakan semula koleksi anda";
+
+"createDeck_title"="Buat Dek Baharu";
+"createDeck_deckName_title"="Namakan dek anda";
+"createDeck_deckName_placeholder"="Masukkan nama";
+"createDeck_deckType_title"="Jenis Dek";
+"createDeck_deckType_select"="Pilih kategori kad";
+"createDeck_description_title"="Penerangan (pilihan)";
+"createDeck_description_placeholder"="Masukkan perihalan untuk Dek anda";
+"createDeck_action_create"="Buat";
+
+"cardDeck_noCards"="Tiada kad dalam dek ini";
+"cardDeck_action_addCards"="Tambah Kad";
+
+"editCardSet_menu_addCards"="Tambah Kad";
+"editCardSet_menu_removeCards"="Keluarkan Kad";
+"editCardSet_menu_sortCards"="Isih Kad";
+"editCardSet_menu_totalPrice"="Jumlah Anggaran Harga";
+"editCardSet_menu_renameCollection"="Namakan semula Koleksi";
+"editCardSet_menu_deleteCollection"="Padamkan Koleksi";
+"editCardSet_menu_editDeck"="Edit Dek";
+"editCardSet_menu_deleteDeck"="Padam Dek";
+
+"editDeck_title"="Kemas Kini Dek";
+
+"legalityOption_standard"="Standard";
+"legalityOption_pioneer"="perintis";
+"legalityOption_modern"="Moden";
+"legalityOption_legacy"="Legasi";
+"legalityOption_vintage"="vintaj";
+"legalityOption_commander"="Panglima";
+"legalityOption_oathbreaker"="Pelanggar sumpah";
+"legalityOption_alchemy"="Alkimia";
+"legalityOption_explorer"="Penjelajah";
+"legalityOption_brawl"="Bergaduh";
+"legalityOption_historic"="Bersejarah";
+"legalityOption_pauper"="orang miskin";
+"legalityOption_penny"="sen";
+
+"cardLegality_legal"="sah";
+"cardLegality_notLegal"="Bukan Sah";
+
+"magicCard_color_white"="putih";
+"magicCard_color_blue"="Biru";
+"magicCard_color_black"="Hitam";
+"magicCard_color_red"="merah";
+"magicCard_color_green"="hijau";
+"magicCard_color_colorless"="Tidak berwarna";
+
+"alert_noInternetConnection_title"="Isu Ketersambungan";
+"alert_noInternetConnection_message"="Sambungan Internet kelihatan di luar talian ☹️";
+"alert_needRecentLogin_title"="Sahkan semula";
+"alert_needRecentLogin_message"="Untuk memadam akaun, log masuk baru-baru ini diperlukan";
+"alert_needRecentLogin_action_logOut"="Log keluar";

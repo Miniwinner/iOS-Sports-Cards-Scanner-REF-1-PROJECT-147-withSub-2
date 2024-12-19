@@ -1,0 +1,287 @@
+"common_close"="Κλείσε";
+"common_cancel"="Ματαίωση";
+"common_done"="Εγινε";
+"common_reset"="Επαναφορά";
+"common_error"="Ωχ! Κάτι πήγε στραβά";
+"common_ok"="Εντάξει";
+
+"splash_loading"="Φόρτωση";
+
+"signIn_title"="Συνδεθείτε";
+"signIn_email_title"="Διεύθυνση ηλεκτρονικού ταχυδρομείου";
+"signIn_email_placeholder"="Εισάγετε ηλεκτρονική διεύθυνση";
+"signIn_password_title"="Εισάγετε τον κωδικό πρόσβασης";
+"signIn_password_placeholder"="Εισάγετε τον κωδικό πρόσβασης";
+"signIn_password_forgot"="Ξεχάσατε τον κωδικό;";
+"signIn_action_signIn"="Συνδεθείτε";
+"signIn_action_signUp"="Εγγραφείτε";
+"signIn_signInWith"="Συνδεθείτε με";
+"signIn_noAccount"="Δεν έχετε λογαριασμό;";
+"signIn_action_signUp"="Εγγραφείτε";
+"signIn_error_invalidEmail"="Παρακαλώ εισάγετε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου";
+"signIn_error_userNotFound"="Εισαγάγετε ένα έγκυρο email και κωδικό πρόσβασης";
+"signIn_error_wrongPassword"="Εισαγάγετε τον σωστό κωδικό πρόσβασης";
+"signIn_welcome"="Καλως ορισες πισω!";
+"signIn_ask"="Εισαγάγετε τα στοιχεία σύνδεσής σας";
+"signInLogInWith"="Συνδέσου με.";
+
+"signUp_title"="Εγγραφείτε";
+"signUp_email_title"="Διεύθυνση ηλεκτρονικού ταχυδρομείου";
+"signUp_email_placeholder"="Εισάγετε τη διευθύνση του ηλεκτρονικού ταχυδρομείου σας";
+"signUp_password_title"="Κωδικός πρόσβασης";
+"signUp_password_placeholder"="Εισάγετε τον κωδικό σας";
+"signUp_password_requirements"="Οι κωδικοί πρόσβασης πρέπει να είναι τουλάχιστον 8 χαρακτήρες και να περιλαμβάνουν τουλάχιστον ένα κεφαλαίο γράμμα (A-Z), ένα πεζό γράμμα (a-z), έναν αριθμό (0-9) και έναν ειδικό χαρακτήρα (π.χ., ! % @ ή #).";
+"signUp_confirmPassword_title"="Επιβεβαίωση κωδικού πρόσβασης";
+"signUp_confirmPassword_placeholder"="Εισαγάγετε την επιβεβαίωση του κωδικού πρόσβασής σας";
+"signUp_action_signUp"="Εγγραφείτε";
+"signUp_action_signIn"="Συνδεθείτε";
+"signUp_signInWith"="Συνδεθείτε με";
+"signUp_haveAccount"="Έχετε ήδη λογαριασμό?";
+"signUp_error_invalidEmail"="Παρακαλώ εισάγετε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου";
+"signUp_error_existUser"="Υπάρχει ήδη λογαριασμός με αυτήν τη διεύθυνση email";
+"signUp_error_noPasswordRequirements"="Ο κωδικός πρόσβασης πρέπει να πληροί τις απαιτήσεις κωδικού πρόσβασης";
+"signUp_error_passwordsMismatch"="οι κωδικοί πρέπει να ταιριάζουν";
+
+"dashboard_title"="Ταμπλό";
+"dashboard_welcome_title"="Βήμα στο μέλλον της συλλογής καρτών";
+"dashboard_welcome_description"="Σαρώστε μια κάρτα για να επεκτείνετε τη συλλογή σας";
+"dashboard_scanInstructions"="Πατήστε για να ξεκινήσει η σάρωση της κάρτας σας.";
+"dashboard_currentValue"="Τρέχουσα τιμή";
+"dashboard_highestValue"="Υψηλότερη Αξία";
+"dashboard_recentlyAdded"="Πρόσφατα προστέθηκε";
+"dashboard_action_scanCard"="Κάρτα σάρωσης";
+
+"portfolio_title"="Χαρτοφυλάκιο";
+"portfolio_scanInstructions"="Πατήστε για να ανοίξετε τον σαρωτή και την πρώτη σας κάρτα";
+"portfolio_collection_create"="Δημιουργία συλλογής";
+"portfolio_deck_create"="Δημιουργία καταστρώματος";
+"portfolio_deck_description"="Τράπουλα παιχνιδιών με κάρτες";
+"portfolio_collection_description"="Προσαρμοσμένη συλλογή";
+"portfolio_cards"="Καρτέλλες";
+"portfolio_oneCard"="1 κάρτα";
+"portfolio_numberOfCards"="%d κάρτες";
+"portfolio_allCards"="Όλες οι κάρτες";
+"portfolio_estimatedValue"="Συνολική εκτιμώμενη αξία";
+"portfolio_scanToAdd"="Σαρώστε μια κάρτα για να την προσθέσετε στη συλλογή σας";
+
+"more_title"="Περισσότερο";
+"more_item_cardCategories"="Κατηγορίες καρτών";
+"more_item_updatePassword"="Ενημέρωση κωδικού πρόσβασης";
+"more_item_privacyPolicy"="Πολιτική Απορρήτου";
+"more_item_termsAndConditions"="Οροι χρήσης";
+"more_item_pushNotifications"="Ενεργοποίηση Push Notifications";
+"more_item_logout"="Αποσύνδεση";
+"more_item_deleteAccount"="Διαγραφή λογαριασμού";
+
+"cardCategories_title"="Κατηγορίες καρτών";
+"cardCategories_description"="Επιλέξτε τους τύπους καρτών που θέλετε να συμπεριλάβετε στο χαρτοφυλάκιο και στο σαρωτή σας";
+"cardCategories_minEnabledCategories"="Πρέπει να διατηρήσετε τουλάχιστον μία ενεργή κατηγορία.";
+
+"updatePassword_title"="Ενημέρωση κωδικού πρόσβασης";
+"updatePassword_newPassword_title"="Δημιουργία νέου κωδικού πρόσβασης";
+"updatePassword_newPassword_placeholder"="Εισάγετε νέο κωδικό";
+"updatePassword_confirmNewPassword_title"="Επιβεβαιώστε τον καινούριο σας κωδικό";
+"updatePassword_confirmNewPassword_placeholder"="Εισαγάγετε ξανά νέο κωδικό πρόσβασης";
+"updatePassword_newPassword_requirements"="Οι κωδικοί πρόσβασης πρέπει να είναι τουλάχιστον 8 χαρακτήρες και να περιλαμβάνουν τουλάχιστον ένα κεφαλαίο γράμμα (A-Z), ένα πεζό γράμμα (a-z), έναν αριθμό (0-9) και έναν ειδικό χαρακτήρα (π.χ., ! % @ ή #).";
+"updatePassword_newPassword_cut1"="8 χαρακτήρες";
+"updatePassword_newPassword_cut2"="ένα κεφαλαίο γράμμα";
+"updatePassword_newPassword_cut3"="ένα πεζό γράμμα";
+"updatePassword_newPassword_cut4"="ένας αριθμός";
+"updatePassword_newPassword_cut5"="έναν ιδιαίτερο χαρακτήρα";
+"updatePassword_action_save"="Αποθηκεύσετε";
+"updatePassword_error_noPasswordRequirements"="Ο κωδικός πρόσβασης πρέπει να πληροί τις απαιτήσεις κωδικού πρόσβασης";
+"updatePassword_error_passwordsMismatch"="οι κωδικοί πρέπει να ταιριάζουν";
+"updatePassword_error_needReauthenticate"="Ελέγξτε ξανά την ταυτότητα για να αλλάξετε τον κωδικό πρόσβασής σας";
+
+"cardCategory_baseball"="Μπέιζμπολ";
+"cardCategory_pokemon"="ΠΟΚΕΜΟΝ";
+"cardCategory_basketball"="Μπάσκετ";
+"cardCategory_football"="Ποδόσφαιρο";
+"cardCategory_magic"="Magic: The Gathering";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Χακί";
+"cardCategory_soccer"="Ποδόσφαιρο";
+
+"forgotPassword_title"="Ξεχάσατε τον κωδικό";
+"forgotPassword_description"="Εισαγάγετε τη διεύθυνση email του λογαριασμού σας και θα σας στείλουμε οδηγίες για να επαναφέρετε τον κωδικό πρόσβασής σας";
+"forgotPassword_email_title"="Διεύθυνση ηλεκτρονικού ταχυδρομείου";
+"forgotPassword_email_placeholder"="Εισάγετε τη διευθύνση του ηλεκτρονικού ταχυδρομείου σας";
+"forgotPassword_action_send"="Στείλετε";
+"forgotPassword_error_userNotFound"="Δεν υπάρχουν χρήστες με αυτήν τη διεύθυνση email";
+"forgotPassword_error_invalidEmail"="Παρακαλώ εισάγετε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου";
+
+"resetPassword_title"="Επαναφέρετε τον κωδικό πρόσβασης";
+"resetPassword_emailSent"="Οι οδηγίες επαναφοράς κωδικού πρόσβασης έχουν σταλεί στη διεύθυνση email: %@";
+
+"scanCard_cardSide_front"="Μπροστινό μέρος της κάρτας";
+"scanCard_noAuthorization_title"="Επιτρέψτε στον %@ να έχει πρόσβαση στην κάμερά σας";
+"scanCard_noAuthorization_description"="Αυτό σας επιτρέπει να σαρώσετε κάρτες";
+"scanCard_action_openSettings"="Ανοίξτε τις Ρυθμίσεις";
+"scanCard_gradeType_graded"="Βαθμολογήθηκε";
+"scanCard_gradeType_raw"="Ακατέργαστος";
+
+"prompt_action_cancel"="Ματαίωση";
+"prompt_title"="Είσαι σίγουρος?";
+"prompt_logout_description"="Είστε βέβαιοι ότι θέλετε να καταργήσετε τον λογαριασμό σας;";
+"prompt_logout_confirmAction"="Αποσύνδεση";
+"prompt_deleteAccount_description"="Η διαγραφή της συλλογής δεν θα αφαιρέσει τις κάρτες. θα παραμείνουν στο χαρτοφυλάκιό σας.";
+"prompt_deleteAccount_keepAction"="Διατήρηση";
+"prompt_deleteAccount_sure"="Είστε βέβαιοι ότι θέλετε να καταργήσετε τον λογαριασμό σας;";
+"prompt_deleteAccount_confirmAction"="Διαγράφω";
+"prompt_deleteCollection_description"="Η διαγραφή της συλλογής δεν θα διαγράψει τις κάρτες μέσα στη συλλογή. Οι κάρτες θα παραμείνουν στο χαρτοφυλάκιό σας.";
+"prompt_deleteCollection_keepAction"="Διατήρηση";
+"prompt_deleteCollection_confirmAction"="Διαγράφω";
+"prompt_deleteDeck_description"="Η διαγραφή της τράπουλας δεν θα διαγράψει τις κάρτες μέσα στην τράπουλα. Οι κάρτες θα παραμείνουν στο χαρτοφυλάκιό σας.";
+"prompt_deleteDeck_keepAction"="Διατήρηση";
+"prompt_deleteDeck_confirmAction"="Διαγράφω";
+"prompt_removeCard_description"="Πρόκειται να αφαιρέσετε αυτήν την κάρτα από το χαρτοφυλάκιό σας. Αυτή η κάρτα θα πρέπει να σαρωθεί ξανά για να την προστεθεί ξανά στο χαρτοφυλάκιό σας.";
+"prompt_removeCard_keepAction"="Διατήρηση";
+"prompt_removeCard_confirmAction"="Αφαιρώ";
+
+"identifyingCard_title"="%@ Η κάρτα καταγράφηκε";
+"identifyingCard_processTitle"="Ταυτότητα...";
+"identifyingCard_action_cancel"="Ακύρωση ΣΑΡΩΣΗΣ";
+
+"searchCard_title"="Αναζήτηση κάρτας";
+"searchCard_search_placeholder"="Αναζήτηση κάρτας";
+"searchCard_error_tryAgain"="Προσπάθησε ξανά! Συνέχισε να ψάχνεις!";
+
+"card_missingImage"="Λείπει\nΕικόνα";
+
+"cardDetails_action_addCard"="Προσθήκη στο χαρτοφυλάκιο";
+"cardDetails_action_findCard"="Εύρεση κάρτας";
+"cardDetails_action_editCard"="Επεξεργασία κάρτας και βαθμού";
+"cardDetails_action_removeCard"="Κατάργηση από το χαρτοφυλάκιο";
+
+"pricingReport_setCustomPrice"="Ορισμός προσαρμοσμένης τιμής";
+"pricingReport_editCustomPrice"="Επεξεργασία προσαρμοσμένης τιμής";
+"pricingReport_viewReport"="Προβολή αναφοράς τιμολόγησης";
+"pricingReport_valueEstimating"="Εκτίμηση αξίας σε εκκρεμότητα";
+
+"pricingReport_details_priceReport"="Αναφορά τιμής";
+"pricingReport_details_lastSoldPrice"="Τελευταία τιμή πώλησης";
+"pricingReport_details_lastSoldDate"="Ημερομηνία τελευταίας πώλησης";
+"pricingReport_details_recentSales"="Πρόσφατες πωλήσεις";
+"pricingReport_details_noSales"="Δεν υπάρχουν πρόσφατες πωλήσεις";
+
+"cardDetail_year"="Έτος κάρτας";
+"cardDetail_cardNumber"="Κάρτα #";
+"cardDetail_set"="Σειρά";
+"cardDetail_series"="Σειρά";
+"cardDetail_parallel"="Παράλληλο";
+"cardDetail_grade"="Βαθμός";
+"cardDetail_ungraded"="Χωρίς διαβάθμιση";
+"cardDetail_color"="Χρώμα";
+"cardDetail_colors"="Χρωματιστά";
+"cardDetail_type"="Τύπος";
+"cardDetail_manaValue"="Αξία Mana";
+"cardDetail_power"="Εξουσία";
+"cardDetail_toughness"="Σκληρότητα";
+"cardDetail_rarity"="Σπανιότητα";
+
+"recentlyAdded_title"="Κάρτες που προστέθηκαν πρόσφατα";
+
+"highestValue_title"="Κάρτες υψηλότερης αξίας";
+
+"currentValue_title"="Τρέχουσα τιμή";
+"currentValue_valueByCategory"="Αξία ανά κατηγορία";
+
+"editCard_title"="Επεξεργασία λεπτομερειών";
+"editCard_parallel"="Παράλληλο";
+"editCard_grade"="Βαθμός";
+"editCard_customPrice"="Ορισμός προσαρμοσμένης τιμής";
+"editCard_action_updateDetails"="Ενημέρωση λεπτομερειών";
+"editCard_valueEstimating"="Εκτίμηση αξίας σε εκκρεμότητα";
+
+"parallelSelection_title"="Παράλληλο";
+"parallelSelection_search_placeholder"="Αναζήτηση";
+"parallelSelection_allOptions"="Όλες οι Επιλογές";
+"parallelSelection_missingSample"="Λείπει δείγμα";
+"parallelSelection_noResult"="Δεν βρέθηκαν αποτελέσματα";
+"parallelSelection_action_none"="Κανένας";
+
+"gradeSelection_title"="Βαθμός";
+"gradeSelection_selectGrader"="Επιλέξτε Grader";
+"gradeSelection_selectGrade"="Επιλέξτε Βαθμός";
+
+"createCollection_title"="Δημιουργία Νέας Συλλογής";
+"createCollection_collectionName_placeholder"="Ονομάστε τη συλλογή σας";
+"createCollection_action_create"="Δημιουργώ";
+
+"cardCollection_estimatedValue"="Εκτιμώμενη αξία";
+"cardCollection_noCards"="Αυτή η Συλλογή δεν έχει κάρτες";
+"cardCollection_action_addCards"="Προσθήκη καρτών";
+
+"addCards_title"="Προσθήκη καρτών στο \"%@\"";
+"addCards_titleNoName_collection"="Προσθήκη καρτών στη συλλογή";
+"addCards_titleNoName_deck"="Προσθήκη καρτών στην τράπουλα";
+"addCards_oneCardSelected"="Επιλέχθηκε 1 κάρτα";
+"addCards_numberOfCardsSelected"="Επιλέχθηκαν %d κάρτες";
+"addCards_action_selectAll"="Επιλογή όλων";
+"addCards_allCards"="Όλες οι κάρτες";
+"addCards_search_placeholder"="Αναζήτηση κάρτας";
+"addCards_noResult"="Δεν βρέθηκαν αποτελέσματα";
+
+"sortCards_title"="Ταξινόμηση κατά";
+"sortCards_option_dateRecent"="Ημερομηνία αποθήκευσης: Πρόσφατη-Παλαιότερη";
+"sortCards_option_dateOldest"="Ημερομηνία αποθήκευσης: Παλαιότερο-Πρόσφατο";
+"sortCards_option_nameDirect"="Όνομα κάρτας: A-Z";
+"sortCards_option_nameReverse"="Όνομα κάρτας: Z-A";
+"sortCards_option_yearRecent"="Έτος κάρτας: Πρόσφατο-Παλαιότερο";
+"sortCards_option_yearOldest"="Έτος κάρτας: Παλαιότερο-Πρόσφατο";
+
+"editCollection_title"="Ενημέρωση συλλογής";
+"editCollection_collectionName_placeholder"="Μετονομάστε τη συλλογή σας";
+
+"createDeck_title"="Δημιουργήστε νέα τράπουλα";
+"createDeck_deckName_title"="Ονομάστε την τράπουλα σας";
+"createDeck_deckName_placeholder"="Εισαγάγετε ένα όνομα";
+"createDeck_deckType_title"="Τύπος καταστρώματος";
+"createDeck_deckType_select"="Επιλέξτε μια κατηγορία κάρτας";
+"createDeck_description_title"="Περιγραφή (προαιρετική)";
+"createDeck_description_placeholder"="Εισαγάγετε μια περιγραφή για το Deck σας";
+"createDeck_action_create"="Δημιουργώ";
+
+"cardDeck_noCards"="Δεν υπάρχουν φύλλα σε αυτή την τράπουλα";
+"cardDeck_action_addCards"="Προσθήκη καρτών";
+
+"editCardSet_menu_addCards"="Προσθήκη καρτών";
+"editCardSet_menu_removeCards"="Αφαίρεση καρτών";
+"editCardSet_menu_sortCards"="Ταξινόμηση καρτών";
+"editCardSet_menu_totalPrice"="Εκτίμηση Συνολικής Τιμής";
+"editCardSet_menu_renameCollection"="Μετονομασία συλλογής";
+"editCardSet_menu_deleteCollection"="Διαγραφή συλλογής";
+"editCardSet_menu_editDeck"="Edit Deck";
+"editCardSet_menu_deleteDeck"="Διαγραφή τράπουλας";
+
+"editDeck_title"="Ενημέρωση καταστρώματος";
+
+"legalityOption_standard"="Πρότυπο";
+"legalityOption_pioneer"="Πρωτοπόρος";
+"legalityOption_modern"="Μοντέρνο";
+"legalityOption_legacy"="Κληρονομιά";
+"legalityOption_vintage"="Σοδειά";
+"legalityOption_commander"="Διοικητής";
+"legalityOption_oathbreaker"="Ορκωτός";
+"legalityOption_alchemy"="Αλχημεία";
+"legalityOption_explorer"="Εξερευνητής";
+"legalityOption_brawl"="Φιλονικία";
+"legalityOption_historic"="Ιστορικός";
+"legalityOption_pauper"="Απορος";
+"legalityOption_penny"="Σεντ";
+
+"cardLegality_legal"="Νομικός";
+"cardLegality_notLegal"="Όχι Νομική";
+
+"magicCard_color_white"="άσπρο";
+"magicCard_color_blue"="Μπλε";
+"magicCard_color_black"="Μαύρος";
+"magicCard_color_red"="το κόκκινο";
+"magicCard_color_green"="Πράσινος";
+"magicCard_color_colorless"="Αχρωμος";
+
+"alert_noInternetConnection_title"="Ζήτημα συνδεσιμότητας";
+"alert_noInternetConnection_message"="Η σύνδεση στο Διαδίκτυο φαίνεται να είναι εκτός σύνδεσης ☹️";
+"alert_needRecentLogin_title"="Εκ νέου έλεγχος ταυτότητας";
+"alert_needRecentLogin_message"="Για να διαγράψετε έναν λογαριασμό, απαιτείται πρόσφατη σύνδεση";
+"alert_needRecentLogin_action_logOut"="Αποσύνδεση";

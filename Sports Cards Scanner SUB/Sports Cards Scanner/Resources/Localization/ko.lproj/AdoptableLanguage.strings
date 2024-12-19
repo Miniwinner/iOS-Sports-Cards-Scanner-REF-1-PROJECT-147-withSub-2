@@ -1,0 +1,287 @@
+"common_close"="닫다";
+"common_cancel"="취소";
+"common_done"="완료";
+"common_reset"="초기화";
+"common_error"="아차! 문제가 발생했습니다";
+"common_ok"="좋아요";
+
+"splash_loading"="로드 중";
+
+"signIn_title"="로그인";
+"signIn_email_title"="이메일 주소";
+"signIn_email_placeholder"="이메일을 입력하세요";
+"signIn_password_title"="암호를 입력";
+"signIn_password_placeholder"="암호를 입력";
+"signIn_password_forgot"="비밀번호를 잊으 셨나요?";
+"signIn_action_signIn"="로그인";
+"signIn_action_signUp"="가입하기";
+"signIn_signInWith"="으로 로그인";
+"signIn_noAccount"="계정이 없나요?";
+"signIn_action_signUp"="가입하기";
+"signIn_error_invalidEmail"="유효한 이메일 주소를 입력하세요";
+"signIn_error_userNotFound"="유효한 이메일과 비밀번호를 입력해주세요";
+"signIn_error_wrongPassword"="올바른 비밀번호를 입력해주세요";
+"signIn_welcome"="돌아온 것을 환영합니다!";
+"signIn_ask"="로그인 정보를 입력해주세요";
+"signInLogInWith"="다음으로 로그인하세요.";
+
+"signUp_title"="가입하기";
+"signUp_email_title"="이메일 주소";
+"signUp_email_placeholder"="당신의 이메일 주소를 입력 해주세요";
+"signUp_password_title"="비밀번호";
+"signUp_password_placeholder"="비밀번호를 입력하세요";
+"signUp_password_requirements"="비밀번호는 최소 8자 이상이어야 하며 최소 하나의 대문자(A-Z), 하나의 소문자(a-z), 하나의 숫자(0-9) 및 하나의 특수 문자(예: ! % @ 또는 #)를 포함해야 합니다.";
+"signUp_confirmPassword_title"="비밀번호 확인";
+"signUp_confirmPassword_placeholder"="비밀번호 확인을 입력하세요";
+"signUp_action_signUp"="가입하기";
+"signUp_action_signIn"="로그인";
+"signUp_signInWith"="으로 로그인";
+"signUp_haveAccount"="이미 계정이 있나요?";
+"signUp_error_invalidEmail"="유효한 이메일 주소를 입력하세요";
+"signUp_error_existUser"="이 이메일 주소를 사용하는 계정이 이미 존재합니다.";
+"signUp_error_noPasswordRequirements"="비밀번호는 비밀번호 요구 사항을 충족해야 합니다.";
+"signUp_error_passwordsMismatch"="비밀번호가 일치해야합니다";
+
+"dashboard_title"="계기반";
+"dashboard_welcome_title"="카드 컬렉션의 미래를 경험해보세요";
+"dashboard_welcome_description"="카드를 스캔하여 컬렉션을 확장하세요";
+"dashboard_scanInstructions"="탭하여 카드 스캔을 시작하세요.";
+"dashboard_currentValue"="현재 가치";
+"dashboard_highestValue"="최고 가치";
+"dashboard_recentlyAdded"="최근에 추가";
+"dashboard_action_scanCard"="카드 스캔";
+
+"portfolio_title"="포트폴리오";
+"portfolio_scanInstructions"="탭하여 스캐너와 첫 번째 카드를 엽니다.";
+"portfolio_collection_create"="컬렉션 만들기";
+"portfolio_deck_create"="덱 만들기";
+"portfolio_deck_description"="트레이딩 카드 게임 데크";
+"portfolio_collection_description"="맞춤 컬렉션";
+"portfolio_cards"="카드";
+"portfolio_oneCard"="카드 1개";
+"portfolio_numberOfCards"="%d개의 카드";
+"portfolio_allCards"="모든 카드";
+"portfolio_estimatedValue"="총 추정 가치";
+"portfolio_scanToAdd"="컬렉션에 추가하려면 카드를 스캔하세요.";
+
+"more_title"="더";
+"more_item_cardCategories"="카드 카테고리";
+"more_item_updatePassword"="비밀번호 업데이트";
+"more_item_privacyPolicy"="개인 정보 정책";
+"more_item_termsAndConditions"="이용약관";
+"more_item_pushNotifications"="푸시 알림 활성화";
+"more_item_logout"="로그 아웃";
+"more_item_deleteAccount"="계정 삭제";
+
+"cardCategories_title"="카드 카테고리";
+"cardCategories_description"="포트폴리오와 스캐너에 포함할 카드 유형을 선택하세요.";
+"cardCategories_minEnabledCategories"="하나 이상의 활성 카테고리를 유지해야 합니다.";
+
+"updatePassword_title"="비밀번호 업데이트";
+"updatePassword_newPassword_title"="새 비밀번호 만들기";
+"updatePassword_newPassword_placeholder"="새 비밀번호를 입력하십시오";
+"updatePassword_confirmNewPassword_title"="새 암호를 확인합니다";
+"updatePassword_confirmNewPassword_placeholder"="새 비밀번호를 다시 입력하세요.";
+"updatePassword_newPassword_requirements"="비밀번호는 최소 8자 이상이어야 하며 최소 하나의 대문자(A-Z), 하나의 소문자(a-z), 하나의 숫자(0-9) 및 하나의 특수 문자(예: ! % @ 또는 #)를 포함해야 합니다.";
+"updatePassword_newPassword_cut1"="8자";
+"updatePassword_newPassword_cut2"="대문자 1개";
+"updatePassword_newPassword_cut3"="소문자 1개";
+"updatePassword_newPassword_cut4"="하나의 숫자";
+"updatePassword_newPassword_cut5"="특수 문자 하나";
+"updatePassword_action_save"="구하다";
+"updatePassword_error_noPasswordRequirements"="비밀번호는 비밀번호 요구 사항을 충족해야 합니다.";
+"updatePassword_error_passwordsMismatch"="비밀번호가 일치해야합니다";
+"updatePassword_error_needReauthenticate"="비밀번호를 변경하려면 재인증하세요.";
+
+"cardCategory_baseball"="야구";
+"cardCategory_pokemon"="포켓몬";
+"cardCategory_basketball"="농구";
+"cardCategory_football"="축구";
+"cardCategory_magic"="매직: 더 개더링";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="하키";
+"cardCategory_soccer"="축구";
+
+"forgotPassword_title"="비밀번호를 잊으 셨나요";
+"forgotPassword_description"="계정의 이메일 주소를 입력하시면 비밀번호 재설정 지침을 보내드립니다.";
+"forgotPassword_email_title"="이메일 주소";
+"forgotPassword_email_placeholder"="당신의 이메일 주소를 입력 해주세요";
+"forgotPassword_action_send"="보내다";
+"forgotPassword_error_userNotFound"="이 이메일 주소를 사용하는 사용자가 없습니다";
+"forgotPassword_error_invalidEmail"="유효한 이메일 주소를 입력하세요";
+
+"resetPassword_title"="암호를 재설정";
+"resetPassword_emailSent"="비밀번호 재설정 지침이 이메일 주소로 전송되었습니다: %@";
+
+"scanCard_cardSide_front"="카드 앞면";
+"scanCard_noAuthorization_title"="%@이(가) 카메라에 액세스하도록 허용하세요";
+"scanCard_noAuthorization_description"="이렇게 하면 카드를 스캔할 수 있습니다.";
+"scanCard_action_openSettings"="설정 열기";
+"scanCard_gradeType_graded"="등급이 매겨진";
+"scanCard_gradeType_raw"="날것의";
+
+"prompt_action_cancel"="취소";
+"prompt_title"="확실합니까?";
+"prompt_logout_description"="계정을 삭제하시겠습니까?";
+"prompt_logout_confirmAction"="로그 아웃";
+"prompt_deleteAccount_description"="컬렉션을 삭제해도 카드는 제거되지 않습니다. 그들은 당신의 포트폴리오에 남을 것입니다.";
+"prompt_deleteAccount_keepAction"="유지하다";
+"prompt_deleteAccount_sure"="계정을 삭제하시겠습니까?";
+"prompt_deleteAccount_confirmAction"="삭제";
+"prompt_deleteCollection_description"="컬렉션을 삭제해도 컬렉션 내의 카드는 삭제되지 않습니다. 카드는 귀하의 포트폴리오에 유지됩니다.";
+"prompt_deleteCollection_keepAction"="유지하다";
+"prompt_deleteCollection_confirmAction"="삭제";
+"prompt_deleteDeck_description"="덱을 삭제해도 덱 내의 카드는 삭제되지 않습니다. 카드는 귀하의 포트폴리오에 유지됩니다.";
+"prompt_deleteDeck_keepAction"="유지하다";
+"prompt_deleteDeck_confirmAction"="삭제";
+"prompt_removeCard_description"="귀하의 포트폴리오에서 이 카드를 제거하려고 합니다. 포트폴리오에 다시 추가하려면 이 카드를 다시 스캔해야 합니다.";
+"prompt_removeCard_keepAction"="유지하다";
+"prompt_removeCard_confirmAction"="제거하다";
+
+"identifyingCard_title"="%@ 카드 캡처됨";
+"identifyingCard_processTitle"="신분증...";
+"identifyingCard_action_cancel"="스캔 취소";
+
+"searchCard_title"="검색 카드";
+"searchCard_search_placeholder"="카드 검색";
+"searchCard_error_tryAgain"="다시 시도하십시오! 계속 검색하세요!";
+
+"card_missingImage"="누락된\n이미지";
+
+"cardDetails_action_addCard"="포트폴리오에 추가";
+"cardDetails_action_findCard"="카드 찾기";
+"cardDetails_action_editCard"="카드 및 등급 수정";
+"cardDetails_action_removeCard"="포트폴리오에서 제거";
+
+"pricingReport_setCustomPrice"="맞춤 가격 설정";
+"pricingReport_editCustomPrice"="맞춤 가격 수정";
+"pricingReport_viewReport"="가격 보고서 보기";
+"pricingReport_valueEstimating"="가치 추정 보류 중";
+
+"pricingReport_details_priceReport"="가격 보고서";
+"pricingReport_details_lastSoldPrice"="최종 판매 가격";
+"pricingReport_details_lastSoldDate"="마지막 판매일";
+"pricingReport_details_recentSales"="최근 판매";
+"pricingReport_details_noSales"="최근 판매 없음";
+
+"cardDetail_year"="카드 연도";
+"cardDetail_cardNumber"="카드 #";
+"cardDetail_set"="세트";
+"cardDetail_series"="시리즈";
+"cardDetail_parallel"="평행한";
+"cardDetail_grade"="등급";
+"cardDetail_ungraded"="미채점";
+"cardDetail_color"="색상";
+"cardDetail_colors"="그림 물감";
+"cardDetail_type"="유형";
+"cardDetail_manaValue"="마나 값";
+"cardDetail_power"="힘";
+"cardDetail_toughness"="인성";
+"cardDetail_rarity"="희박";
+
+"recentlyAdded_title"="최근 추가된 카드";
+
+"highestValue_title"="최고 가치의 카드";
+
+"currentValue_title"="현재 가치";
+"currentValue_valueByCategory"="카테고리별 가치";
+
+"editCard_title"="세부정보 편집";
+"editCard_parallel"="평행한";
+"editCard_grade"="등급";
+"editCard_customPrice"="맞춤 가격 설정";
+"editCard_action_updateDetails"="업데이트 세부정보";
+"editCard_valueEstimating"="가치 추정 보류 중";
+
+"parallelSelection_title"="평행한";
+"parallelSelection_search_placeholder"="찾다";
+"parallelSelection_allOptions"="모든 옵션";
+"parallelSelection_missingSample"="샘플 누락";
+"parallelSelection_noResult"="검색 결과가 없습니다";
+"parallelSelection_action_none"="없음";
+
+"gradeSelection_title"="등급";
+"gradeSelection_selectGrader"="그레이더 선택";
+"gradeSelection_selectGrade"="등급 선택";
+
+"createCollection_title"="새 컬렉션 만들기";
+"createCollection_collectionName_placeholder"="컬렉션 이름 지정";
+"createCollection_action_create"="만들다";
+
+"cardCollection_estimatedValue"="추정 값";
+"cardCollection_noCards"="이 컬렉션에는 카드가 없습니다.";
+"cardCollection_action_addCards"="카드 추가";
+
+"addCards_title"="\"%@\"에 카드 추가";
+"addCards_titleNoName_collection"="컬렉션에 카드 추가";
+"addCards_titleNoName_deck"="덱에 카드 추가";
+"addCards_oneCardSelected"="카드 1개 선택됨";
+"addCards_numberOfCardsSelected"="%d개의 카드가 선택되었습니다.";
+"addCards_action_selectAll"="모두 선택";
+"addCards_allCards"="모든 카드";
+"addCards_search_placeholder"="카드 검색";
+"addCards_noResult"="검색 결과가 없습니다";
+
+"sortCards_title"="정렬 기준";
+"sortCards_option_dateRecent"="저장된 날짜: 최근부터 오래된 것까지";
+"sortCards_option_dateOldest"="저장된 날짜: 가장 오래된 것부터 최근까지";
+"sortCards_option_nameDirect"="카드 이름: A-Z";
+"sortCards_option_nameReverse"="카드명 : Z-A";
+"sortCards_option_yearRecent"="카드 연도: 최근부터 오래된 것까지";
+"sortCards_option_yearOldest"="카드 연도: 가장 오래된 것부터 최근까지";
+
+"editCollection_title"="컬렉션 업데이트";
+"editCollection_collectionName_placeholder"="컬렉션 이름 바꾸기";
+
+"createDeck_title"="새 덱 만들기";
+"createDeck_deckName_title"="덱 이름 지정";
+"createDeck_deckName_placeholder"="이름을 입력하세요";
+"createDeck_deckType_title"="데크 유형";
+"createDeck_deckType_select"="카드 카테고리를 선택하세요";
+"createDeck_description_title"="설명 (선택 사항)";
+"createDeck_description_placeholder"="덱에 대한 설명을 입력하세요.";
+"createDeck_action_create"="만들다";
+
+"cardDeck_noCards"="이 덱에는 카드가 없습니다";
+"cardDeck_action_addCards"="카드 추가";
+
+"editCardSet_menu_addCards"="카드 추가";
+"editCardSet_menu_removeCards"="카드 제거";
+"editCardSet_menu_sortCards"="카드 정렬";
+"editCardSet_menu_totalPrice"="총 가격 견적";
+"editCardSet_menu_renameCollection"="컬렉션 이름 바꾸기";
+"editCardSet_menu_deleteCollection"="컬렉션 삭제";
+"editCardSet_menu_editDeck"="덱 편집";
+"editCardSet_menu_deleteDeck"="덱 삭제";
+
+"editDeck_title"="덱 업데이트";
+
+"legalityOption_standard"="기준";
+"legalityOption_pioneer"="개척자";
+"legalityOption_modern"="현대의";
+"legalityOption_legacy"="유산";
+"legalityOption_vintage"="포도 수확";
+"legalityOption_commander"="사령관";
+"legalityOption_oathbreaker"="맹세파괴자";
+"legalityOption_alchemy"="연금술";
+"legalityOption_explorer"="탐침";
+"legalityOption_brawl"="말다툼";
+"legalityOption_historic"="역사적인";
+"legalityOption_pauper"="극빈자";
+"legalityOption_penny"="페니";
+
+"cardLegality_legal"="합법적인";
+"cardLegality_notLegal"="불법";
+
+"magicCard_color_white"="하얀색";
+"magicCard_color_blue"="파란색";
+"magicCard_color_black"="검은색";
+"magicCard_color_red"="빨간색";
+"magicCard_color_green"="녹색";
+"magicCard_color_colorless"="무색";
+
+"alert_noInternetConnection_title"="연결 문제";
+"alert_noInternetConnection_message"="인터넷 연결이 오프라인인 것 같습니다 ☹️";
+"alert_needRecentLogin_title"="재인증";
+"alert_needRecentLogin_message"="계정을 삭제하려면 최근 로그인이 필요합니다";
+"alert_needRecentLogin_action_logOut"="로그 아웃";

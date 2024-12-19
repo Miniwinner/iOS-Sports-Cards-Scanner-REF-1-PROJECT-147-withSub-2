@@ -1,0 +1,3 @@
+"NSUserTrackingUsageDescription" = "Veuillez nous permettre de suivre votre activité dans l'application afin que nous puissions utiliser les données sur vos interactions avec les fonctionnalités de l'application pour améliorer les performances de l'application et vous fournir des recommandations et du contenu personnalisés en fonction de vos préférences";
+
+"NSCameraUsageDescription" = "Cette application utilise la caméra pour scanner les cartes.";

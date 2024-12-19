@@ -1,0 +1,129 @@
+"common_close" = "Tanca";
+"common_cancel" = "Cancel·la";
+"common_done" = "Fet";
+"common_reset" = "Reinicia";
+"common_error" = "Ops, alguna cosa ha anat malament";
+"common_ok" = "D'acord";
+
+"splash_loading" = "Carregant";
+
+"signIn_title" = "Iniciar Sessió";
+"signIn_email_title" = "Adreça de correu electrònic";
+"signIn_email_placeholder" = "Introdueix el correu electrònic";
+"signIn_password_title" = "Introdueix la contrasenya";
+"signIn_password_placeholder" = "Introdueix la contrasenya";
+"signIn_password_forgot" = "Has oblidat la contrasenya?";
+"signIn_action_signIn" = "Inicia Sessió";
+"signIn_action_signUp" = "Registra't";
+"signIn_signInWith" = "Inicia sessió amb";
+"signIn_noAccount" = "No tens un compte?";
+"signIn_error_invalidEmail" = "Introdueix una adreça de correu electrònic vàlida";
+"signIn_error_userNotFound" = "Introdueix un correu electrònic i una contrasenya vàlids";
+"signIn_error_wrongPassword" = "Introdueix la contrasenya correcta";
+"signIn_welcome" = "Benvingut de nou!";
+"signIn_ask" = "Introdueix les teves dades de sessió";
+"signInLogInWith" = "Inicia sessió amb.";
+
+"signUp_title" = "Registra't";
+"signUp_email_title" = "Adreça de correu electrònic";
+"signUp_email_placeholder" = "Introdueix la teva adreça de correu electrònic";
+"signUp_password_title" = "Contrasenya";
+"signUp_password_placeholder" = "Introdueix la teva contrasenya";
+"signUp_password_requirements" = "Les contrasenyes han de tenir un mínim de 8 caràcters i incloure almenys una lletra majúscula (A-Z), una lletra minúscula (a-z), un número (0-9) i un caràcter especial (per exemple, ! % @ o #).";
+"signUp_confirmPassword_title" = "Confirmació de la contrasenya";
+"signUp_confirmPassword_placeholder" = "Introdueix la confirmació de la teva contrasenya";
+"signUp_action_signUp" = "Registra't";
+"signUp_action_signIn" = "Inicia Sessió";
+"signUp_signInWith" = "Inicia sessió amb";
+"signUp_haveAccount" = "Ja tens un compte?";
+"signUp_error_invalidEmail" = "Introdueix una adreça de correu electrònic vàlida";
+"signUp_error_existUser" = "Ja existeix un compte amb aquesta adreça de correu electrònic";
+"signUp_error_noPasswordRequirements" = "La contrasenya ha de complir els requisits de contrasenya";
+"signUp_error_passwordsMismatch" = "Les contrasenyes han de coincidir";
+
+"dashboard_title" = "Panell";
+"dashboard_welcome_title" = "Endinsa't en el futur de la col·lecció de targetes";
+"dashboard_welcome_description" = "Escaneja una targeta per ampliar la teva col·lecció";
+"dashboard_scanInstructions" = "Toca per començar a escanejar la teva targeta.";
+"dashboard_currentValue" = "Valor Actual";
+"dashboard_highestValue" = "Valor Més Alt";
+"dashboard_recentlyAdded" = "Afegit Recentment";
+"dashboard_action_scanCard" = "Escaneja la Targeta";
+
+"portfolio_title" = "Portafoli";
+"portfolio_scanInstructions" = "Toca per obrir l'escàner i la teva primera targeta";
+"portfolio_collection_create" = "Crea Col·lecció";
+"portfolio_deck_create" = "Crea Baralla";
+"portfolio_deck_description" = "Baralla de joc de cartes intercanviables";
+"portfolio_collection_description" = "Col·lecció Personalitzada";
+"portfolio_cards" = "Targetes";
+"portfolio_oneCard" = "1 Targeta";
+"portfolio_numberOfCards" = "%d Targetes";
+"portfolio_allCards" = "Totes les Targetes";
+"portfolio_estimatedValue" = "Valor Estimat Total";
+"portfolio_scanToAdd" = "Escaneja una targeta per afegir a la teva col·lecció";
+
+"more_title" = "Més";
+"more_item_cardCategories" = "Categories de Targetes";
+"more_item_updatePassword" = "Actualitza la Contrasenya";
+"more_item_privacyPolicy" = "Política de Privacitat";
+"more_item_termsAndConditions" = "Condicions d'Ús";
+"more_item_pushNotifications" = "Activa les Notificacions Push";
+"more_item_logout" = "Tanca Sessió";
+"more_item_deleteAccount" = "Elimina el Compte";
+
+"cardCategories_title" = "Categories de Targetes";
+"cardCategories_description" = "Si us plau, selecciona els tipus de targetes que desitges incloure en el teu portafoli i escàner";
+"cardCategories_minEnabledCategories" = "Has de mantenir almenys una categoria activa.";
+"createDeck_title" = "Crea una Nova Baralla";
+"createDeck_deckName_title" = "Posa un nom a la teva baralla";
+"createDeck_deckName_placeholder" = "Introdueix un nom";
+"createDeck_deckType_title" = "Tipus de Baralla";
+"createDeck_deckType_select" = "Selecciona una categoria de targetes";
+"createDeck_description_title" = "Descripció (opcional)";
+"createDeck_description_placeholder" = "Introdueix una descripció per a la teva Baralla";
+"createDeck_action_create" = "Crea";
+
+"cardDeck_noCards" = "No hi ha targetes en aquesta baralla";
+"cardDeck_action_addCards" = "Afegeix Targetes";
+
+"editCardSet_menu_addCards" = "Afegeix Targetes";
+"editCardSet_menu_removeCards" = "Elimina Targetes";
+"editCardSet_menu_sortCards" = "Ordena Targetes";
+"editCardSet_menu_totalPrice" = "Estimació de Preu Total";
+"editCardSet_menu_renameCollection" = "Reanomena la Col·lecció";
+"editCardSet_menu_deleteCollection" = "Elimina la Col·lecció";
+"editCardSet_menu_editDeck" = "Edita la Baralla";
+"editCardSet_menu_deleteDeck" = "Elimina la Baralla";
+
+"editDeck_title" = "Actualitza la Baralla";
+
+"legalityOption_standard" = "Estàndard";
+"legalityOption_pioneer" = "Pioner";
+"legalityOption_modern" = "Modern";
+"legalityOption_legacy" = "Llegat";
+"legalityOption_vintage" = "Vintage";
+"legalityOption_commander" = "Comandant";
+"legalityOption_oathbreaker" = "Trencajuraments";
+"legalityOption_alchemy" = "Alquímia";
+"legalityOption_explorer" = "Explorador";
+"legalityOption_brawl" = "Baralla";
+"legalityOption_historic" = "Històric";
+"legalityOption_pauper" = "Pauper";
+"legalityOption_penny" = "Penic";
+
+"cardLegality_legal" = "Legal";
+"cardLegality_notLegal" = "No Legal";
+
+"magicCard_color_white" = "Blanc";
+"magicCard_color_blue" = "Blau";
+"magicCard_color_black" = "Negre";
+"magicCard_color_red" = "Vermell";
+"magicCard_color_green" = "Verd";
+"magicCard_color_colorless" = "Incolor";
+
+"alert_noInternetConnection_title" = "Problema de Connectivitat";
+"alert_noInternetConnection_message" = "Sembla que la connexió a Internet està fora de línia ☹️";
+"alert_needRecentLogin_title" = "Torna a autenticar-te";
+"alert_needRecentLogin_message" = "Per eliminar un compte, es requereix una sessió recent";
+"alert_needRecentLogin_action_logOut" = "Tanca Sessió";

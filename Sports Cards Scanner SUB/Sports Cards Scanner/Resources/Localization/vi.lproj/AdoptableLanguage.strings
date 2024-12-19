@@ -1,0 +1,287 @@
+"common_close"="Đóng";
+"common_cancel"="Hủy bỏ";
+"common_done"="Xong";
+"common_reset"="Cài lại";
+"common_error"="Rất tiếc, đã xảy ra lỗi";
+"common_ok"="Được rồi";
+
+"splash_loading"="Đang tải";
+
+"signIn_title"="Đăng nhập";
+"signIn_email_title"="Địa chỉ email";
+"signIn_email_placeholder"="Nhập email";
+"signIn_password_title"="Nhập mật khẩu";
+"signIn_password_placeholder"="Nhập mật khẩu";
+"signIn_password_forgot"="Quên mật khẩu?";
+"signIn_action_signIn"="Đăng nhập";
+"signIn_action_signUp"="Đăng ký";
+"signIn_signInWith"="Đăng nhập với";
+"signIn_noAccount"="Bạn chưa có tài khoản?";
+"signIn_action_signUp"="Đăng ký";
+"signIn_error_invalidEmail"="Vui lòng nhập địa chỉ email hợp lệ";
+"signIn_error_userNotFound"="Vui lòng nhập email và mật khẩu hợp lệ";
+"signIn_error_wrongPassword"="Vui lòng nhập đúng mật khẩu";
+"signIn_welcome"="Chào mừng trở lại!";
+"signIn_ask"="Vui lòng nhập thông tin đăng nhập của bạn";
+"signInLogInWith"="Đăng nhập với.";
+
+"signUp_title"="Đăng ký";
+"signUp_email_title"="Địa chỉ email";
+"signUp_email_placeholder"="nhập địa chỉ email của bạn";
+"signUp_password_title"="Mật khẩu";
+"signUp_password_placeholder"="Nhập mật khẩu của bạn";
+"signUp_password_requirements"="Mật khẩu phải dài tối thiểu 8 ký tự và bao gồm ít nhất một chữ cái viết hoa (A-Z), một chữ cái viết thường (a-z), một số (0-9) và một ký tự đặc biệt (ví dụ: ! % @ hoặc #).";
+"signUp_confirmPassword_title"="xác nhận mật khẩu";
+"signUp_confirmPassword_placeholder"="Nhập xác nhận mật khẩu của bạn";
+"signUp_action_signUp"="Đăng ký";
+"signUp_action_signIn"="Đăng nhập";
+"signUp_signInWith"="Đăng nhập với";
+"signUp_haveAccount"="Bạn co săn san để tạo một tai khoản?";
+"signUp_error_invalidEmail"="Vui lòng nhập địa chỉ email hợp lệ";
+"signUp_error_existUser"="Một tài khoản đã tồn tại với địa chỉ email này";
+"signUp_error_noPasswordRequirements"="Mật khẩu phải đáp ứng yêu cầu về mật khẩu";
+"signUp_error_passwordsMismatch"="mật khẩu phải trùng khớp";
+
+"dashboard_title"="bảng điều khiển";
+"dashboard_welcome_title"="Bước vào tương lai của bộ sưu tập thẻ";
+"dashboard_welcome_description"="Quét thẻ để mở rộng bộ sưu tập của bạn";
+"dashboard_scanInstructions"="Nhấn để bắt đầu quét thẻ của bạn.";
+"dashboard_currentValue"="Giá trị hiện tại";
+"dashboard_highestValue"="Giá trị cao nhất";
+"dashboard_recentlyAdded"="Đã thêm gần đây";
+"dashboard_action_scanCard"="Quét thẻ";
+
+"portfolio_title"="danh mục đầu tư";
+"portfolio_scanInstructions"="Nhấn để mở máy quét và thẻ đầu tiên của bạn";
+"portfolio_collection_create"="Tạo bộ sưu tập";
+"portfolio_deck_create"="Tạo bộ bài";
+"portfolio_deck_description"="Bộ bài chơi bài trao đổi";
+"portfolio_collection_description"="Bộ sưu tập tùy chỉnh";
+"portfolio_cards"="thẻ";
+"portfolio_oneCard"="1 thẻ";
+"portfolio_numberOfCards"="Thẻ %d";
+"portfolio_allCards"="Tất cả các thẻ";
+"portfolio_estimatedValue"="Tổng giá trị ước tính";
+"portfolio_scanToAdd"="Quét thẻ để thêm vào bộ sưu tập của bạn";
+
+"more_title"="Hơn";
+"more_item_cardCategories"="Danh mục thẻ";
+"more_item_updatePassword"="Cập nhật mật khẩu";
+"more_item_privacyPolicy"="Chính sách bảo mật";
+"more_item_termsAndConditions"="Điều khoản sử dụng";
+"more_item_pushNotifications"="Bật thông báo đẩy";
+"more_item_logout"="Đăng xuất";
+"more_item_deleteAccount"="Xóa tài khoản";
+
+"cardCategories_title"="Danh mục thẻ";
+"cardCategories_description"="Vui lòng chọn loại thẻ bạn muốn đưa vào danh mục đầu tư và máy quét của mình";
+"cardCategories_minEnabledCategories"="Bạn cần duy trì ít nhất một danh mục đang hoạt động.";
+
+"updatePassword_title"="Cập nhật mật khẩu";
+"updatePassword_newPassword_title"="Tạo mật khẩu mới";
+"updatePassword_newPassword_placeholder"="Nhập mật khẩu mới";
+"updatePassword_confirmNewPassword_title"="Xác nhận mật khẩu mới";
+"updatePassword_confirmNewPassword_placeholder"="Nhập lại mật khẩu mới";
+"updatePassword_newPassword_requirements"="Mật khẩu phải dài tối thiểu 8 ký tự và bao gồm ít nhất một chữ cái viết hoa (A-Z), một chữ cái viết thường (a-z), một số (0-9) và một ký tự đặc biệt (ví dụ: ! % @ hoặc #).";
+"updatePassword_newPassword_cut1"="8 ký tự";
+"updatePassword_newPassword_cut2"="một chữ cái viết hoa";
+"updatePassword_newPassword_cut3"="một chữ cái viết thường";
+"updatePassword_newPassword_cut4"="một số";
+"updatePassword_newPassword_cut5"="một ký tự đặc biệt";
+"updatePassword_action_save"="Cứu";
+"updatePassword_error_noPasswordRequirements"="Mật khẩu phải đáp ứng yêu cầu về mật khẩu";
+"updatePassword_error_passwordsMismatch"="mật khẩu phải trùng khớp";
+"updatePassword_error_needReauthenticate"="Vui lòng xác thực lại để thay đổi mật khẩu của bạn";
+
+"cardCategory_baseball"="Bóng chày";
+"cardCategory_pokemon"="Pokemon";
+"cardCategory_basketball"="Bóng rổ";
+"cardCategory_football"="Bóng đá";
+"cardCategory_magic"="Phép thuật: Sự tụ tập";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Khúc côn cầu";
+"cardCategory_soccer"="Bóng đá";
+
+"forgotPassword_title"="Quên mật khẩu";
+"forgotPassword_description"="Nhập địa chỉ email cho tài khoản của bạn và chúng tôi sẽ gửi cho bạn hướng dẫn để đặt lại mật khẩu";
+"forgotPassword_email_title"="Địa chỉ email";
+"forgotPassword_email_placeholder"="nhập địa chỉ email của bạn";
+"forgotPassword_action_send"="Gửi";
+"forgotPassword_error_userNotFound"="Không có người dùng nào có địa chỉ email này";
+"forgotPassword_error_invalidEmail"="Vui lòng nhập địa chỉ email hợp lệ";
+
+"resetPassword_title"="Đặt lại mật khẩu";
+"resetPassword_emailSent"="Hướng dẫn đặt lại mật khẩu đã được gửi tới địa chỉ email: %@";
+
+"scanCard_cardSide_front"="Mặt trước thẻ";
+"scanCard_noAuthorization_title"="Cho phép %@ truy cập vào máy ảnh của bạn";
+"scanCard_noAuthorization_description"="Điều này cho phép bạn quét thẻ";
+"scanCard_action_openSettings"="Mở cài đặt";
+"scanCard_gradeType_graded"="Đã chấm điểm";
+"scanCard_gradeType_raw"="thô";
+
+"prompt_action_cancel"="Hủy bỏ";
+"prompt_title"="Bạn có chắc không?";
+"prompt_logout_description"="Bạn có chắc chắn muốn xóa tài khoản của mình không?";
+"prompt_logout_confirmAction"="Đăng xuất";
+"prompt_deleteAccount_description"="Xóa bộ sưu tập sẽ không xóa thẻ; họ sẽ ở lại trong danh mục đầu tư của bạn.";
+"prompt_deleteAccount_keepAction"="Giữ";
+"prompt_deleteAccount_sure"="Bạn có chắc chắn muốn xóa tài khoản của mình không?";
+"prompt_deleteAccount_confirmAction"="Xóa bỏ";
+"prompt_deleteCollection_description"="Xóa bộ sưu tập sẽ không xóa các thẻ trong bộ sưu tập. Các thẻ sẽ vẫn còn trong danh mục đầu tư của bạn.";
+"prompt_deleteCollection_keepAction"="Giữ";
+"prompt_deleteCollection_confirmAction"="Xóa bỏ";
+"prompt_deleteDeck_description"="Xóa bộ bài sẽ không xóa các lá bài trong bộ bài. Các thẻ sẽ vẫn còn trong danh mục đầu tư của bạn.";
+"prompt_deleteDeck_keepAction"="Giữ";
+"prompt_deleteDeck_confirmAction"="Xóa bỏ";
+"prompt_removeCard_description"="Bạn sắp xóa thẻ này khỏi danh mục đầu tư của mình. Thẻ này sẽ cần được quét lại để thêm lại vào danh mục đầu tư của bạn.";
+"prompt_removeCard_keepAction"="Giữ";
+"prompt_removeCard_confirmAction"="Di dời";
+
+"identifyingCard_title"="Đã bắt được thẻ %@";
+"identifyingCard_processTitle"="Thẻ nhận dạng...";
+"identifyingCard_action_cancel"="Hủy quét";
+
+"searchCard_title"="Thẻ tìm kiếm";
+"searchCard_search_placeholder"="Tìm kiếm thẻ";
+"searchCard_error_tryAgain"="Thử lại! Tiếp tục tìm kiếm!";
+
+"card_missingImage"="Thiếu\nHình ảnh";
+
+"cardDetails_action_addCard"="Thêm vào danh mục đầu tư";
+"cardDetails_action_findCard"="Tìm thẻ";
+"cardDetails_action_editCard"="Chỉnh sửa thẻ & xếp hạng";
+"cardDetails_action_removeCard"="Xóa khỏi danh mục đầu tư";
+
+"pricingReport_setCustomPrice"="Đặt giá tùy chỉnh";
+"pricingReport_editCustomPrice"="Chỉnh sửa giá tùy chỉnh";
+"pricingReport_viewReport"="Xem báo cáo giá";
+"pricingReport_valueEstimating"="Giá trị ước tính đang chờ xử lý";
+
+"pricingReport_details_priceReport"="Báo cáo giá";
+"pricingReport_details_lastSoldPrice"="Giá bán cuối cùng";
+"pricingReport_details_lastSoldDate"="Ngày bán cuối cùng";
+"pricingReport_details_recentSales"="Bán hàng gần đây";
+"pricingReport_details_noSales"="Không có doanh số bán hàng gần đây";
+
+"cardDetail_year"="Năm thẻ";
+"cardDetail_cardNumber"="Thẻ #";
+"cardDetail_set"="Bộ";
+"cardDetail_series"="Loạt";
+"cardDetail_parallel"="Song song";
+"cardDetail_grade"="Cấp";
+"cardDetail_ungraded"="Chưa được xếp loại";
+"cardDetail_color"="Màu sắc";
+"cardDetail_colors"="Màu sắc";
+"cardDetail_type"="Kiểu";
+"cardDetail_manaValue"="Giá trị năng lượng";
+"cardDetail_power"="Quyền lực";
+"cardDetail_toughness"="độ dẻo dai";
+"cardDetail_rarity"="việc hiếm có";
+
+"recentlyAdded_title"="Thẻ được thêm gần đây";
+
+"highestValue_title"="Thẻ có giá trị cao nhất";
+
+"currentValue_title"="Giá trị hiện tại";
+"currentValue_valueByCategory"="Giá trị theo danh mục";
+
+"editCard_title"="Chỉnh sửa chi tiết";
+"editCard_parallel"="Song song";
+"editCard_grade"="Cấp";
+"editCard_customPrice"="Đặt giá tùy chỉnh";
+"editCard_action_updateDetails"="Cập nhật chi tiết";
+"editCard_valueEstimating"="Giá trị ước tính đang chờ xử lý";
+
+"parallelSelection_title"="Song song";
+"parallelSelection_search_placeholder"="Tìm kiếm";
+"parallelSelection_allOptions"="Tất cả các tùy chọn";
+"parallelSelection_missingSample"="Thiếu mẫu";
+"parallelSelection_noResult"="Không có kết quả nào được tìm thấy";
+"parallelSelection_action_none"="Không có";
+
+"gradeSelection_title"="Cấp";
+"gradeSelection_selectGrader"="Chọn học sinh";
+"gradeSelection_selectGrade"="Chọn lớp";
+
+"createCollection_title"="Tạo bộ sưu tập mới";
+"createCollection_collectionName_placeholder"="Đặt tên cho bộ sưu tập của bạn";
+"createCollection_action_create"="Tạo nên";
+
+"cardCollection_estimatedValue"="Giá trị ước tính";
+"cardCollection_noCards"="Bộ sưu tập này không có thẻ";
+"cardCollection_action_addCards"="Thêm thẻ";
+
+"addCards_title"="Thêm thẻ vào \"%@\"";
+"addCards_titleNoName_collection"="Thêm thẻ vào bộ sưu tập";
+"addCards_titleNoName_deck"="Thêm thẻ vào bộ bài";
+"addCards_oneCardSelected"="Đã chọn 1 lá bài";
+"addCards_numberOfCardsSelected"="%d Thẻ đã chọn";
+"addCards_action_selectAll"="Chọn tất cả";
+"addCards_allCards"="Tất cả các thẻ";
+"addCards_search_placeholder"="Tìm kiếm thẻ";
+"addCards_noResult"="Không có kết quả nào được tìm thấy";
+
+"sortCards_title"="Sắp xếp theo";
+"sortCards_option_dateRecent"="Ngày lưu: Gần đây-Cũ nhất";
+"sortCards_option_dateOldest"="Ngày lưu: Cũ nhất-Gần đây";
+"sortCards_option_nameDirect"="Tên thẻ: A-Z";
+"sortCards_option_nameReverse"="Tên thẻ: Z-A";
+"sortCards_option_yearRecent"="Năm thẻ: Gần đây-Cũ nhất";
+"sortCards_option_yearOldest"="Năm thẻ: Cũ nhất-Gần đây";
+
+"editCollection_title"="Cập nhật bộ sưu tập";
+"editCollection_collectionName_placeholder"="Đổi tên bộ sưu tập của bạn";
+
+"createDeck_title"="Tạo bộ bài mới";
+"createDeck_deckName_title"="Đặt tên cho bộ bài của bạn";
+"createDeck_deckName_placeholder"="Nhập tên";
+"createDeck_deckType_title"="Loại sàn";
+"createDeck_deckType_select"="Chọn danh mục thẻ";
+"createDeck_description_title"="Mô tả (không bắt buộc)";
+"createDeck_description_placeholder"="Nhập mô tả cho Bộ bài của bạn";
+"createDeck_action_create"="Tạo nên";
+
+"cardDeck_noCards"="Không có lá bài nào trong bộ bài này";
+"cardDeck_action_addCards"="Thêm thẻ";
+
+"editCardSet_menu_addCards"="Thêm thẻ";
+"editCardSet_menu_removeCards"="Xóa thẻ";
+"editCardSet_menu_sortCards"="Sắp xếp thẻ";
+"editCardSet_menu_totalPrice"="Tổng giá ước tính";
+"editCardSet_menu_renameCollection"="Đổi tên bộ sưu tập";
+"editCardSet_menu_deleteCollection"="Xóa bộ sưu tập";
+"editCardSet_menu_editDeck"="Chỉnh sửa bộ bài";
+"editCardSet_menu_deleteDeck"="Xóa bộ bài";
+
+"editDeck_title"="Cập nhật bộ bài";
+
+"legalityOption_standard"="Tiêu chuẩn";
+"legalityOption_pioneer"="Tiên phong";
+"legalityOption_modern"="Hiện đại";
+"legalityOption_legacy"="Di sản";
+"legalityOption_vintage"="Cổ điển";
+"legalityOption_commander"="Chỉ huy";
+"legalityOption_oathbreaker"="kẻ phá lời thề";
+"legalityOption_alchemy"="Giả kim thuật";
+"legalityOption_explorer"="nhà thám hiểm";
+"legalityOption_brawl"="ẩu đả";
+"legalityOption_historic"="Mang tính lịch sử";
+"legalityOption_pauper"="Người bần cùng";
+"legalityOption_penny"="Đồng xu";
+
+"cardLegality_legal"="Hợp pháp";
+"cardLegality_notLegal"="Không hợp pháp";
+
+"magicCard_color_white"="Trắng";
+"magicCard_color_blue"="Màu xanh da trời";
+"magicCard_color_black"="Đen";
+"magicCard_color_red"="Màu đỏ";
+"magicCard_color_green"="Màu xanh lá";
+"magicCard_color_colorless"="không màu";
+
+"alert_noInternetConnection_title"="Sự cố kết nối";
+"alert_noInternetConnection_message"="Kết nối Internet có vẻ ngoại tuyến ☹️";
+"alert_needRecentLogin_title"="Xác thực lại";
+"alert_needRecentLogin_message"="Để xóa tài khoản, cần phải đăng nhập gần đây";
+"alert_needRecentLogin_action_logOut"="Đăng xuất";

@@ -1,0 +1,287 @@
+"common_close"="Menutup";
+"common_cancel"="Membatalkan";
+"common_done"="Selesai";
+"common_reset"="Mengatur ulang";
+"common_error"="Ups! Ada yang tidak beres";
+"common_ok"="Oke";
+
+"splash_loading"="Memuat";
+
+"signIn_title"="Masuk";
+"signIn_email_title"="Alamat surel";
+"signIn_email_placeholder"="Masukan email";
+"signIn_password_title"="Masukkan kata kunci";
+"signIn_password_placeholder"="Masukkan kata kunci";
+"signIn_password_forgot"="Tidak ingat kata sandi?";
+"signIn_action_signIn"="Masuk";
+"signIn_action_signUp"="Mendaftar";
+"signIn_signInWith"="Masuk dengan";
+"signIn_noAccount"="Belum punya akun?";
+"signIn_action_signUp"="Mendaftar";
+"signIn_error_invalidEmail"="silakan isi alamat email";
+"signIn_error_userNotFound"="Silakan masukkan email dan kata sandi yang valid";
+"signIn_error_wrongPassword"="Silakan masukkan kata sandi yang benar";
+"signIn_welcome"="Selamat Datang kembali!";
+"signIn_ask"="Silakan masukkan detail login Anda";
+"signInLogInWith"="Masuk dengan.";
+
+"signUp_title"="Mendaftar";
+"signUp_email_title"="Alamat email";
+"signUp_email_placeholder"="Masukkan alamat email Anda";
+"signUp_password_title"="Kata sandi";
+"signUp_password_placeholder"="Masukkan kata sandi Anda";
+"signUp_password_requirements"="Kata sandi harus terdiri dari minimal 8 karakter dan mencakup setidaknya satu huruf besar (A-Z), satu huruf kecil (a-z), satu angka (0-9), dan satu karakter khusus (misalnya, !% @ atau #).";
+"signUp_confirmPassword_title"="konfirmasi kata kunci";
+"signUp_confirmPassword_placeholder"="Masukkan konfirmasi kata sandi Anda";
+"signUp_action_signUp"="Mendaftar";
+"signUp_action_signIn"="Masuk";
+"signUp_signInWith"="Masuk dengan";
+"signUp_haveAccount"="Sudah memiliki akun?";
+"signUp_error_invalidEmail"="silakan isi alamat email";
+"signUp_error_existUser"="Akun sudah ada dengan alamat email ini";
+"signUp_error_noPasswordRequirements"="Kata sandi harus memenuhi persyaratan kata sandi";
+"signUp_error_passwordsMismatch"="kata sandi harus cocok";
+
+"dashboard_title"="Dasbor";
+"dashboard_welcome_title"="Masuki masa depan pengumpulan kartu";
+"dashboard_welcome_description"="Pindai kartu untuk memperluas koleksi Anda";
+"dashboard_scanInstructions"="Ketuk untuk mulai memindai kartu Anda.";
+"dashboard_currentValue"="Nilai sekarang";
+"dashboard_highestValue"="Nilai Tertinggi";
+"dashboard_recentlyAdded"="Baru-baru ini ditambahkan";
+"dashboard_action_scanCard"="Pindai Kartu";
+
+"portfolio_title"="Portofolio";
+"portfolio_scanInstructions"="Ketuk untuk membuka pemindai dan kartu pertama Anda";
+"portfolio_collection_create"="Buat Koleksi";
+"portfolio_deck_create"="Buat Dek";
+"portfolio_deck_description"="Dek permainan kartu perdagangan";
+"portfolio_collection_description"="Koleksi Kustom";
+"portfolio_cards"="Kartu-kartu";
+"portfolio_oneCard"="1 Kartu";
+"portfolio_numberOfCards"="%d Kartu";
+"portfolio_allCards"="Semua Kartu";
+"portfolio_estimatedValue"="Nilai Estimasi Total";
+"portfolio_scanToAdd"="Pindai kartu untuk ditambahkan ke koleksi Anda";
+
+"more_title"="Lagi";
+"more_item_cardCategories"="Kategori Kartu";
+"more_item_updatePassword"="Perbarui Kata Sandi";
+"more_item_privacyPolicy"="Kebijakan pribadi";
+"more_item_termsAndConditions"="Syarat Penggunaan";
+"more_item_pushNotifications"="Aktifkan Pemberitahuan Push";
+"more_item_logout"="Keluar";
+"more_item_deleteAccount"="Hapus akun";
+
+"cardCategories_title"="Kategori Kartu";
+"cardCategories_description"="Silakan pilih jenis kartu yang ingin Anda sertakan dalam portofolio dan pemindai Anda";
+"cardCategories_minEnabledCategories"="Anda perlu mempertahankan setidaknya satu kategori aktif.";
+
+"updatePassword_title"="Perbarui Kata Sandi";
+"updatePassword_newPassword_title"="Buat kata sandi baru";
+"updatePassword_newPassword_placeholder"="Masukan kata sandi baru";
+"updatePassword_confirmNewPassword_title"="Konfirmasi password baru";
+"updatePassword_confirmNewPassword_placeholder"="Masukkan kembali kata sandi baru";
+"updatePassword_newPassword_requirements"="Kata sandi harus terdiri dari minimal 8 karakter dan mencakup setidaknya satu huruf besar (A-Z), satu huruf kecil (a-z), satu angka (0-9), dan satu karakter khusus (misalnya, !% @ atau #).";
+"updatePassword_newPassword_cut1"="8 karakter";
+"updatePassword_newPassword_cut2"="satu huruf besar";
+"updatePassword_newPassword_cut3"="satu huruf kecil";
+"updatePassword_newPassword_cut4"="satu nomor";
+"updatePassword_newPassword_cut5"="satu karakter khusus";
+"updatePassword_action_save"="Menyimpan";
+"updatePassword_error_noPasswordRequirements"="Kata sandi harus memenuhi persyaratan kata sandi";
+"updatePassword_error_passwordsMismatch"="kata sandi harus cocok";
+"updatePassword_error_needReauthenticate"="Harap autentikasi ulang untuk mengubah kata sandi Anda";
+
+"cardCategory_baseball"="Baseball";
+"cardCategory_pokemon"="Pokemon";
+"cardCategory_basketball"="Bola basket";
+"cardCategory_football"="Sepak bola";
+"cardCategory_magic"="Perkumpulan sihir";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Hoki";
+"cardCategory_soccer"="Sepak bola";
+
+"forgotPassword_title"="Tidak ingat kata sandi";
+"forgotPassword_description"="Masukkan alamat email akun Anda dan kami akan mengirimkan instruksi untuk mengatur ulang kata sandi Anda";
+"forgotPassword_email_title"="Alamat email";
+"forgotPassword_email_placeholder"="Masukkan alamat email Anda";
+"forgotPassword_action_send"="Mengirim";
+"forgotPassword_error_userNotFound"="Tidak ada pengguna dengan alamat email ini";
+"forgotPassword_error_invalidEmail"="silakan isi alamat email";
+
+"resetPassword_title"="Atur Ulang Kata Sandi";
+"resetPassword_emailSent"="Petunjuk pengaturan ulang kata sandi telah dikirim ke alamat email: %@";
+
+"scanCard_cardSide_front"="Bagian Depan Kartu";
+"scanCard_noAuthorization_title"="Izinkan %@ mengakses kamera Anda";
+"scanCard_noAuthorization_description"="Ini memungkinkan Anda memindai kartu";
+"scanCard_action_openSettings"="Buka Pengaturan";
+"scanCard_gradeType_graded"="Bertingkat";
+"scanCard_gradeType_raw"="Mentah";
+
+"prompt_action_cancel"="Membatalkan";
+"prompt_title"="Apa kamu yakin?";
+"prompt_logout_description"="Apakah Anda yakin ingin menghapus akun Anda?";
+"prompt_logout_confirmAction"="Keluar";
+"prompt_deleteAccount_description"="Menghapus koleksi tidak akan menghapus kartunya; mereka akan tetap berada di portofolio Anda.";
+"prompt_deleteAccount_keepAction"="Menyimpan";
+"prompt_deleteAccount_sure"="Apakah Anda yakin ingin menghapus akun Anda?";
+"prompt_deleteAccount_confirmAction"="Menghapus";
+"prompt_deleteCollection_description"="Menghapus koleksi tidak akan menghapus kartu dalam koleksi tersebut. Kartu-kartu tersebut akan tetap ada dalam portofolio Anda.";
+"prompt_deleteCollection_keepAction"="Menyimpan";
+"prompt_deleteCollection_confirmAction"="Menghapus";
+"prompt_deleteDeck_description"="Menghapus dek tidak akan menghapus kartu di dalam dek. Kartu-kartu tersebut akan tetap ada dalam portofolio Anda.";
+"prompt_deleteDeck_keepAction"="Menyimpan";
+"prompt_deleteDeck_confirmAction"="Menghapus";
+"prompt_removeCard_description"="Anda akan menghapus kartu ini dari portofolio Anda. Kartu ini perlu dipindai lagi untuk ditambahkan kembali ke portofolio Anda.";
+"prompt_removeCard_keepAction"="Menyimpan";
+"prompt_removeCard_confirmAction"="Menghapus";
+
+"identifyingCard_title"="%@ Kartu Diambil";
+"identifyingCard_processTitle"="Kartu identitas...";
+"identifyingCard_action_cancel"="Batalkan PINDAI";
+
+"searchCard_title"="Kartu Pencarian";
+"searchCard_search_placeholder"="Cari kartu";
+"searchCard_error_tryAgain"="Coba lagi! Terus mencari!";
+
+"card_missingImage"="Hilang\nGambar";
+
+"cardDetails_action_addCard"="Tambahkan ke Portofolio";
+"cardDetails_action_findCard"="Temukan Kartu";
+"cardDetails_action_editCard"="Edit Kartu & Nilai";
+"cardDetails_action_removeCard"="Hapus dari Portofolio";
+
+"pricingReport_setCustomPrice"="Tetapkan harga khusus";
+"pricingReport_editCustomPrice"="Edit harga khusus";
+"pricingReport_viewReport"="Lihat Laporan Harga";
+"pricingReport_valueEstimating"="Perkiraan Nilai Tertunda";
+
+"pricingReport_details_priceReport"="Laporan Harga";
+"pricingReport_details_lastSoldPrice"="Harga Jual Terakhir";
+"pricingReport_details_lastSoldDate"="Tanggal Penjualan Terakhir";
+"pricingReport_details_recentSales"="Penjualan Terkini";
+"pricingReport_details_noSales"="Tidak ada penjualan terbaru";
+
+"cardDetail_year"="Tahun Kartu";
+"cardDetail_cardNumber"="Kartu #";
+"cardDetail_set"="Mengatur";
+"cardDetail_series"="Seri";
+"cardDetail_parallel"="Paralel";
+"cardDetail_grade"="Nilai";
+"cardDetail_ungraded"="Tidak dinilai";
+"cardDetail_color"="Warna";
+"cardDetail_colors"="Warna";
+"cardDetail_type"="Jenis";
+"cardDetail_manaValue"="Nilai Mana";
+"cardDetail_power"="Kekuatan";
+"cardDetail_toughness"="Kekerasan";
+"cardDetail_rarity"="Keanehan";
+
+"recentlyAdded_title"="Kartu yang Baru Ditambahkan";
+
+"highestValue_title"="Kartu Nilai Tertinggi";
+
+"currentValue_title"="Nilai sekarang";
+"currentValue_valueByCategory"="Nilai berdasarkan Kategori";
+
+"editCard_title"="Sunting Detail";
+"editCard_parallel"="Paralel";
+"editCard_grade"="Nilai";
+"editCard_customPrice"="Tetapkan harga khusus";
+"editCard_action_updateDetails"="Perbarui Detail";
+"editCard_valueEstimating"="Perkiraan Nilai Tertunda";
+
+"parallelSelection_title"="Paralel";
+"parallelSelection_search_placeholder"="Mencari";
+"parallelSelection_allOptions"="Semua Pilihan";
+"parallelSelection_missingSample"="Sampel hilang";
+"parallelSelection_noResult"="Tidak ada hasil yang ditemukan";
+"parallelSelection_action_none"="Tidak ada";
+
+"gradeSelection_title"="Nilai";
+"gradeSelection_selectGrader"="Pilih Grader";
+"gradeSelection_selectGrade"="Pilih Kelas";
+
+"createCollection_title"="Buat Koleksi Baru";
+"createCollection_collectionName_placeholder"="Beri nama koleksi Anda";
+"createCollection_action_create"="Membuat";
+
+"cardCollection_estimatedValue"="Perkiraan Nilai";
+"cardCollection_noCards"="Koleksi ini tidak memiliki kartu";
+"cardCollection_action_addCards"="Tambahkan Kartu";
+
+"addCards_title"="Tambahkan Kartu ke \"%@\"";
+"addCards_titleNoName_collection"="Tambahkan Kartu ke Koleksi";
+"addCards_titleNoName_deck"="Tambahkan Kartu ke Dek";
+"addCards_oneCardSelected"="1 Kartu Dipilih";
+"addCards_numberOfCardsSelected"="%d Kartu Dipilih";
+"addCards_action_selectAll"="Pilih Semua";
+"addCards_allCards"="Semua Kartu";
+"addCards_search_placeholder"="Cari kartu";
+"addCards_noResult"="Tidak ada hasil yang ditemukan";
+
+"sortCards_title"="Sortir dengan";
+"sortCards_option_dateRecent"="Tanggal Tersimpan: Terbaru-Terlama";
+"sortCards_option_dateOldest"="Tanggal Tersimpan: Terlama-Terbaru";
+"sortCards_option_nameDirect"="Nama Kartu: A-Z";
+"sortCards_option_nameReverse"="Nama Kartu: Z-A";
+"sortCards_option_yearRecent"="Tahun Kartu: Terbaru-Terlama";
+"sortCards_option_yearOldest"="Tahun Kartu: Terlama-Terbaru";
+
+"editCollection_title"="Perbarui Koleksi";
+"editCollection_collectionName_placeholder"="Ganti nama koleksi Anda";
+
+"createDeck_title"="Buat Dek Baru";
+"createDeck_deckName_title"="Beri nama dek Anda";
+"createDeck_deckName_placeholder"="Masukkan nama";
+"createDeck_deckType_title"="Tipe Dek";
+"createDeck_deckType_select"="Pilih kategori kartu";
+"createDeck_description_title"="Deskripsi (opsional)";
+"createDeck_description_placeholder"="Masukkan deskripsi untuk Dek Anda";
+"createDeck_action_create"="Membuat";
+
+"cardDeck_noCards"="Tidak ada kartu di dek ini";
+"cardDeck_action_addCards"="Tambahkan Kartu";
+
+"editCardSet_menu_addCards"="Tambahkan Kartu";
+"editCardSet_menu_removeCards"="Hapus Kartu";
+"editCardSet_menu_sortCards"="Sortir Kartu";
+"editCardSet_menu_totalPrice"="Perkiraan Harga Total";
+"editCardSet_menu_renameCollection"="Ganti Nama Koleksi";
+"editCardSet_menu_deleteCollection"="Hapus Koleksi";
+"editCardSet_menu_editDeck"="Sunting Dek";
+"editCardSet_menu_deleteDeck"="Hapus Dek";
+
+"editDeck_title"="Perbarui Dek";
+
+"legalityOption_standard"="Standar";
+"legalityOption_pioneer"="Pelopor";
+"legalityOption_modern"="Modern";
+"legalityOption_legacy"="Warisan";
+"legalityOption_vintage"="Antik";
+"legalityOption_commander"="Komandan";
+"legalityOption_oathbreaker"="Pelanggar sumpah";
+"legalityOption_alchemy"="Alkimia";
+"legalityOption_explorer"="Penjelajah";
+"legalityOption_brawl"="Ribut";
+"legalityOption_historic"="Bersejarah";
+"legalityOption_pauper"="Orang miskin";
+"legalityOption_penny"="Sen dolar";
+
+"cardLegality_legal"="Hukum";
+"cardLegality_notLegal"="Tidak sah";
+
+"magicCard_color_white"="Putih";
+"magicCard_color_blue"="Biru";
+"magicCard_color_black"="Hitam";
+"magicCard_color_red"="Merah";
+"magicCard_color_green"="Hijau";
+"magicCard_color_colorless"="Tanpa warna";
+
+"alert_noInternetConnection_title"="Masalah Konektivitas";
+"alert_noInternetConnection_message"="Koneksi internet sepertinya offline ☹️";
+"alert_needRecentLogin_title"="Otentikasi ulang";
+"alert_needRecentLogin_message"="Untuk menghapus akun, diperlukan login terbaru";
+"alert_needRecentLogin_action_logOut"="Keluar";

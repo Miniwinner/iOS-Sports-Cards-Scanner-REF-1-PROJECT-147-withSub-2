@@ -1,0 +1,287 @@
+"common_close" = "關閉";
+"common_cancel" = "取消";
+"common_done" = "完成";
+"common_reset" = "重置";
+"common_error" = "糟糕，發生了一些錯誤";
+"common_ok" = "好";
+
+"splash_loading" = "加載中";
+
+"signIn_title" = "登入";
+"signIn_email_title" = "電子郵件地址";
+"signIn_email_placeholder" = "輸入電子郵件";
+"signIn_password_title" = "輸入密碼";
+"signIn_password_placeholder" = "輸入密碼";
+"signIn_password_forgot" = "忘記密碼？";
+"signIn_action_signIn" = "登入";
+"signIn_action_signUp" = "註冊";
+"signIn_signInWith" = "使用以下方式登入";
+"signIn_noAccount" = "沒有帳戶？";
+"signIn_action_signUp" = "註冊";
+"signIn_error_invalidEmail" = "請輸入有效的電子郵件地址";
+"signIn_error_userNotFound" = "請輸入有效的電子郵件和密碼";
+"signIn_error_wrongPassword" = "請輸入正確的密碼";
+"signIn_welcome" = "歡迎回來！";
+"signIn_ask" = "請輸入您的登入詳細信息";
+"signInLogInWith" = "使用以下方式登入。";
+
+"signUp_title" = "註冊";
+"signUp_email_title" = "電子郵件地址";
+"signUp_email_placeholder" = "輸入您的電子郵件地址";
+"signUp_password_title" = "密碼";
+"signUp_password_placeholder" = "輸入您的密碼";
+"signUp_password_requirements" = "密碼應至少包含 8 個字符，並且包括至少一個大寫字母 (A-Z)、一個小寫字母 (a-z)、一個數字 (0-9) 和一個特殊字符 (例如 ! % @ 或 #)。";
+"signUp_confirmPassword_title" = "確認密碼";
+"signUp_confirmPassword_placeholder" = "輸入您的密碼確認";
+"signUp_action_signUp" = "註冊";
+"signUp_action_signIn" = "登入";
+"signUp_signInWith" = "使用以下方式登入";
+"signUp_haveAccount" = "已有帳戶？";
+"signUp_error_invalidEmail" = "請輸入有效的電子郵件地址";
+"signUp_error_existUser" = "此電子郵件地址已經有帳戶";
+"signUp_error_noPasswordRequirements" = "密碼必須符合密碼要求";
+"signUp_error_passwordsMismatch" = "密碼必須匹配";
+
+"dashboard_title" = "儀表板";
+"dashboard_welcome_title" = "步入卡片收集的未來";
+"dashboard_welcome_description" = "掃描一張卡片來擴展您的收藏";
+"dashboard_scanInstructions" = "點擊開始掃描您的卡片。";
+"dashboard_currentValue" = "當前價值";
+"dashboard_highestValue" = "最高價值";
+"dashboard_recentlyAdded" = "最近添加";
+"dashboard_action_scanCard" = "掃描卡片";
+
+"portfolio_title" = "投資組合";
+"portfolio_scanInstructions" = "點擊打開掃描儀和您的第一張卡片";
+"portfolio_collection_create" = "創建收藏";
+"portfolio_deck_create" = "創建卡組";
+"portfolio_deck_description" = "交易卡片遊戲卡組";
+"portfolio_collection_description" = "自定義收藏";
+"portfolio_cards" = "卡片";
+"portfolio_oneCard" = "1 張卡片";
+"portfolio_numberOfCards" = "%d 張卡片";
+"portfolio_allCards" = "所有卡片";
+"portfolio_estimatedValue" = "總估價";
+"portfolio_scanToAdd" = "掃描一張卡片添加到您的收藏";
+
+"more_title" = "更多";
+"more_item_cardCategories" = "卡片分類";
+"more_item_updatePassword" = "更新密碼";
+"more_item_privacyPolicy" = "隱私政策";
+"more_item_termsAndConditions" = "使用條款";
+"more_item_pushNotifications" = "啟用推送通知";
+"more_item_logout" = "登出";
+"more_item_deleteAccount" = "刪除帳戶";
+
+"cardCategories_title" = "卡片分類";
+"cardCategories_description" = "請選擇您希望包含在投資組合和掃描儀中的卡片類型";
+"cardCategories_minEnabledCategories" = "您需要至少保持一個活動分類。";
+
+"updatePassword_title" = "更新密碼";
+"updatePassword_newPassword_title" = "創建新密碼";
+"updatePassword_newPassword_placeholder" = "輸入新密碼";
+"updatePassword_confirmNewPassword_title" = "確認新密碼";
+"updatePassword_confirmNewPassword_placeholder" = "重新輸入新密碼";
+"updatePassword_newPassword_requirements" = "密碼應至少包含 8 個字符，並且包括至少一個大寫字母 (A-Z)、一個小寫字母 (a-z)、一個數字 (0-9) 和一個特殊字符 (例如 ! % @ 或 #)。";
+"updatePassword_newPassword_cut1" = "8 個字符";
+"updatePassword_newPassword_cut2" = "一個大寫字母";
+"updatePassword_newPassword_cut3" = "一個小寫字母";
+"updatePassword_newPassword_cut4" = "一個數字";
+"updatePassword_newPassword_cut5" = "一個特殊字符";
+"updatePassword_action_save" = "保存";
+"updatePassword_error_noPasswordRequirements" = "密碼必須符合密碼要求";
+"updatePassword_error_passwordsMismatch" = "密碼必須匹配";
+"updatePassword_error_needReauthenticate" = "請重新身份驗證以更改您的密碼";
+
+"cardCategory_baseball" = "棒球";
+"cardCategory_pokemon" = "寶可夢";
+"cardCategory_basketball" = "籃球";
+"cardCategory_football" = "足球";
+"cardCategory_magic" = "魔法：聚會";
+"cardCategory_magic_short" = "MTG";
+"cardCategory_hockey" = "冰球";
+"cardCategory_soccer" = "足球";
+
+"forgotPassword_title" = "忘記密碼";
+"forgotPassword_description" = "輸入您的帳戶電子郵件地址，我們將向您發送重置密碼的說明";
+"forgotPassword_email_title" = "電子郵件地址";
+"forgotPassword_email_placeholder" = "輸入您的電子郵件地址";
+"forgotPassword_action_send" = "發送";
+"forgotPassword_error_userNotFound" = "沒有此電子郵件地址的用戶";
+"forgotPassword_error_invalidEmail" = "請輸入有效的電子郵件地址";
+
+"resetPassword_title" = "重置密碼";
+"resetPassword_emailSent" = "重置密碼的說明已發送至電子郵件地址：%@";
+
+"scanCard_cardSide_front" = "卡片正面";
+"scanCard_noAuthorization_title" = "允許 %@ 訪問您的相機";
+"scanCard_noAuthorization_description" = "這樣可以讓您掃描卡片";
+"scanCard_action_openSettings" = "打開設置";
+"scanCard_gradeType_graded" = "已分級";
+"scanCard_gradeType_raw" = "未分級";
+
+"prompt_action_cancel" = "取消";
+"prompt_title" = "你確定嗎？";
+"prompt_logout_description" = "您確定要刪除您的帳戶嗎？";
+"prompt_logout_confirmAction" = "登出";
+"prompt_deleteAccount_description" = "刪除收藏不會移除卡片；它們將保留在您的投資組合中。";
+"prompt_deleteAccount_keepAction" = "保留";
+"prompt_deleteAccount_sure" = "您確定要刪除您的帳戶嗎？";
+"prompt_deleteAccount_confirmAction" = "刪除";
+"prompt_deleteCollection_description" = "刪除收藏不會刪除收藏中的卡片。卡片將保留在您的投資組合中。";
+"prompt_deleteCollection_keepAction" = "保留";
+"prompt_deleteCollection_confirmAction" = "刪除";
+"prompt_deleteDeck_description" = "刪除卡組不會刪除卡組中的卡片。卡片將保留在您的投資組合中。";
+"prompt_deleteDeck_keepAction" = "保留";
+"prompt_deleteDeck_confirmAction" = "刪除";
+"prompt_removeCard_description" = "您將要從您的投資組合中移除此卡片。這張卡片需要再次掃描才能重新添加到您的投資組合中。";
+"prompt_removeCard_keepAction" = "保留";
+"prompt_removeCard_confirmAction" = "移除";
+
+"identifyingCard_title" = "%@ 卡片已捕獲";
+"identifyingCard_processTitle" = "正在識別卡片...";
+"identifyingCard_action_cancel" = "取消掃描";
+
+"searchCard_title" = "搜索卡片";
+"searchCard_search_placeholder" = "搜索卡片";
+"searchCard_error_tryAgain" = "再試一次！繼續搜索！";
+
+"card_missingImage" = "缺少\n圖片";
+
+"cardDetails_action_addCard" = "添加到投資組合";
+"cardDetails_action_findCard" = "查找卡片";
+"cardDetails_action_editCard" = "編輯卡片和評級";
+"cardDetails_action_removeCard" = "從投資組合中移除";
+
+"pricingReport_setCustomPrice" = "設置自定義價格";
+"pricingReport_editCustomPrice" = "編輯自定義價格";
+"pricingReport_viewReport" = "查看價格報告";
+"pricingReport_valueEstimating" = "價值估計中";
+
+"pricingReport_details_priceReport" = "價格報告";
+"pricingReport_details_lastSoldPrice" = "最後售價";
+"pricingReport_details_lastSoldDate" = "最後售出日期";
+"pricingReport_details_recentSales" = "最近銷售";
+"pricingReport_details_noSales" = "最近沒有銷售";
+
+"cardDetail_year" = "卡片年份";
+"cardDetail_cardNumber" = "卡片編號";
+"cardDetail_set" = "套裝";
+"cardDetail_series" = "系列";
+"cardDetail_parallel" = "平行";
+"cardDetail_grade" = "評級";
+"cardDetail_ungraded" = "未評級";
+"cardDetail_color" = "顏色";
+"cardDetail_colors" = "顏色";
+"cardDetail_type" = "類型";
+"cardDetail_manaValue" = "法力值";
+"cardDetail_power" = "力量";
+"cardDetail_toughness" = "韌性";
+"cardDetail_rarity" = "稀有度";
+
+"recentlyAdded_title" = "最近添加的卡片";
+
+"highestValue_title" = "最高價值卡片";
+
+"currentValue_title" = "當前價值";
+"currentValue_valueByCategory" = "按類別劃分的價值";
+
+"editCard_title" = "編輯詳細信息";
+"editCard_parallel" = "平行";
+"editCard_grade" = "評級";
+"editCard_customPrice" = "設置自定義價格";
+"editCard_action_updateDetails" = "更新詳細信息";
+"editCard_valueEstimating" = "價值估計中";
+
+"parallelSelection_title" = "平行";
+"parallelSelection_search_placeholder" = "搜索";
+"parallelSelection_allOptions" = "所有選項";
+"parallelSelection_missingSample" = "缺少樣本";
+"parallelSelection_noResult" = "未找到結果";
+"parallelSelection_action_none" = "無";
+
+"gradeSelection_title" = "評級";
+"gradeSelection_selectGrader" = "選擇評級員";
+"gradeSelection_selectGrade" = "選擇評級";
+
+"createCollection_title" = "創建新收藏";
+"createCollection_collectionName_placeholder" = "為您的收藏命名";
+"createCollection_action_create" = "創建";
+
+"cardCollection_estimatedValue" = "估計價值";
+"cardCollection_noCards" = "此收藏中沒有卡片";
+"cardCollection_action_addCards" = "添加卡片";
+
+"addCards_title" = "添加卡片到 \"%@\"";
+"addCards_titleNoName_collection" = "添加卡片到收藏";
+"addCards_titleNoName_deck" = "添加卡片到卡組";
+"addCards_oneCardSelected" = "已選擇 1 張卡片";
+"addCards_numberOfCardsSelected" = "已選擇 %d 張卡片";
+"addCards_action_selectAll" = "全選";
+"addCards_allCards" = "所有卡片";
+"addCards_search_placeholder" = "搜索卡片";
+"addCards_noResult" = "未找到結果";
+
+"sortCards_title" = "排序方式";
+"sortCards_option_dateRecent" = "保存日期：最近-最早";
+"sortCards_option_dateOldest" = "保存日期：最早-最近";
+"sortCards_option_nameDirect" = "卡片名稱：A-Z";
+"sortCards_option_nameReverse" = "卡片名稱：Z-A";
+"sortCards_option_yearRecent" = "卡片年份：最近-最早";
+"sortCards_option_yearOldest" = "卡片年份：最早-最近";
+
+"editCollection_title" = "更新收藏";
+"editCollection_collectionName_placeholder" = "重命名您的收藏";
+
+"createDeck_title" = "創建新卡組";
+"createDeck_deckName_title" = "命名您的卡組";
+"createDeck_deckName_placeholder" = "輸入名稱";
+"createDeck_deckType_title" = "卡組類型";
+"createDeck_deckType_select" = "選擇卡片分類";
+"createDeck_description_title" = "描述（可選）";
+"createDeck_description_placeholder" = "為您的卡組輸入描述";
+"createDeck_action_create" = "創建";
+
+"cardDeck_noCards" = "此卡組中沒有卡片";
+"cardDeck_action_addCards" = "添加卡片";
+
+"editCardSet_menu_addCards" = "添加卡片";
+"editCardSet_menu_removeCards" = "移除卡片";
+"editCardSet_menu_sortCards" = "排序卡片";
+"editCardSet_menu_totalPrice" = "總估價";
+"editCardSet_menu_renameCollection" = "重命名收藏";
+"editCardSet_menu_deleteCollection" = "刪除收藏";
+"editCardSet_menu_editDeck" = "編輯卡組";
+"editCardSet_menu_deleteDeck" = "刪除卡組";
+
+"editDeck_title" = "更新卡組";
+
+"legalityOption_standard" = "標準";
+"legalityOption_pioneer" = "先鋒";
+"legalityOption_modern" = "現代";
+"legalityOption_legacy" = "傳承";
+"legalityOption_vintage" = "古典";
+"legalityOption_commander" = "指揮官";
+"legalityOption_oathbreaker" = "誓約破壞者";
+"legalityOption_alchemy" = "鍊金術";
+"legalityOption_explorer" = "探險者";
+"legalityOption_brawl" = "爭鬥";
+"legalityOption_historic" = "歷史";
+"legalityOption_pauper" = "平民";
+"legalityOption_penny" = "便士";
+
+"cardLegality_legal" = "合法";
+"cardLegality_notLegal" = "不合法";
+
+"magicCard_color_white" = "白色";
+"magicCard_color_blue" = "藍色";
+"magicCard_color_black" = "黑色";
+"magicCard_color_red" = "紅色";
+"magicCard_color_green" = "綠色";
+"magicCard_color_colorless" = "無色";
+
+"alert_noInternetConnection_title" = "連接問題";
+"alert_noInternetConnection_message" = "似乎網絡連接已離線 ☹️";
+"alert_needRecentLogin_title" = "重新驗證";
+"alert_needRecentLogin_message" = "要刪除帳戶，需要最近的登入";
+"alert_needRecentLogin_action_logOut" = "登出";

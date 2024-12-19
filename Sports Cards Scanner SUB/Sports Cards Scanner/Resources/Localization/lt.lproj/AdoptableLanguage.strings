@@ -1,0 +1,287 @@
+"common_close"="Uždaryti";
+"common_cancel"="Atšaukti";
+"common_done"="padaryta";
+"common_reset"="Nustatyti iš naujo";
+"common_error"="Oi! Kažkas negerai";
+"common_ok"="Gerai";
+
+"splash_loading"="Įkeliama";
+
+"signIn_title"="Prisijungti";
+"signIn_email_title"="Elektroninio pašto adresas";
+"signIn_email_placeholder"="Įveskite el. pašto adresą";
+"signIn_password_title"="Įvesti slaptažodį";
+"signIn_password_placeholder"="Įvesti slaptažodį";
+"signIn_password_forgot"="Pamiršote slaptažodį?";
+"signIn_action_signIn"="Prisijungti";
+"signIn_action_signUp"="Registruotis";
+"signIn_signInWith"="Prisijungti su";
+"signIn_noAccount"="Neturite paskyros?";
+"signIn_action_signUp"="Registruotis";
+"signIn_error_invalidEmail"="Prašome įvesti galiojantį elektroninio pašto adresą";
+"signIn_error_userNotFound"="Įveskite galiojantį el. pašto adresą ir slaptažodį";
+"signIn_error_wrongPassword"="Įveskite teisingą slaptažodį";
+"signIn_welcome"="Sveikas sugrįžęs!";
+"signIn_ask"="Įveskite savo prisijungimo duomenis";
+"signInLogInWith"="Prisijungti su.";
+
+"signUp_title"="Registruotis";
+"signUp_email_title"="Elektroninio pašto adresas";
+"signUp_email_placeholder"="Įveskite savo elektroninio pašto adresą";
+"signUp_password_title"="Slaptažodis";
+"signUp_password_placeholder"="Įveskite savo slaptažodį";
+"signUp_password_requirements"="Slaptažodžiai turi būti mažiausiai 8 simbolių ilgio ir juose turi būti bent viena didžioji raidė (A–Z), viena mažoji raidė (a–z), vienas skaičius (0–9) ir vienas specialusis simbolis (pvz., ! % @ arba #).";
+"signUp_confirmPassword_title"="slaptažodžio patvirtinimas";
+"signUp_confirmPassword_placeholder"="Įveskite slaptažodžio patvirtinimą";
+"signUp_action_signUp"="Registruotis";
+"signUp_action_signIn"="Prisijungti";
+"signUp_signInWith"="Prisijungti su";
+"signUp_haveAccount"="Jau turite paskyrą?";
+"signUp_error_invalidEmail"="Prašome įvesti galiojantį elektroninio pašto adresą";
+"signUp_error_existUser"="Paskyra su šiuo el. pašto adresu jau yra";
+"signUp_error_noPasswordRequirements"="Slaptažodis turi atitikti slaptažodžio reikalavimus";
+"signUp_error_passwordsMismatch"="Slaptažodžiai turi sutapti";
+
+"dashboard_title"="Prietaisų skydelis";
+"dashboard_welcome_title"="Žingsnis į kortelių rinkimo ateitį";
+"dashboard_welcome_description"="Nuskaitykite kortelę, kad išplėstumėte kolekciją";
+"dashboard_scanInstructions"="Bakstelėkite, kad pradėtumėte nuskaityti kortelę.";
+"dashboard_currentValue"="Dabartinė vertė";
+"dashboard_highestValue"="Didžiausia vertė";
+"dashboard_recentlyAdded"="Paskutinės pridėtos";
+"dashboard_action_scanCard"="Nuskaitymo kortelė";
+
+"portfolio_title"="Portfelis";
+"portfolio_scanInstructions"="Bakstelėkite, kad atidarytumėte skaitytuvą ir pirmąją kortelę";
+"portfolio_collection_create"="Sukurti kolekciją";
+"portfolio_deck_create"="Sukurkite denį";
+"portfolio_deck_description"="Prekybos kortų žaidimų kaladė";
+"portfolio_collection_description"="Individualizuota kolekcija";
+"portfolio_cards"="Kortelės";
+"portfolio_oneCard"="1 kortelė";
+"portfolio_numberOfCards"="%d kortelės";
+"portfolio_allCards"="Visos kortelės";
+"portfolio_estimatedValue"="Bendra numatoma vertė";
+"portfolio_scanToAdd"="Nuskaitykite kortelę, kurią norite įtraukti į savo kolekciją";
+
+"more_title"="Daugiau";
+"more_item_cardCategories"="Kortelių kategorijos";
+"more_item_updatePassword"="Atnaujinti slaptažodį";
+"more_item_privacyPolicy"="Privatumo politika";
+"more_item_termsAndConditions"="Naudojimo sąlygos";
+"more_item_pushNotifications"="Įgalinti tiesioginius pranešimus";
+"more_item_logout"="Atsijungti";
+"more_item_deleteAccount"="Ištrinti paskyrą";
+
+"cardCategories_title"="Kortelių kategorijos";
+"cardCategories_description"="Pasirinkite kortelių tipus, kuriuos norite įtraukti į savo portfelį ir skaitytuvą";
+"cardCategories_minEnabledCategories"="Turite išlaikyti bent vieną aktyvią kategoriją.";
+
+"updatePassword_title"="Atnaujinti slaptažodį";
+"updatePassword_newPassword_title"="Sukurti naują slaptažodį";
+"updatePassword_newPassword_placeholder"="Įveskite naują slaptažodį";
+"updatePassword_confirmNewPassword_title"="Patvirtinti naują slaptažodį";
+"updatePassword_confirmNewPassword_placeholder"="Dar kartą įveskite naują slaptažodį";
+"updatePassword_newPassword_requirements"="Slaptažodžiai turi būti mažiausiai 8 simbolių ilgio ir juose turi būti bent viena didžioji raidė (A–Z), viena mažoji raidė (a–z), vienas skaičius (0–9) ir vienas specialusis simbolis (pvz., ! % @ arba #).";
+"updatePassword_newPassword_cut1"="8 simboliai";
+"updatePassword_newPassword_cut2"="viena didžioji raidė";
+"updatePassword_newPassword_cut3"="viena mažoji raidė";
+"updatePassword_newPassword_cut4"="vienas skaičius";
+"updatePassword_newPassword_cut5"="vienas ypatingas personažas";
+"updatePassword_action_save"="Sutaupyti";
+"updatePassword_error_noPasswordRequirements"="Slaptažodis turi atitikti slaptažodžio reikalavimus";
+"updatePassword_error_passwordsMismatch"="Slaptažodžiai turi sutapti";
+"updatePassword_error_needReauthenticate"="Atpažinkite iš naujo, kad pakeistumėte slaptažodį";
+
+"cardCategory_baseball"="Beisbolas";
+"cardCategory_pokemon"="Pokemonai";
+"cardCategory_basketball"="Krepšinis";
+"cardCategory_football"="Futbolas";
+"cardCategory_magic"="Magija: susibūrimas";
+"cardCategory_magic_short"="MTG";
+"cardCategory_hockey"="Ledo ritulys";
+"cardCategory_soccer"="Futbolas";
+
+"forgotPassword_title"="Pamiršote slaptažodį";
+"forgotPassword_description"="Įveskite paskyros el. pašto adresą ir atsiųsime instrukcijas, kaip iš naujo nustatyti slaptažodį";
+"forgotPassword_email_title"="Elektroninio pašto adresas";
+"forgotPassword_email_placeholder"="Įveskite savo elektroninio pašto adresą";
+"forgotPassword_action_send"="Siųsti";
+"forgotPassword_error_userNotFound"="Nėra naudotojų, turinčių šį el. pašto adresą";
+"forgotPassword_error_invalidEmail"="Prašome įvesti galiojantį elektroninio pašto adresą";
+
+"resetPassword_title"="Atstatyti slaptažodį";
+"resetPassword_emailSent"="Slaptažodžio nustatymo iš naujo instrukcijos išsiųstos el. pašto adresu: %@";
+
+"scanCard_cardSide_front"="Kortelės priekis";
+"scanCard_noAuthorization_title"="Leisti %@ pasiekti fotoaparatą";
+"scanCard_noAuthorization_description"="Tai leidžia nuskaityti korteles";
+"scanCard_action_openSettings"="Atidarykite Nustatymai";
+"scanCard_gradeType_graded"="Įvertintas";
+"scanCard_gradeType_raw"="Neapdorotas";
+
+"prompt_action_cancel"="Atšaukti";
+"prompt_title"="Ar tu tuo tikras?";
+"prompt_logout_description"="Ar tikrai norite pašalinti savo paskyrą?";
+"prompt_logout_confirmAction"="Atsijungti";
+"prompt_deleteAccount_description"="Ištrynus kolekciją kortelės nebus pašalintos; jie liks jūsų portfelyje.";
+"prompt_deleteAccount_keepAction"="Laikyti";
+"prompt_deleteAccount_sure"="Ar tikrai norite pašalinti savo paskyrą?";
+"prompt_deleteAccount_confirmAction"="Ištrinti";
+"prompt_deleteCollection_description"="Ištrynus kolekciją, kolekcijoje esančios kortelės nebus ištrintos. Kortelės liks jūsų portfelyje.";
+"prompt_deleteCollection_keepAction"="Laikyti";
+"prompt_deleteCollection_confirmAction"="Ištrinti";
+"prompt_deleteDeck_description"="Ištrynus kaladę, kortos iš kaladės nebus ištrintos. Kortelės liks jūsų portfelyje.";
+"prompt_deleteDeck_keepAction"="Laikyti";
+"prompt_deleteDeck_confirmAction"="Ištrinti";
+"prompt_removeCard_description"="Jūs ketinate pašalinti šią kortelę iš savo portfelio. Šią kortelę reikės dar kartą nuskaityti, kad ją būtų galima įtraukti į savo portfelį.";
+"prompt_removeCard_keepAction"="Laikyti";
+"prompt_removeCard_confirmAction"="Pašalinti";
+
+"identifyingCard_title"="%@ kortelė užfiksuota";
+"identifyingCard_processTitle"="Asmens tapatybės kortelė...";
+"identifyingCard_action_cancel"="Atšaukti SCAN";
+
+"searchCard_title"="Paieškos kortelė";
+"searchCard_search_placeholder"="Ieškokite kortelės";
+"searchCard_error_tryAgain"="Bandyk iš naujo! Ieškokite toliau!";
+
+"card_missingImage"="Trūksta\nVaizdo";
+
+"cardDetails_action_addCard"="Pridėti prie portfelio";
+"cardDetails_action_findCard"="Rasti kortelę";
+"cardDetails_action_editCard"="Redaguoti kortelę ir pažymį";
+"cardDetails_action_removeCard"="Pašalinti iš portfelio";
+
+"pricingReport_setCustomPrice"="Nustatykite pasirinktinę kainą";
+"pricingReport_editCustomPrice"="Redaguoti tinkintą kainą";
+"pricingReport_viewReport"="Peržiūrėkite kainų ataskaitą";
+"pricingReport_valueEstimating"="Laukiama vertės įvertinimo";
+
+"pricingReport_details_priceReport"="Kainų ataskaita";
+"pricingReport_details_lastSoldPrice"="Paskutinė pardavimo kaina";
+"pricingReport_details_lastSoldDate"="Paskutinio pardavimo data";
+"pricingReport_details_recentSales"="Naujausi pardavimai";
+"pricingReport_details_noSales"="Pastarųjų pardavimų nėra";
+
+"cardDetail_year"="Kortelės metai";
+"cardDetail_cardNumber"="Kortelė Nr.";
+"cardDetail_set"="Nustatyti";
+"cardDetail_series"="Serija";
+"cardDetail_parallel"="Lygiagretus";
+"cardDetail_grade"="Įvertinimas";
+"cardDetail_ungraded"="Negraduota";
+"cardDetail_color"="Spalva";
+"cardDetail_colors"="Spalvos";
+"cardDetail_type"="Tipas";
+"cardDetail_manaValue"="Mana vertė";
+"cardDetail_power"="Galia";
+"cardDetail_toughness"="Tvirtumas";
+"cardDetail_rarity"="Retenybė";
+
+"recentlyAdded_title"="Neseniai pridėtos kortelės";
+
+"highestValue_title"="Aukščiausios vertės kortelės";
+
+"currentValue_title"="Dabartinė vertė";
+"currentValue_valueByCategory"="Vertė pagal kategoriją";
+
+"editCard_title"="Redaguoti informaciją";
+"editCard_parallel"="Lygiagretus";
+"editCard_grade"="Įvertinimas";
+"editCard_customPrice"="Nustatykite pasirinktinę kainą";
+"editCard_action_updateDetails"="Atnaujinti išsamią informaciją";
+"editCard_valueEstimating"="Laukiama vertės įvertinimo";
+
+"parallelSelection_title"="Lygiagretus";
+"parallelSelection_search_placeholder"="Paieška";
+"parallelSelection_allOptions"="Visos parinktys";
+"parallelSelection_missingSample"="Trūksta pavyzdžio";
+"parallelSelection_noResult"="Nieko nerasta";
+"parallelSelection_action_none"="Nė vienas";
+
+"gradeSelection_title"="Įvertinimas";
+"gradeSelection_selectGrader"="Pasirinkite Greiderį";
+"gradeSelection_selectGrade"="Pasirinkite Įvertinimas";
+
+"createCollection_title"="Sukurti naują kolekciją";
+"createCollection_collectionName_placeholder"="Pavadinkite savo kolekciją";
+"createCollection_action_create"="Sukurti";
+
+"cardCollection_estimatedValue"="Numatoma vertė";
+"cardCollection_noCards"="Šioje kolekcijoje nėra kortelių";
+"cardCollection_action_addCards"="Pridėti korteles";
+
+"addCards_title"="Pridėti kortelių prie \"%@\"";
+"addCards_titleNoName_collection"="Pridėkite korteles prie kolekcijos";
+"addCards_titleNoName_deck"="Pridėkite kortų į kaladę";
+"addCards_oneCardSelected"="Pasirinkta 1 kortelė";
+"addCards_numberOfCardsSelected"="Pasirinkta %d kortelių";
+"addCards_action_selectAll"="Pasirinkti viską";
+"addCards_allCards"="Visos kortelės";
+"addCards_search_placeholder"="Ieškokite kortelės";
+"addCards_noResult"="Nieko nerasta";
+
+"sortCards_title"="Rūšiuoti pagal";
+"sortCards_option_dateRecent"="Išsaugojimo data: naujausias – seniausias";
+"sortCards_option_dateOldest"="Išsaugojimo data: seniausias – naujausias";
+"sortCards_option_nameDirect"="Kortelės pavadinimas: A-Z";
+"sortCards_option_nameReverse"="Kortelės pavadinimas: Z-A";
+"sortCards_option_yearRecent"="Kortelės metai: naujausi – seniausia";
+"sortCards_option_yearOldest"="Kortelės metai: seniausias – naujausias";
+
+"editCollection_title"="Atnaujinti kolekciją";
+"editCollection_collectionName_placeholder"="Pervardykite savo kolekciją";
+
+"createDeck_title"="Sukurkite naują denį";
+"createDeck_deckName_title"="Pavadinkite savo denį";
+"createDeck_deckName_placeholder"="Įveskite vardą";
+"createDeck_deckType_title"="Denio tipas";
+"createDeck_deckType_select"="Pasirinkite kortelės kategoriją";
+"createDeck_description_title"="Aprašymas (neprivaloma)";
+"createDeck_description_placeholder"="Įveskite savo denio aprašą";
+"createDeck_action_create"="Sukurti";
+
+"cardDeck_noCards"="Šioje kaladėje nėra kortų";
+"cardDeck_action_addCards"="Pridėti korteles";
+
+"editCardSet_menu_addCards"="Pridėti korteles";
+"editCardSet_menu_removeCards"="Pašalinti korteles";
+"editCardSet_menu_sortCards"="Rūšiuoti korteles";
+"editCardSet_menu_totalPrice"="Bendra kainos sąmata";
+"editCardSet_menu_renameCollection"="Pervardyti kolekciją";
+"editCardSet_menu_deleteCollection"="Ištrinti kolekciją";
+"editCardSet_menu_editDeck"="Redaguoti denį";
+"editCardSet_menu_deleteDeck"="Ištrinti denį";
+
+"editDeck_title"="Atnaujinti denį";
+
+"legalityOption_standard"="Standartinis";
+"legalityOption_pioneer"="Pionierius";
+"legalityOption_modern"="Modernus";
+"legalityOption_legacy"="Palikimas";
+"legalityOption_vintage"="Vintažinis";
+"legalityOption_commander"="vadas";
+"legalityOption_oathbreaker"="Priesaikos laužytojas";
+"legalityOption_alchemy"="Alchemija";
+"legalityOption_explorer"="Tyrinėtojas";
+"legalityOption_brawl"="Peštynės";
+"legalityOption_historic"="Istorinis";
+"legalityOption_pauper"="Vargšas";
+"legalityOption_penny"="Penny";
+
+"cardLegality_legal"="Teisinė";
+"cardLegality_notLegal"="Ne Legalus";
+
+"magicCard_color_white"="Baltas";
+"magicCard_color_blue"="Mėlyna";
+"magicCard_color_black"="Juoda";
+"magicCard_color_red"="Raudona";
+"magicCard_color_green"="Žalias";
+"magicCard_color_colorless"="Bespalvis";
+
+"alert_noInternetConnection_title"="Ryšio problema";
+"alert_noInternetConnection_message"="Atrodo, kad interneto ryšys neprisijungęs ☹️";
+"alert_needRecentLogin_title"="Iš naujo autentifikuoti";
+"alert_needRecentLogin_message"="Norint ištrinti paskyrą, būtinas naujausias prisijungimas";
+"alert_needRecentLogin_action_logOut"="Atsijungti";

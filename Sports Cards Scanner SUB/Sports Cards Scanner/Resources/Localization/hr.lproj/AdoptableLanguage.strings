@@ -1,0 +1,77 @@
+"common_close" = "Zatvori";
+"common_cancel" = "Odustani";
+"common_done" = "Gotovo";
+"common_reset" = "Resetiraj";
+"common_error" = "Ups, nešto je pošlo po zlu";
+"common_ok" = "U redu";
+
+"splash_loading" = "Učitavanje";
+
+"signIn_title" = "Prijavi se";
+"signIn_email_title" = "Email adresa";
+"signIn_email_placeholder" = "Unesite email";
+"signIn_password_title" = "Unesite lozinku";
+"signIn_password_placeholder" = "Unesite lozinku";
+"signIn_password_forgot" = "Zaboravili ste lozinku?";
+"signIn_action_signIn" = "Prijavi se";
+"signIn_action_signUp" = "Registriraj se";
+"signIn_signInWith" = "Prijavite se s";
+"signIn_noAccount" = "Nemate račun?";
+"signIn_error_invalidEmail" = "Unesite valjanu email adresu";
+"signIn_error_userNotFound" = "Unesite valjanu email adresu i lozinku";
+"signIn_error_wrongPassword" = "Unesite ispravnu lozinku";
+"signIn_welcome" = "Dobrodošli nazad!";
+"signIn_ask" = "Unesite svoje podatke za prijavu";
+"signInLogInWith" = "Prijavite se s";
+
+"signUp_title" = "Registriraj se";
+"signUp_email_title" = "Email adresa";
+"signUp_email_placeholder" = "Unesite svoju email adresu";
+"signUp_password_title" = "Lozinka";
+"signUp_password_placeholder" = "Unesite svoju lozinku";
+"signUp_password_requirements" = "Lozinke bi trebale imati najmanje 8 znakova i uključivati barem jedno veliko slovo (A-Z), jedno malo slovo (a-z), jedan broj (0-9) i jedan poseban znak (npr., ! % @ ili #).";
+"signUp_confirmPassword_title" = "Potvrda lozinke";
+"signUp_confirmPassword_placeholder" = "Unesite potvrdu lozinke";
+"signUp_action_signUp" = "Registriraj se";
+"signUp_action_signIn" = "Prijavi se";
+"signUp_signInWith" = "Prijavite se s";
+"signUp_haveAccount" = "Već imate račun?";
+"signUp_error_invalidEmail" = "Unesite valjanu email adresu";
+"signUp_error_existUser" = "Račun s ovom email adresom već postoji";
+"signUp_error_noPasswordRequirements" = "Lozinka mora zadovoljiti zahtjeve za lozinkom";
+"signUp_error_passwordsMismatch" = "Lozinke se moraju podudarati";
+
+"dashboard_title" = "Nadzorna ploča";
+"dashboard_welcome_title" = "Zakoračite u budućnost skupljanja kartica";
+"dashboard_welcome_description" = "Skenirajte karticu da biste proširili svoju kolekciju";
+"dashboard_scanInstructions" = "Dodirnite za početak skeniranja kartice.";
+"dashboard_currentValue" = "Trenutna vrijednost";
+"dashboard_highestValue" = "Najviša vrijednost";
+"dashboard_recentlyAdded" = "Nedavno dodano";
+"dashboard_action_scanCard" = "Skeniraj karticu";
+
+"portfolio_title" = "Portfelj";
+"portfolio_scanInstructions" = "Dodirnite za otvaranje skenera i svoju prvu karticu";
+"portfolio_collection_create" = "Kreiraj kolekciju";
+"portfolio_deck_create" = "Kreiraj špil";
+"portfolio_deck_description" = "Špil za igru sakupljanja kartica";
+"portfolio_collection_description" = "Prilagođena kolekcija";
+"portfolio_cards" = "Kartice";
+"portfolio_oneCard" = "1 kartica";
+"portfolio_numberOfCards" = "%d kartica";
+"portfolio_allCards" = "Sve kartice";
+"portfolio_estimatedValue" = "Ukupna procijenjena vrijednost";
+"portfolio_scanToAdd" = "Skenirajte karticu za dodavanje u svoju kolekciju";
+
+"more_title" = "Više";
+"more_item_cardCategories" = "Kategorije kartica";
+"more_item_updatePassword" = "Ažuriraj lozinku";
+"more_item_privacyPolicy" = "Politika privatnosti";
+"more_item_termsAndConditions" = "Uvjeti korištenja";
+"more_item_pushNotifications" = "Omogući push obavijesti";
+"more_item_logout" = "Odjavi se";
+"more_item_deleteAccount" = "Izbriši račun";
+
+"cardCategories_title" = "Kategorije kartica";
+"cardCategories_description" = "Molimo odaberite vrste kartica koje želite uključiti u svoj portfelj i skener";
+"cardCategories_minEnabledCategories" = "Morate imati barem jednu aktivnu kategoriju.";
